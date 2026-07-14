@@ -1,0 +1,285 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 1920 1080" data-theme="dark">
+  <style>
+        @font-face {
+            font-family: 'Inter';
+            src: url('assets/fonts/Inter-Regular.ttf') format('truetype');
+            font-weight: 400;
+            font-style: normal;
+            font-display: swap;
+        }
+        @font-face {
+            font-family: 'Inter';
+            src: url('assets/fonts/Inter-Bold.ttf') format('truetype');
+            font-weight: 600;
+            font-style: normal;
+            font-display: swap;
+        }
+        @font-face {
+            font-family: 'Inter';
+            src: url('assets/fonts/Inter-Bold.ttf') format('truetype');
+            font-weight: 800;
+            font-style: normal;
+            font-display: swap;
+        }
+        
+:root {
+    --background: #0f172a;
+    --panel: #1e293b;
+    --primary-text: #f1f5f9;
+    --muted-text: #94a3b8;
+    --inverse-text: #0f172a;
+    --border: #334155;
+    --shadow-color: #000000;
+    --icon-pad-bg: #1e293b;
+    --art-glow: #7dd3fc;
+    --art-glow-opacity: 0.18;
+    --art-sheen: #ffffff;
+    --art-sheen-opacity: 0.18;
+    --art-shadow: #000000;
+    --art-shadow-opacity: 0.28;
+    --art-muted-line: #64748b;
+    --art-panel-tint: #1e293b;
+    --font-family: 'Inter', 'Segoe UI', 'Kalam', Roboto, Helvetica, Arial, sans-serif;
+    --radius-xl: 16px;
+    --font-family-headline: 'Inter', 'Segoe UI', 'Kalam', Roboto, Helvetica, Arial, sans-serif;
+    --font-family-body: 'Inter', 'Segoe UI', 'Kalam', Roboto, Helvetica, Arial, sans-serif;
+    --font-heading: 'Inter', 'Segoe UI', 'Kalam', Roboto, Helvetica, Arial, sans-serif;
+    --font-body: 'Inter', 'Segoe UI', 'Kalam', Roboto, Helvetica, Arial, sans-serif;
+    --font-size-h1: 56px;
+    --font-size-h2: 40px;
+    --font-size-h3: 28px;
+    --font-size-body: 24px;
+    --font-size-caption: 18px;
+    --secondary-text: var(--muted-text);
+    --panel-border: var(--border);
+    --font-weight-normal: 400;
+    --font-weight-medium: 500;
+    --font-weight-semibold: 600;
+    --font-weight-bold: 700;
+    --spacing-gutter-pct: 0.07;
+    --spacing-top-pct: 0.15;
+    --spacing-bottom-pct: 0.07;
+    --spacing-title-y-pct: 0.055;
+    --accent-1: #60a5fa;
+    --accent-2: #4ade80;
+    --accent-3: #f97316;
+    --accent-4: #a78bfa;
+    --accent-5: #38bdf8;
+    --accent-6: #94a3b8;
+}
+:root[data-theme="dark"] {
+    --background: #0f172a;
+    --panel: #1e293b;
+    --primary-text: #f1f5f9;
+    --muted-text: #94a3b8;
+    --inverse-text: #0f172a;
+    --border: #334155;
+    --shadow-color: #000000;
+    --icon-pad-bg: #1e293b;
+    --art-glow: #7dd3fc;
+    --art-glow-opacity: 0.18;
+    --art-sheen: #ffffff;
+    --art-sheen-opacity: 0.18;
+    --art-shadow: #000000;
+    --art-shadow-opacity: 0.28;
+    --art-muted-line: #64748b;
+    --art-panel-tint: #1e293b;
+    --accent-1: #60a5fa;
+    --accent-2: #4ade80;
+    --accent-3: #f97316;
+    --accent-4: #a78bfa;
+    --accent-5: #38bdf8;
+    --accent-6: #94a3b8;
+}
+:root[data-theme="light"] {
+    --background: #f8fafc;
+    --panel: #ffffff;
+    --primary-text: #0f172a;
+    --muted-text: #64748b;
+    --inverse-text: #ffffff;
+    --border: #e2e8f0;
+    --shadow-color: #000000;
+    --icon-pad-bg: #1e293b;
+    --art-glow: #0891b2;
+    --art-glow-opacity: 0.10;
+    --art-sheen: #ffffff;
+    --art-sheen-opacity: 0.34;
+    --art-shadow: #0f172a;
+    --art-shadow-opacity: 0.14;
+    --art-muted-line: #94a3b8;
+    --art-panel-tint: #f1f5f9;
+    --accent-1: #2563eb;
+    --accent-2: #16a34a;
+    --accent-3: #ea580c;
+    --accent-4: #7c3aed;
+    --accent-5: #0284c7;
+    --accent-6: #475569;
+}</style>
+  <rect x="0" y="0" width="1.92E+3" height="1.08E+3" fill="#252a34" stroke="none" id="programmatic_background"/>
+  <line id="HEADER_DECOR" x1="960.0" x2="1080.0" y1="105.0" y2="105.0" stroke="var(--accent-1)" stroke-width="6" stroke-linecap="round"/>
+  <defs>
+    <filter id="svg345895fc-glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="8" result="blur"/>
+      <feComposite in="SourceGraphic" in2="blur" operator="over"/>
+    </filter>
+    <filter id="svg345895fc-drop-shadow" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="0" dy="8" stdDeviation="6" flood-color="#000000" flood-opacity="0.25"/>
+    </filter>
+    <linearGradient id="svg345895fc-bg-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="var(--background)"/>
+      <stop offset="100%" stop-color="var(--panel)"/>
+    </linearGradient>
+    <pattern id="svg345895fc-dot-grid" x="0" y="0" width="40" height="40" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.5" fill="var(--muted-text)" opacity="0.1"/>
+    </pattern>
+    <linearGradient id="svg345895fc-fold_0" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="var(--accent-1)"/>
+      <stop offset="100%" stop-color="var(--accent-2)"/>
+    </linearGradient>
+    <linearGradient id="svg345895fc-fold_1" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="var(--accent-2)"/>
+      <stop offset="100%" stop-color="var(--accent-3)"/>
+    </linearGradient>
+    <linearGradient id="svg345895fc-fold_2" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="var(--accent-3)"/>
+      <stop offset="100%" stop-color="var(--accent-4)"/>
+    </linearGradient>
+    <radialGradient id="svg345895fc-universal-edge-vignette" cx="50%" cy="50%" r="72%">
+      <stop offset="0%" stop-color="var(--background)" stop-opacity="0"/>
+      <stop offset="72%" stop-color="var(--background)" stop-opacity="0.12"/>
+      <stop offset="100%" stop-color="var(--primary-text)" stop-opacity="0.08"/>
+    </radialGradient>
+    <linearGradient id="svg345895fc-universal-surface-sheen" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="var(--art-sheen)" stop-opacity="var(--art-sheen-opacity)"/>
+      <stop offset="46%" stop-color="var(--art-sheen)" stop-opacity="0.035"/>
+      <stop offset="100%" stop-color="var(--art-panel-tint)" stop-opacity="0.14"/>
+    </linearGradient>
+    <radialGradient id="svg345895fc-universal-icon-aura" cx="50%" cy="42%" r="64%">
+      <stop offset="0%" stop-color="var(--art-glow)" stop-opacity="var(--art-glow-opacity)"/>
+      <stop offset="100%" stop-color="var(--background)" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="svg345895fc-text-glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="0" stdDeviation="2" flood-color="#000000" flood-opacity="0.4"/>
+    </filter>
+    <filter id="svg345895fc-shadow" x="-30%" y="-30%" width="160%" height="160%">
+      <feDropShadow dx="0" dy="2" stdDeviation="3" flood-color="#000000" flood-opacity="0.08"/>
+      <feDropShadow dx="0" dy="6" stdDeviation="10" flood-color="#000000" flood-opacity="0.12"/>
+    </filter>
+    <marker id="svg345895fc-arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto" markerUnits="strokeWidth">
+      <polygon points="0 0, 10 3.5, 0 7" fill="var(--muted-text)" opacity="0.6"/>
+    </marker>
+  </defs>
+  <rect width="100%" height="100%" fill="var(--background)" id="CANVAS_BG"/>
+  <rect id="UNIVERSAL_EDGE_VIGNETTE" width="100%" height="100%" fill="url(#svg345895fc-universal-edge-vignette)" opacity="0.62"/>
+  <rect width="1920" height="1080" fill="url(#svg345895fc-bg-grad)"/>
+  <rect width="1920" height="1080" fill="url(#svg345895fc-dot-grid)"/>
+  <rect id="TITLE_FRAME" x="134" y="40" width="1652" height="70" fill="none" pointer-events="none"/>
+  <text id="TITLE" x="960.0" y="59" fill="#f1f5f9" font-family="var(--font-heading)" font-size="48" font-weight="900" text-anchor="middle" filter="url(#svg345895fc-drop-shadow)" style="font-size: 60px; font-family: Inter, Segoe UI, Kalam, Roboto, Helvetica, Arial, sans-serif; font-weight: 700; letter-spacing:-1.2px;" data-final-font-size="60">
+    <tspan x="960.0" dy="68.00px">Fraudulent Goals in Saint Lucia Scams</tspan>
+  </text>
+  <g id="DIAGRAM_MAIN">
+    <!-- Fold 0 -->
+    <polygon points="530.0,290.0 530.0,390.0 430.0,790.0 430.0,690.0" fill="url(#svg345895fc-fold_0)"/>
+    <polygon points="530.0,290.0 530.0,390.0 430.0,790.0 430.0,690.0" fill="#000" opacity="0.3"/>
+    <!-- Fold 1 -->
+    <polygon points="1010.0,690.0 1010.0,790.0 910.0,390.0 910.0,290.0" fill="url(#svg345895fc-fold_1)"/>
+    <polygon points="1010.0,690.0 1010.0,790.0 910.0,390.0 910.0,290.0" fill="#000" opacity="0.3"/>
+    <!-- Fold 2 -->
+    <polygon points="1490.0,290.0 1490.0,390.0 1390.0,790.0 1390.0,690.0" fill="url(#svg345895fc-fold_2)"/>
+    <polygon points="1490.0,290.0 1490.0,390.0 1390.0,790.0 1390.0,690.0" fill="#000" opacity="0.3"/>
+    <!-- Ribbon Segment 1 -->
+    <rect x="-50.0" y="290.0" width="580.0" height="100" rx="12" fill="var(--panel)" stroke="var(--accent-1)" stroke-width="4" filter="url(#svg345895fc-drop-shadow)"/>
+    <!-- Ribbon Segment 2 -->
+    <rect x="430.0" y="690.0" width="580.0" height="100" rx="12" fill="var(--panel)" stroke="var(--accent-2)" stroke-width="4" filter="url(#svg345895fc-drop-shadow)"/>
+    <!-- Ribbon Segment 3 -->
+    <rect x="910.0" y="290.0" width="580.0" height="100" rx="12" fill="var(--panel)" stroke="var(--accent-3)" stroke-width="4" filter="url(#svg345895fc-drop-shadow)"/>
+    <!-- Ribbon Segment 4 -->
+    <rect x="1390.0" y="690.0" width="580.0" height="100" rx="12" fill="var(--panel)" stroke="var(--accent-4)" stroke-width="4" filter="url(#svg345895fc-drop-shadow)"/>
+    <circle id="ITEM_1_BORDER" cx="20.0" cy="340" r="34" fill="var(--background)" stroke="var(--accent-1)" stroke-width="3" filter="url(#svg345895fc-glow)"/>
+    <circle id="ITEM_1_STROKE" cx="20.0" cy="340" r="40" fill="transparent" stroke="var(--accent-5)" stroke-width="2" stroke-dasharray="4 4" stroke-opacity="1.0"/>
+    <g id="ITEM_1_ICON" transform="translate(-4.0, 316)">
+      <g transform="translate(-2.831858407079646,-2.1238938053097334) scale(1.5103244837758112)" vector-effect="non-scaling-stroke" stroke-width="2.10" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="1.0">
+        <path d="M19 7V4a1 1 0 0 0-1-1H5a2 2 0 0 0 0 4h15a1 1 0 0 1 1 1v4h-3a2 2 0 0 0 0 4h3a1 1 0 0 0 1-1v-2a1 1 0 0 0-1-1" vector-effect="non-scaling-stroke" fill="none" stroke="var(--accent-5)"/>
+        <path d="M3 5v14a2 2 0 0 0 2 2h15a1 1 0 0 0 1-1v-4" vector-effect="non-scaling-stroke" fill="none" stroke="var(--accent-5)"/>
+      </g>
+    </g>
+    <circle id="ITEM_2_BORDER" cx="500.0" cy="740" r="34" fill="var(--background)" stroke="var(--accent-2)" stroke-width="3" filter="url(#svg345895fc-glow)"/>
+    <circle id="ITEM_2_STROKE" cx="500.0" cy="740" r="40" fill="transparent" stroke="var(--accent-6)" stroke-width="2" stroke-dasharray="4 4" stroke-opacity="1.0"/>
+    <g id="ITEM_2_ICON" transform="translate(476.0, 716)">
+      <g transform="translate(-1.3559322033898304,-1.3559322033898296) scale(1.4463276836158192)" vector-effect="non-scaling-stroke" stroke-width="2.10" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="1.0">
+        <path d="M16 10h2" vector-effect="non-scaling-stroke" fill="none" stroke="var(--accent-6)"/>
+        <path d="M16 14h2" vector-effect="non-scaling-stroke" fill="none" stroke="var(--accent-6)"/>
+        <path d="M6.17 15a3 3 0 0 1 5.66 0" vector-effect="non-scaling-stroke" fill="none" stroke="var(--accent-6)"/>
+        <circle cx="9" cy="11" r="2" vector-effect="non-scaling-stroke" fill="none" stroke="var(--accent-6)"/>
+        <rect x="2" y="5" width="20" height="14" rx="2" vector-effect="non-scaling-stroke" fill="none" stroke="var(--accent-6)"/>
+      </g>
+    </g>
+    <circle id="ITEM_3_BORDER" cx="980.0" cy="340" r="34" fill="var(--background)" stroke="var(--accent-3)" stroke-width="3" filter="url(#svg345895fc-glow)"/>
+    <circle id="ITEM_3_STROKE" cx="980.0" cy="340" r="40" fill="transparent" stroke="var(--accent-1)" stroke-width="2" stroke-dasharray="4 4" stroke-opacity="1.0"/>
+    <g id="ITEM_3_ICON" transform="translate(956.0, 316)">
+      <g transform="translate(-2.962962962962963,-4.592592592592592) scale(1.5802469135802468)" vector-effect="non-scaling-stroke" fill="var(--accent-1)" fill-opacity="1.0" stroke="none">
+        <path fill="var(--accent-1)" d="m21.8 17.8l-3.6-3.6c-.2-.1-.4-.2-.6-.2h-2.8c-.4 0-.8.4-.8.8v2.8c0 .2.1.4.2.6l3.6 3.6c.1.1.3.2.6.2c.2 0 .4-.1.6-.2l2.8-2.8c.1-.1.2-.3.2-.6c0-.2-.1-.4-.2-.6M15.4 16c-.3 0-.6-.3-.6-.6s.3-.6.6-.6s.6.3.6.6s-.3.6-.6.6M10 4C7.8 4 6 5.8 6 8s1.8 4 4 4s4-1.8 4-4s-1.8-4-4-4m0 10c-4.4 0-8 1.8-8 4v2h11.2l-.4-.4c-.5-.5-.8-1.2-.8-2v-2.8c0-.2 0-.4.1-.7c-.7-.1-1.4-.1-2.1-.1" vector-effect="non-scaling-stroke" stroke="none"/>
+      </g>
+    </g>
+    <circle id="ITEM_4_BORDER" cx="1460.0" cy="740" r="34" fill="var(--background)" stroke="var(--accent-4)" stroke-width="3" filter="url(#svg345895fc-glow)"/>
+    <circle id="ITEM_4_STROKE" cx="1460.0" cy="740" r="40" fill="transparent" stroke="var(--accent-2)" stroke-width="2" stroke-dasharray="4 4" stroke-opacity="1.0"/>
+    <g id="ITEM_4_ICON" transform="translate(1436.0, 716)">
+      <g transform="translate(-2.2857142857142856,-2.2857142857142856) scale(1.1428571428571428)">
+        <path d="M2 6C2 3.79086 3.79086 2 6 2H26C28.2091 2 30 3.79086 30 6V26C30 27.4806 29.1956 28.7733 28 29.4649L26.5537 28.9997C25.5578 28.6794 24.4759 28.762 23.5402 29.2299L22 30H19L16 28.5L13 30H10L8.45982 29.2299C7.52406 28.762 6.44223 28.6794 5.44626 28.9997L4 29.4649C2.8044 28.7733 2 27.4806 2 26V6Z" fill="#E1D8EC"/>
+        <path d="M10 11V21H2V22H10V30H11V22H21V30H22V22H30V21H22V11H30V10H22V2H21V10H11V2H10V10H2V11H10ZM11 11H21V21H11V11Z" fill="#B4ACBC"/>
+        <path d="M6 30H10V10.2135C10 9.54155 9.4527 9 8.77365 9H5.22635C4.5473 9 4 9.54155 4 10.2135V29.4649C4.58835 29.8052 5.27143 30 6 30Z" fill="#00D26A"/>
+        <path d="M17.7736 17H14.2264C13.5473 17 13 17.5417 13 18.2137V30H19V18.2137C19 17.5417 18.4527 17 17.7736 17Z" fill="#F70A8D"/>
+        <path d="M22 30H26C26.7286 30 27.4117 29.8052 28 29.4649V7.20899C28 6.53955 27.4527 6 26.7736 6H23.2264C22.5473 6 22 6.53955 22 7.20899V30Z" fill="#00A6ED"/>
+      </g>
+    </g>
+    <!-- Node 1 Text -->
+    <rect id="ITEM_1_HEAD_FRAME" x="40.0" y="165" width="400" height="35" fill="none" pointer-events="none"/>
+    <rect id="ITEM_1_BODY_FRAME" x="50" y="200" width="380" height="120" fill="none" pointer-events="none"/>
+    <rect id="ITEM_1_TEXT_BG" x="22.0" y="149.0" width="436.0" height="187.0" rx="22" fill="var(--panel)" fill-opacity="0.94" stroke="var(--primary-text)" stroke-opacity="0.12" stroke-width="1.5"/>
+    <text id="ITEM_1_HEAD" data-bg-id="ITEM_1_TEXT_BG" x="240.0" y="165.0" fill="var(--accent-5)" font-family="var(--font-heading)" font-size="26" font-weight="bold" text-anchor="middle" fill-opacity="1.0" stroke="none" style="font-size: 30px; font-family: Inter, Segoe UI, Kalam, Roboto, Helvetica, Arial, sans-serif; font-weight: 700; letter-spacing:-0.4px;" data-final-font-size="30">
+      <tspan x="240.0" dy="25.75px">Direct Money Theft</tspan>
+    </text>
+    <text id="ITEM_1_BODY" data-bg-id="ITEM_1_TEXT_BG" x="240.0" y="200.0" fill="var(--primary-text)" font-family="var(--font-body)" font-size="20" opacity="0.8" text-anchor="middle" style="font-size: 26px; font-family: Inter, Segoe UI, Kalam, Roboto, Helvetica, Arial, sans-serif; font-weight: 400;" data-final-font-size="26">
+      <tspan x="240.0" dy="26.86px">Scammers request direct</tspan>
+      <tspan x="240.0" dy="29.90px">payments or donations</tspan>
+      <tspan x="240.0" dy="29.90px">via personal messages</tspan>
+    </text>
+    <!-- Node 2 Text -->
+    <rect id="ITEM_2_HEAD_FRAME" x="520.0" y="810.0" width="400" height="40" fill="none" pointer-events="none"/>
+    <rect id="ITEM_2_BODY_FRAME" x="530" y="850.0" width="380" height="140" fill="none" pointer-events="none"/>
+    <rect id="ITEM_2_TEXT_BG" x="502.0" y="794.0" width="436.0" height="212.0" rx="22" fill="var(--panel)" fill-opacity="0.94" stroke="var(--primary-text)" stroke-opacity="0.12" stroke-width="1.5"/>
+    <text id="ITEM_2_HEAD" data-bg-id="ITEM_2_TEXT_BG" x="720.0" y="810.0" fill="var(--accent-6)" font-family="var(--font-heading)" font-size="26" font-weight="bold" text-anchor="middle" fill-opacity="1.0" stroke="none" style="font-size: 30px; font-family: Inter, Segoe UI, Kalam, Roboto, Helvetica, Arial, sans-serif; font-weight: 700; letter-spacing:-0.4px;" data-final-font-size="30">
+      <tspan x="720.0" dy="28.25px">Personal Data Harvesting</tspan>
+    </text>
+    <text id="ITEM_2_BODY" data-bg-id="ITEM_2_TEXT_BG" x="720.0" y="850.0" fill="var(--primary-text)" font-family="var(--font-body)" font-size="20" opacity="0.8" text-anchor="middle" style="font-size: 26px; font-family: Inter, Segoe UI, Kalam, Roboto, Helvetica, Arial, sans-serif; font-weight: 400;" data-final-font-size="26">
+      <tspan x="720.0" dy="30.86px">Fake websites collect</tspan>
+      <tspan x="720.0" dy="29.90px">passwords and identification</tspan>
+      <tspan x="720.0" dy="29.90px">numbers from victims</tspan>
+    </text>
+    <!-- Node 3 Text -->
+    <rect id="ITEM_3_HEAD_FRAME" x="1000.0" y="165" width="400" height="35" fill="none" pointer-events="none"/>
+    <rect id="ITEM_3_BODY_FRAME" x="1010" y="200" width="380" height="120" fill="none" pointer-events="none"/>
+    <rect id="ITEM_3_TEXT_BG" x="982.0" y="149.0" width="436.0" height="187.0" rx="22" fill="var(--panel)" fill-opacity="0.94" stroke="var(--primary-text)" stroke-opacity="0.12" stroke-width="1.5"/>
+    <text id="ITEM_3_HEAD" data-bg-id="ITEM_3_TEXT_BG" x="1200.0" y="165.0" fill="var(--accent-1)" font-family="var(--font-heading)" font-size="26" font-weight="bold" text-anchor="middle" fill-opacity="1.0" stroke="none" style="font-size: 30px; font-family: Inter, Segoe UI, Kalam, Roboto, Helvetica, Arial, sans-serif; font-weight: 700; letter-spacing:-0.4px;" data-final-font-size="30">
+      <tspan x="1200.0" dy="25.75px">Account Access</tspan>
+    </text>
+    <text id="ITEM_3_BODY" data-bg-id="ITEM_3_TEXT_BG" x="1200.0" y="200.0" fill="var(--primary-text)" font-family="var(--font-body)" font-size="20" opacity="0.8" text-anchor="middle" style="font-size: 26px; font-family: Inter, Segoe UI, Kalam, Roboto, Helvetica, Arial, sans-serif; font-weight: 400;" data-final-font-size="26">
+      <tspan x="1200.0" dy="26.86px">Phishing attacks target</tspan>
+      <tspan x="1200.0" dy="29.90px">sensitive banking and</tspan>
+      <tspan x="1200.0" dy="29.90px">financial account details</tspan>
+    </text>
+    <!-- Node 4 Text -->
+    <rect id="ITEM_4_HEAD_FRAME" x="1480.0" y="810.0" width="400" height="40" fill="none" pointer-events="none"/>
+    <rect id="ITEM_4_BODY_FRAME" x="1490" y="850.0" width="380" height="140" fill="none" pointer-events="none"/>
+    <rect id="ITEM_4_TEXT_BG" x="1462.0" y="794.0" width="436.0" height="212.0" rx="22" fill="var(--panel)" fill-opacity="0.94" stroke="var(--primary-text)" stroke-opacity="0.12" stroke-width="1.5"/>
+    <text id="ITEM_4_HEAD" data-bg-id="ITEM_4_TEXT_BG" x="1680.0" y="810.0" fill="var(--accent-2)" font-family="var(--font-heading)" font-size="26" font-weight="bold" text-anchor="middle" fill-opacity="1.0" stroke="none" style="font-size: 30px; font-family: Inter, Segoe UI, Kalam, Roboto, Helvetica, Arial, sans-serif; font-weight: 700; letter-spacing:-0.4px;" data-final-font-size="30">
+      <tspan x="1680.0" dy="28.25px">Investment Credibility</tspan>
+    </text>
+    <text id="ITEM_4_BODY" data-bg-id="ITEM_4_TEXT_BG" x="1680.0" y="850.0" fill="var(--primary-text)" font-family="var(--font-body)" font-size="20" opacity="0.8" text-anchor="middle" style="font-size: 26px; font-family: Inter, Segoe UI, Kalam, Roboto, Helvetica, Arial, sans-serif; font-weight: 400;" data-final-font-size="26">
+      <tspan x="1680.0" dy="30.86px">Government logos are used</tspan>
+      <tspan x="1680.0" dy="29.90px">to bypass investor skepticism</tspan>
+      <tspan x="1680.0" dy="29.90px">for fraud</tspan>
+    </text>
+  </g>
+</svg>
