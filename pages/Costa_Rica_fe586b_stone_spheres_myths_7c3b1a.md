@@ -344,89 +344,89 @@ Over time, unsupported claims about Atlantis, alien engineers and impossible tec
 The enduring lesson is that not every unanswered question is evidence of a hidden secret. Sometimes the most revealing explanation is also the simplest: the stone spheres are extraordinary because Indigenous Costa Rican societies created them, and recognising that achievement tells us far more about the past than any tale of lost continents or visitors from the stars.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://whc.unesco.org/en/list/1453/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: whc.unesco.org">[unesco.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">whc.unesco.org</span><span class="citation-popover-snippet">UNESCO World Heritage CentrePrecolumbian Chiefdom Settlements with Stone Spheres of...The spheres are distinctive for their perfection...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to Who Really Made Costa Rica&#x27;s Stone Spheres?. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to Who Really Made Costa Rica&#x27;s Stone Spheres?. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Frauds%2C+Myths%2C+and+Mysteries+by+Kenneth+L.+Feder&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Frauds, Myths, and Mysteries on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fpDtAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Frauds, Myths, and Mysteries" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Frauds%2C+Myths%2C+and+Mysteries+by+Kenneth+L.+Feder&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Frauds, Myths, and Mysteries">Frauds, Myths, and Mysteries</a>
-</h4>
-<p class="fr-book-author">By Kenneth L. Feder</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Frauds%2C+Myths%2C+and+Mysteries%3A+Science+and+Pseudoscience+in+Archaeology+Kenneth+Feder&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Frauds, Myths, and Mysteries: Science and Pseudoscience in Archaeology on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=auQIHwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Frauds, Myths, and Mysteries: Science and Pseudoscience in Archaeology" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Frauds%2C+Myths%2C+and+Mysteries%3A+Science+and+Pseudoscience+in+Archaeology+Kenneth+Feder&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Frauds, Myths, and Mysteries: Science and Pseudoscience in Archaeology">Frauds, Myths, and Mysteries: Science and Pseudoscience in Ar...</a>
+        </h4>
+        <p class="fr-book-author">By Kenneth Feder</p>
         
-<p class="fr-book-desc">Directly relevant to Atlantis and ancient-mystery claims around stone spheres.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Frauds%2C+Myths%2C+and+Mysteries+by+Kenneth+L.+Feder&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Directly relevant to Atlantis and ancient-mystery claims around stone spheres.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Frauds%2C+Myths%2C+and+Mysteries%3A+Science+and+Pseudoscience+in+Archaeology+Kenneth+Feder&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Fingerprints+of+the+Gods+by+Graham+Hancock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fingerprints of the Gods on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eTONEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Fingerprints of the Gods" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Fingerprints+of+the+Gods+by+Graham+Hancock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fingerprints of the Gods">Fingerprints of the Gods</a>
-</h4>
-<p class="fr-book-author">By Graham Hancock</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Fingerprints+of+the+Gods+Graham+Hancock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fingerprints of the Gods on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eTONEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Fingerprints of the Gods" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Fingerprints+of+the+Gods+Graham+Hancock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fingerprints of the Gods">Fingerprints of the Gods</a>
+        </h4>
+        <p class="fr-book-author">By Graham Hancock</p>
         
-<p class="fr-book-desc">Represents the broader genre that often appropriates sites like the stone spheres.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Fingerprints+of+the+Gods+by+Graham+Hancock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Represents the broader genre that often appropriates sites like the stone spheres.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Fingerprints+of+the+Gods+Graham+Hancock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Archaeology+by+Colin+Renfrew&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Archaeology on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=A4ltNAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Archaeology" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Archaeology+by+Colin+Renfrew&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Archaeology">Archaeology</a>
-</h4>
-<p class="fr-book-author">By Colin Renfrew, Paul G. Bahn et al.</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Archaeology+%3A+theories%2C+methods%2C+and+practice+Colin+Renfrew&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Archaeology : theories, methods, and practice on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/316824-M.jpg" alt="Cover for Archaeology : theories, methods, and practice" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Archaeology+%3A+theories%2C+methods%2C+and+practice+Colin+Renfrew&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Archaeology : theories, methods, and practice">Archaeology : theories, methods, and practice</a>
+        </h4>
+        <p class="fr-book-author">By Colin Renfrew, Paul Bahn</p>
         
-<p class="fr-book-desc">Provides the scientific framework for understanding real archaeological evidence.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Archaeology+by+Colin+Renfrew&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Provides the scientific framework for understanding real archaeological evidence.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Archaeology+%3A+theories%2C+methods%2C+and+practice+Colin+Renfrew&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Chariots+of+the+gods%3F.+by+Erich+von+Daniken&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Chariots of the gods?. on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Chariots+of+the+gods%3F.+by+Erich+von+Daniken&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Chariots of the gods?.">Chariots of the gods?.</a>
-</h4>
-<p class="fr-book-author">By Erich von Daniken</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Chariots+of+the+gods%3F.+Erich+von+Daniken&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Chariots of the gods?. on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Chariots+of+the+gods%3F.+Erich+von+Daniken&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Chariots of the gods?.">Chariots of the gods?.</a>
+        </h4>
+        <p class="fr-book-author">By Erich von Daniken</p>
         
-<p class="fr-book-desc">Relevant to alien-origin theories attached to archaeological monuments.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Chariots+of+the+gods%3F.+by+Erich+von+Daniken&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Relevant to alien-origin theories attached to archaeological monuments.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Chariots+of+the+gods%3F.+Erich+von+Daniken&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Frauds%2C+Myths%2C+and+Mysteries&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Frauds, Myths, and Mysteries</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Fingerprints+of+the+Gods&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Fingerprints of the Gods</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Archaeology&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Archaeology</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Frauds%2C+Myths%2C+and+Mysteries%3A+Science+and+Pseudoscience+in+Archaeology&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Frauds, Myths, and Mysteries: Science and Pseudoscience in Archaeology</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Fingerprints+of+the+Gods&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Fingerprints of the Gods</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Archaeology+%3A+theories%2C+methods%2C+and+practice&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Archaeology : theories, methods, and practice</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

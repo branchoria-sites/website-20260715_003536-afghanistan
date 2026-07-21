@@ -341,89 +341,89 @@ For Norway’s history of hoaxes and contested artefacts, these episodes remain 
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to How Fake Antiquities Borrowed Norway&#x27;s Past. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to How Fake Antiquities Borrowed Norway&#x27;s Past. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Frauds%2C+Myths%2C+and+Mysteries+by+Kenneth+L.+Feder&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Frauds, Myths, and Mysteries on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fpDtAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Frauds, Myths, and Mysteries" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Frauds%2C+Myths%2C+and+Mysteries+by+Kenneth+L.+Feder&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Frauds, Myths, and Mysteries">Frauds, Myths, and Mysteries</a>
-</h4>
-<p class="fr-book-author">By Kenneth L. Feder</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Frauds%2C+Myths%2C+and+Mysteries%3A+Science+and+Pseudoscience+in+Archaeology+Kenneth+Feder&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Frauds, Myths, and Mysteries: Science and Pseudoscience in Archaeology on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=auQIHwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Frauds, Myths, and Mysteries: Science and Pseudoscience in Archaeology" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Frauds%2C+Myths%2C+and+Mysteries%3A+Science+and+Pseudoscience+in+Archaeology+Kenneth+Feder&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Frauds, Myths, and Mysteries: Science and Pseudoscience in Archaeology">Frauds, Myths, and Mysteries: Science and Pseudoscience in Ar...</a>
+        </h4>
+        <p class="fr-book-author">By Kenneth Feder</p>
         
-<p class="fr-book-desc">Directly addresses fake antiquities and questionable discoveries.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Frauds%2C+Myths%2C+and+Mysteries+by+Kenneth+L.+Feder&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Directly addresses fake antiquities and questionable discoveries.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Frauds%2C+Myths%2C+and+Mysteries%3A+Science+and+Pseudoscience+in+Archaeology+Kenneth+Feder&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Extraordinary Popular Delusions and the Madness of Crowds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=JVwcP0fXmC4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Extraordinary Popular Delusions and the Madness of Crowds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Extraordinary Popular Delusions and the Madness of Crowds">Extraordinary Popular Delusions and the Madness of Crowds</a>
-</h4>
-<p class="fr-book-author">By Charles Mackay</p>
-<p class="fr-book-popularity">Rating: 4.0/5 from 5 Google Books ratings</p>
-<p class="fr-book-desc">Directly relevant to understanding why hoaxes gain traction.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-</a>
-</div>
-</div>
-</article>
-
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Viking+World+by+Stefan+Brink&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Viking World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=V97BhHp0-8cC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Viking World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Viking+World+by+Stefan+Brink&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Viking World">The Viking World</a>
-</h4>
-<p class="fr-book-author">By Stefan Brink, Neil Price</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=A+History+of+the+Vikings+Gwyn+Jones&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A History of the Vikings on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lD74bDG3O5oC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for A History of the Vikings" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=A+History+of+the+Vikings+Gwyn+Jones&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A History of the Vikings">A History of the Vikings</a>
+        </h4>
+        <p class="fr-book-author">By Gwyn Jones</p>
         
-<p class="fr-book-desc">Provides authentic context against which forged Norse artefacts are judged.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Viking+World+by+Stefan+Brink&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Provides historical background for runic and medieval claims.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=A+History+of+the+Vikings+Gwyn+Jones&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Archaeological+Theory+by+Matthew+Johnson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Archaeological Theory on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=N79xKpMEReAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Archaeological Theory" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Archaeological+Theory+by+Matthew+Johnson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Archaeological Theory">Archaeological Theory</a>
-</h4>
-<p class="fr-book-author">By Matthew Johnson</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Archaeological+Theory+Matthew+Johnson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Archaeological Theory on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=N79xKpMEReAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Archaeological Theory" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Archaeological+Theory+Matthew+Johnson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Archaeological Theory">Archaeological Theory</a>
+        </h4>
+        <p class="fr-book-author">By Matthew Johnson</p>
         
-<p class="fr-book-desc">Explains how experts evaluate authenticity and evidence.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Archaeological+Theory+by+Matthew+Johnson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Explains how experts evaluate authenticity and evidence.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Archaeological+Theory+Matthew+Johnson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Frauds%2C+Myths%2C+and+Mysteries&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Frauds, Myths, and Mysteries</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Extraordinary Popular Delusions and the Madness of Crowds</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Viking+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Viking World</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Invention+of+Tradition+Erik+Terence+Ranger+Hobsbawm&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Invention of Tradition on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Invention+of+Tradition+Erik+Terence+Ranger+Hobsbawm&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Invention of Tradition">The Invention of Tradition</a>
+        </h4>
+        <p class="fr-book-author">By Erik Terence Ranger Hobsbawm, Terence Ranger</p>
+        
+        <p class="fr-book-desc">Relevant to manufactured historical narratives and heritage claims.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Invention+of+Tradition+Erik+Terence+Ranger+Hobsbawm&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Frauds%2C+Myths%2C+and+Mysteries%3A+Science+and+Pseudoscience+in+Archaeology&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Frauds, Myths, and Mysteries: Science and Pseudoscience in Archaeology</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=A+History+of+the+Vikings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A History of the Vikings</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Archaeological+Theory&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Archaeological Theory</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

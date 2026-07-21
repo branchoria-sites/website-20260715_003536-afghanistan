@@ -323,89 +323,89 @@ For historians of Brazil, the Cohen Plan stands as one of the country's most con
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to How a Fake Plot Helped End Democracy. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to How a Fake Plot Helped End Democracy. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Extraordinary Popular Delusions and the Madness of Crowds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=JVwcP0fXmC4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Extraordinary Popular Delusions and the Madness of Crowds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Extraordinary Popular Delusions and the Madness of Crowds">Extraordinary Popular Delusions and the Madness of Crowds</a>
-</h4>
-<p class="fr-book-author">By Charles Mackay</p>
-<p class="fr-book-popularity">Rating: 4.0/5 from 5 Google Books ratings</p>
-<p class="fr-book-desc">Covers how societies embrace false beliefs and hoaxes.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-</a>
-</div>
-</div>
-</article>
-
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Dictator%27s+Handbook+by+Bruce+Bueno+de+Mesquita&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Dictator&#x27;s Handbook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UBY5DgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Dictator&#x27;s Handbook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Dictator%27s+Handbook+by+Bruce+Bueno+de+Mesquita&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Dictator&#x27;s Handbook">The Dictator&#x27;s Handbook</a>
-</h4>
-<p class="fr-book-author">By Bruce Bueno de Mesquita, Alastair Smith</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Voodoo+Histories+David+Aaronovitch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Voodoo Histories on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=icxkMJK-WmgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Voodoo Histories" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Voodoo+Histories+David+Aaronovitch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Voodoo Histories">Voodoo Histories</a>
+        </h4>
+        <p class="fr-book-author">By David Aaronovitch</p>
         
-<p class="fr-book-desc">Explains incentives behind power consolidation and political manipulation.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Dictator%27s+Handbook+by+Bruce+Bueno+de+Mesquita&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Connects closely to forged political threats.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Voodoo+Histories+David+Aaronovitch&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=On+Tyranny+by+Timothy+Snyder&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open On Tyranny on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=06E8DgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for On Tyranny" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=On+Tyranny+by+Timothy+Snyder&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="On Tyranny">On Tyranny</a>
-</h4>
-<p class="fr-book-author">By Timothy Snyder</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Manufacturing+Consent+Edward+S+Herman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Manufacturing Consent on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Kv_-bvCqgrEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Manufacturing Consent" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Manufacturing+Consent+Edward+S+Herman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Manufacturing Consent">Manufacturing Consent</a>
+        </h4>
+        <p class="fr-book-author">By Edward S Herman, Noam Chomsky</p>
         
-<p class="fr-book-desc">Addresses how democratic institutions can be undermined.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=On+Tyranny+by+Timothy+Snyder&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Explores how narratives gain legitimacy through institutions.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Manufacturing+Consent+Edward+S+Herman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Origins+Of+Totalitarianism+by+Hannah+Arendt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Origins Of Totalitarianism on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=zLrKGGxBKjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Origins Of Totalitarianism" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Origins+Of+Totalitarianism+by+Hannah+Arendt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Origins Of Totalitarianism">The Origins Of Totalitarianism</a>
-</h4>
-<p class="fr-book-author">By Hannah Arendt</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Dictator%27s+Handbook+Bruce+Bueno+de+Mesquita&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Dictator&#x27;s Handbook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UBY5DgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Dictator&#x27;s Handbook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Dictator%27s+Handbook+Bruce+Bueno+de+Mesquita&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Dictator&#x27;s Handbook">The Dictator&#x27;s Handbook</a>
+        </h4>
+        <p class="fr-book-author">By Bruce Bueno de Mesquita, Alastair Smith</p>
         
-<p class="fr-book-desc">Provides context for fear, propaganda and authoritarian rule.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Origins+Of+Totalitarianism+by+Hannah+Arendt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Explains incentives behind power consolidation and political manipulation.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Dictator%27s+Handbook+Bruce+Bueno+de+Mesquita&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Extraordinary Popular Delusions and the Madness of Crowds</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Dictator%27s+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Dictator&#x27;s books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=On+Tyranny&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">On Tyranny</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=On+Tyranny+Timothy+Snyder&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open On Tyranny on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=06E8DgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for On Tyranny" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=On+Tyranny+Timothy+Snyder&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="On Tyranny">On Tyranny</a>
+        </h4>
+        <p class="fr-book-author">By Timothy Snyder</p>
+        
+        <p class="fr-book-desc">Addresses how democratic institutions can be undermined.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=On+Tyranny+Timothy+Snyder&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Voodoo+Histories&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Voodoo Histories</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Manufacturing+Consent&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Manufacturing Consent</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Dictator%27s+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Dictator&#x27;s books</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

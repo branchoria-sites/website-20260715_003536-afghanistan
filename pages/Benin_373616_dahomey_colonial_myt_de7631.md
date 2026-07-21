@@ -349,89 +349,89 @@ The story of colonial myths about Dahomey is less about a single false claim tha
 For modern readers, the most useful lesson is that sensational accounts deserve scrutiny even when they contain genuine facts. The history of Dahomey shows how propaganda often works: not by inventing everything from nothing, but by selecting dramatic details, amplifying them and stripping away the context that would make them understandable.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.africanhistoryextra.com/p/the-kingdom-of-dahomey-and-the-atlantic" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: africanhistoryextra.com">[africanhistoryextra.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">africanhistoryextra.com</span><span class="citation-popover-title">the kingdom of dahomey and the atlantic</span><span class="citation-popover-snippet">African History ExtraThe kingdom of Dahomey and the Atlantic worldFeb 20, 2022 — The issue with contextualizing human sacrifice in west A...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to How Dahomey Became a Colonial Spectacle. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to How Dahomey Became a Colonial Spectacle. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Black+Spartacus+by+Sudhir+Hazareesingh&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Black Spartacus on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fISmDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Black Spartacus" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Black+Spartacus+by+Sudhir+Hazareesingh&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Black Spartacus">Black Spartacus</a>
-</h4>
-<p class="fr-book-author">By Sudhir Hazareesingh</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Black+Spartacus+Sudhir+Hazareesingh&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Black Spartacus on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fISmDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Black Spartacus" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Black+Spartacus+Sudhir+Hazareesingh&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Black Spartacus">Black Spartacus</a>
+        </h4>
+        <p class="fr-book-author">By Sudhir Hazareesingh</p>
         
-<p class="fr-book-desc">Examines Atlantic-world narratives and representations linked to the region.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Black+Spartacus+by+Sudhir+Hazareesingh&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Examines Atlantic-world narratives and representations linked to the region.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Black+Spartacus+Sudhir+Hazareesingh&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=King+Leopold%27s+Ghost+by+Adam+Hochschild&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open King Leopold&#x27;s Ghost on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=OS3wDZE2w0kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for King Leopold&#x27;s Ghost" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=King+Leopold%27s+Ghost+by+Adam+Hochschild&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="King Leopold&#x27;s Ghost">King Leopold&#x27;s Ghost</a>
-</h4>
-<p class="fr-book-author">By Adam Hochschild</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Fate+of+Africa+Martin+Meredith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Fate of Africa on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YcjJ10lhqIkC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Fate of Africa" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Fate+of+Africa+Martin+Meredith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Fate of Africa">The Fate of Africa</a>
+        </h4>
+        <p class="fr-book-author">By Martin Meredith</p>
         
-<p class="fr-book-desc">Illustrates how colonial propaganda and selective reporting shaped opinion.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=King+Leopold%27s+Ghost+by+Adam+Hochschild&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Provides context for colonial legacies across the continent.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Fate+of+Africa+Martin+Meredith&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Invention+of+Africa+by+V.+Y.+Mudimbe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Invention of Africa on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=-jwNAQAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Invention of Africa" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Invention+of+Africa+by+V.+Y.+Mudimbe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Invention of Africa">The Invention of Africa</a>
-</h4>
-<p class="fr-book-author">By V. Y. Mudimbe</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=King+Leopold%27s+Ghost+Adam+Hochschild&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open King Leopold&#x27;s Ghost on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=OS3wDZE2w0kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for King Leopold&#x27;s Ghost" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=King+Leopold%27s+Ghost+Adam+Hochschild&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="King Leopold&#x27;s Ghost">King Leopold&#x27;s Ghost</a>
+        </h4>
+        <p class="fr-book-author">By Adam Hochschild</p>
         
-<p class="fr-book-desc">Explores how Africa was constructed through colonial knowledge systems.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Invention+of+Africa+by+V.+Y.+Mudimbe&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Illustrates how colonial propaganda and selective reporting shaped opinion.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=King+Leopold%27s+Ghost+Adam+Hochschild&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Population+Statistics+in+the+Kingdom+of+Dahomey+by+Melville+Jean+Herskovits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Population Statistics in the Kingdom of Dahomey on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Population+Statistics+in+the+Kingdom+of+Dahomey+by+Melville+Jean+Herskovits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Population Statistics in the Kingdom of Dahomey">Population Statistics in the Kingdom of Dahomey</a>
-</h4>
-<p class="fr-book-author">By Melville Jean Herskovits</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Population+Statistics+in+the+Kingdom+of+Dahomey+Melville+Jean+Herskovits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Population Statistics in the Kingdom of Dahomey on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Population+Statistics+in+the+Kingdom+of+Dahomey+Melville+Jean+Herskovits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Population Statistics in the Kingdom of Dahomey">Population Statistics in the Kingdom of Dahomey</a>
+        </h4>
+        <p class="fr-book-author">By Melville Jean Herskovits</p>
         
-<p class="fr-book-desc">Directly addresses Dahomey&#x27;s institutions and society beyond colonial caricatures.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Population+Statistics+in+the+Kingdom+of+Dahomey+by+Melville+Jean+Herskovits&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Directly addresses Dahomey&#x27;s institutions and society beyond colonial caricatures.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Population+Statistics+in+the+Kingdom+of+Dahomey+Melville+Jean+Herskovits&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Black+Spartacus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Black Spartacus</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=King+Leopold%27s+Ghost&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">King Leopold&#x27;s Ghost</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Invention+of+Africa&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Invention of Africa</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Black+Spartacus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Black Spartacus</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Fate+of+Africa&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Fate of Africa</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=King+Leopold%27s+Ghost&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">King Leopold&#x27;s Ghost</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

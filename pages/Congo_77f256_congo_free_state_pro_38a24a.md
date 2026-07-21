@@ -336,89 +336,89 @@ In the broader history of Congo, the Congo Free State stands as a case where a c
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to How Leopold Sold Exploitation as Humanitarian Rule. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to How Leopold Sold Exploitation as Humanitarian Rule. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=King+Leopold%27s+Ghost+by+Adam+Hochschild&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open King Leopold&#x27;s Ghost on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=OS3wDZE2w0kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for King Leopold&#x27;s Ghost" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=King+Leopold%27s+Ghost+by+Adam+Hochschild&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="King Leopold&#x27;s Ghost">King Leopold&#x27;s Ghost</a>
-</h4>
-<p class="fr-book-author">By Adam Hochschild</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Scramble+For+Africa+Thomas+Pakenham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Scramble For Africa on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KwRMCgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Scramble For Africa" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Scramble+For+Africa+Thomas+Pakenham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Scramble For Africa">The Scramble For Africa</a>
+        </h4>
+        <p class="fr-book-author">By Thomas Pakenham</p>
         
-<p class="fr-book-desc">Directly addresses the propaganda, exploitation and exposure of the Congo Free State.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=King+Leopold%27s+Ghost+by+Adam+Hochschild&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Explains the imperial setting that enabled Leopold&#x27;s claims.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Scramble+For+Africa+Thomas+Pakenham&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Scramble+For+Africa+by+Thomas+Pakenham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Scramble For Africa on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KwRMCgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Scramble For Africa" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Scramble+For+Africa+by+Thomas+Pakenham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Scramble For Africa">The Scramble For Africa</a>
-</h4>
-<p class="fr-book-author">By Thomas Pakenham</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=King+Leopold%27s+Ghost+Adam+Hochschild&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open King Leopold&#x27;s Ghost on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=OS3wDZE2w0kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for King Leopold&#x27;s Ghost" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=King+Leopold%27s+Ghost+Adam+Hochschild&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="King Leopold&#x27;s Ghost">King Leopold&#x27;s Ghost</a>
+        </h4>
+        <p class="fr-book-author">By Adam Hochschild</p>
         
-<p class="fr-book-desc">Explains the imperial setting that enabled Leopold&#x27;s claims.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Scramble+For+Africa+by+Thomas+Pakenham&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Directly addresses the propaganda, exploitation and exposure of the Congo Free State.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=King+Leopold%27s+Ghost+Adam+Hochschild&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Congo+from+Leopold+to+Kabila+by+Georges+Nzongola-Ntalaja&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Congo from Leopold to Kabila on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5N160QEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Congo from Leopold to Kabila" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Congo+from+Leopold+to+Kabila+by+Georges+Nzongola-Ntalaja&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Congo from Leopold to Kabila">The Congo from Leopold to Kabila</a>
-</h4>
-<p class="fr-book-author">By Georges Nzongola-Ntalaja</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Congo+from+Leopold+to+Kabila+Georges+Nzongola-Ntalaja&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Congo from Leopold to Kabila on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5N160QEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Congo from Leopold to Kabila" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Congo+from+Leopold+to+Kabila+Georges+Nzongola-Ntalaja&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Congo from Leopold to Kabila">The Congo from Leopold to Kabila</a>
+        </h4>
+        <p class="fr-book-author">By Georges Nzongola-Ntalaja</p>
         
-<p class="fr-book-desc">Places the Congo Free State within the country&#x27;s wider history.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Congo+from+Leopold+to+Kabila+by+Georges+Nzongola-Ntalaja&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Places the Congo Free State within the country&#x27;s wider history.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Congo+from+Leopold+to+Kabila+Georges+Nzongola-Ntalaja&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Heart+of+Darkness+by+Joseph+Conrad&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Heart of Darkness on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=M3yIDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Heart of Darkness" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Heart+of+Darkness+by+Joseph+Conrad&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Heart of Darkness">Heart of Darkness</a>
-</h4>
-<p class="fr-book-author">By Joseph Conrad</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Heart+of+Darkness+Joseph+Conrad&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Heart of Darkness on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=M3yIDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Heart of Darkness" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Heart+of+Darkness+Joseph+Conrad&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Heart of Darkness">Heart of Darkness</a>
+        </h4>
+        <p class="fr-book-author">By Joseph Conrad</p>
         
-<p class="fr-book-desc">A contemporary literary reflection on the Congo Free State era.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Heart+of+Darkness+by+Joseph+Conrad&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">A contemporary literary reflection on the Congo Free State era.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Heart+of+Darkness+Joseph+Conrad&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=King+Leopold%27s+Ghost&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">King Leopold&#x27;s Ghost</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Scramble+For+Africa&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Scramble For Africa</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Congo+from+Leopold+to+Kabila&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Congo from Leopold to Kabila</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Scramble+For+Africa&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Scramble For Africa</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=King+Leopold%27s+Ghost&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">King Leopold&#x27;s Ghost</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Congo+from+Leopold+to+Kabila&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Congo from Leopold to Kabila</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

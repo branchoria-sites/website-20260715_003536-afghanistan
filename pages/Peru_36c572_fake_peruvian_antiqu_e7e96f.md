@@ -377,89 +377,72 @@ For Peru, the lasting lesson is that cultural heritage depends as much on contex
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to How Fake Peruvian Antiquities Enter the Market. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to How Fake Peruvian Antiquities Enter the Market. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Frauds%2C+Myths%2C+and+Mysteries%3A+Science+and+Pseudoscience+in+Archaeology+by+Kenneth+Feder&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Frauds, Myths, and Mysteries: Science and Pseudoscience in Archaeology on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=auQIHwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Frauds, Myths, and Mysteries: Science and Pseudoscience in Archaeology" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Frauds%2C+Myths%2C+and+Mysteries%3A+Science+and+Pseudoscience+in+Archaeology+by+Kenneth+Feder&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Frauds, Myths, and Mysteries: Science and Pseudoscience in Archaeology">Frauds, Myths, and Mysteries: Science and Pseudoscience in Ar...</a>
-</h4>
-<p class="fr-book-author">By Kenneth Feder</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Frauds%2C+Myths%2C+and+Mysteries%3A+Science+and+Pseudoscience+in+Archaeology+Kenneth+Feder&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Frauds, Myths, and Mysteries: Science and Pseudoscience in Archaeology on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=auQIHwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Frauds, Myths, and Mysteries: Science and Pseudoscience in Archaeology" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Frauds%2C+Myths%2C+and+Mysteries%3A+Science+and+Pseudoscience+in+Archaeology+Kenneth+Feder&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Frauds, Myths, and Mysteries: Science and Pseudoscience in Archaeology">Frauds, Myths, and Mysteries: Science and Pseudoscience in Ar...</a>
+        </h4>
+        <p class="fr-book-author">By Kenneth Feder</p>
         
-<p class="fr-book-desc">Covers forged artifacts and false archaeological claims.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Frauds%2C+Myths%2C+and+Mysteries%3A+Science+and+Pseudoscience+in+Archaeology+by+Kenneth+Feder&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Covers forged artifacts and false archaeological claims.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Frauds%2C+Myths%2C+and+Mysteries%3A+Science+and+Pseudoscience+in+Archaeology+Kenneth+Feder&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Archaeology+of+Knowledge+by+Michel+Foucault&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Archaeology of Knowledge on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5qnuAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Archaeology of Knowledge" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Archaeology+of+Knowledge+by+Michel+Foucault&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Archaeology of Knowledge">The Archaeology of Knowledge</a>
-</h4>
-<p class="fr-book-author">By Michel Foucault</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Stealing+History+Roger+Atwood&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Stealing History on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=qf6q5dIfBU0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Stealing History" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Stealing+History+Roger+Atwood&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Stealing History">Stealing History</a>
+        </h4>
+        <p class="fr-book-author">By Roger Atwood</p>
         
-<p class="fr-book-desc">Useful for thinking about how narratives acquire authority.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Archaeology+of+Knowledge+by+Michel+Foucault&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Directly addresses looting, provenance, and the antiquities market.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Stealing+History+Roger+Atwood&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Frauds%2C+myths%2C+and+mysteries+Kenneth+L.+Feder&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Frauds, myths, and mysteries on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/527319-M.jpg" alt="Cover for Frauds, myths, and mysteries" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Frauds%2C+myths%2C+and+mysteries+Kenneth+L.+Feder&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Frauds, myths, and mysteries">Frauds, myths, and mysteries</a>
-</h4>
-<p class="fr-book-author">By Kenneth L. Feder</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Archaeology+of+Knowledge+Michel+Foucault&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Archaeology of Knowledge on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5qnuAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Archaeology of Knowledge" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Archaeology+of+Knowledge+Michel+Foucault&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Archaeology of Knowledge">The Archaeology of Knowledge</a>
+        </h4>
+        <p class="fr-book-author">By Michel Foucault</p>
         
-<p class="fr-book-desc">First published 1990. Subjects: Forgery of antiquities, Archaeology, Arqueología, Archäologie, Irrtum.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Frauds%2C+myths%2C+and+mysteries+Kenneth+L.+Feder&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Useful for thinking about how narratives acquire authority.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Archaeology+of+Knowledge+Michel+Foucault&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Stealing+history+Roger+Atwood&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Stealing history on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/179948-M.jpg" alt="Cover for Stealing history" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Stealing+history+Roger+Atwood&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Stealing history">Stealing history</a>
-</h4>
-<p class="fr-book-author">By Roger Atwood</p>
-        
-<p class="fr-book-desc">First published 2004. Subjects: Protection, Cultural property, Art thefts, Archaeological thefts, Smuggling.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Stealing+history+Roger+Atwood&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Frauds%2C+Myths%2C+and+Mysteries%3A+Science+and+Pseudoscience+in+Archaeology&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Frauds, Myths, and Mysteries: Science and Pseudoscience in Archaeology</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Archaeology+of+Knowledge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Archaeology of Knowledge</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Frauds%2C+myths%2C+and+mysteries&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Frauds, myths, and mysteries</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Frauds%2C+Myths%2C+and+Mysteries%3A+Science+and+Pseudoscience+in+Archaeology&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Frauds, Myths, and Mysteries: Science and Pseudoscience in Archaeology</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Stealing+History&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Stealing History</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Archaeology+of+Knowledge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Archaeology of Knowledge</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

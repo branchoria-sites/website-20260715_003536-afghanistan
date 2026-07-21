@@ -329,89 +329,72 @@ The Kasai rex photographs are valuable not because they document an unknown anim
 The case shows how a fabricated image can exploit expectations, authority and repetition. A simple composite photograph, reproduced through newspapers and later through cryptozoological media, gave a doubtful tale decades of life. Within the wider history of Congo-related monster legends, the Kasai rex photographs stand as one of the clearest examples of photographic fakery creating evidence where none existed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cryptidarchives.fandom.com/wiki/Kasai_rex" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cryptidarchives.fandom.com">[fandom.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cryptidarchives.fandom.com</span><span class="citation-popover-snippet">Cryptid ArchivesKasai rex &#124; Encyclopaedia of Cryptozoology - FandomThe most famous of the hoaxed Kasai rex photographs, created by superi...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to How Fake Photos Created the Kasai Rex. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to How Fake Photos Created the Kasai Rex. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Abominable+Science%21+by+Daniel+Loxton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Abominable Science! on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kTsgAAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Abominable Science!" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Abominable+Science%21+by+Daniel+Loxton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Abominable Science!">Abominable Science!</a>
-</h4>
-<p class="fr-book-author">By Daniel Loxton, Donald R. Prothero</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Abominable+Science%21+Daniel+Loxton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Abominable Science! on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kTsgAAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Abominable Science!" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Abominable+Science%21+Daniel+Loxton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Abominable Science!">Abominable Science!</a>
+        </h4>
+        <p class="fr-book-author">By Daniel Loxton, Donald R. Prothero</p>
         
-<p class="fr-book-desc">Strong fit for a fabricated dinosaur-style monster story.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Abominable+Science%21+by+Daniel+Loxton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Strong fit for a fabricated dinosaur-style monster story.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Abominable+Science%21+Daniel+Loxton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Cryptozoologicon+by+John+Conway&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Cryptozoologicon on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=IqUnnwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Cryptozoologicon" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Cryptozoologicon+by+John+Conway&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cryptozoologicon">Cryptozoologicon</a>
-</h4>
-<p class="fr-book-author">By John Conway, C. M. Kosemen et al.</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Why People Believe Weird Things on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=RSqGDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Why People Believe Weird Things" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why People Believe Weird Things">Why People Believe Weird Things</a>
+        </h4>
+        <p class="fr-book-author">By Michael Shermer</p>
         
-<p class="fr-book-desc">Explores cryptid reports and evidential weaknesses.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Cryptozoologicon+by+John+Conway&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Explains how dubious claims and fake evidence persuade audiences.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Why People Believe Weird Things on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why People Believe Weird Things">Why People Believe Weird Things</a>
-</h4>
-<p class="fr-book-author">By Michael Shermer</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Cryptozoologicon+John+Conway&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Cryptozoologicon on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=IqUnnwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Cryptozoologicon" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Cryptozoologicon+John+Conway&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cryptozoologicon">Cryptozoologicon</a>
+        </h4>
+        <p class="fr-book-author">By John Conway, C. M. Kosemen et al.</p>
         
-<p class="fr-book-desc">Explains how dubious claims and fake evidence persuade audiences.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Explores cryptid reports and evidential weaknesses.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Cryptozoologicon+John+Conway&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-
-<article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Abominable+Science+Donald+R.+Prothero&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Abominable Science on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Abominable+Science+Donald+R.+Prothero&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Abominable Science">Abominable Science</a>
-</h4>
-<p class="fr-book-author">By Donald R. Prothero, Daniel Loxton</p>
-        
-<p class="fr-book-desc">First published 2012. Subjects: Animals, mythical.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Abominable+Science+Donald+R.+Prothero&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Abominable+Science%21&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Abominable Science!</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Cryptozoologicon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Cryptozoologicon</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Why People Believe Weird Things</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Abominable+Science%21&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Abominable Science!</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Why People Believe Weird Things</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Cryptozoologicon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Cryptozoologicon</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

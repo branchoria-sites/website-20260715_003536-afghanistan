@@ -356,89 +356,89 @@ The Sierra Leone mineral scam is not primarily a story about fake gold or fake d
 That combination explains why the schemes have survived for decades. They exploit a genuine mineral economy while targeting a universal weakness: the temptation to believe that extraordinary profits can be obtained through insider access. The forged export papers are effective because they mimic the appearance of official authority, transforming an implausible bargain into something that looks, at least on the surface, like a legitimate business opportunity. [Reuters+2National Minerals Agency](https://www.reuters.com/article/world/sierra-leones-cheap-gold-entices-the-gullible-idUSTRE7112F9/)
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to Why Sierra Leone&#x27;s Cheap Gold Deals Looked Real. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to Why Sierra Leone&#x27;s Cheap Gold Deals Looked Real. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Confidence+Game+by+Maria+Konnikova&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Confidence Game on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=zdVhCAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Confidence Game" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Confidence+Game+by+Maria+Konnikova&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Confidence Game">The Confidence Game</a>
-</h4>
-<p class="fr-book-author">By Maria Konnikova</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Extraordinary Popular Delusions and the Madness of Crowds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=JVwcP0fXmC4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Extraordinary Popular Delusions and the Madness of Crowds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Extraordinary Popular Delusions and the Madness of Crowds">Extraordinary Popular Delusions and the Madness of Crowds</a>
+        </h4>
+        <p class="fr-book-author">By Charles Mackay</p>
+        <p class="fr-book-popularity">Rating: 4.0/5 from 5 Google Books ratings</p>
+        <p class="fr-book-desc">Shows recurring patterns behind implausible profit schemes.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Factfulness+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Factfulness on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fpZNDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Factfulness" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Factfulness+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Factfulness">Factfulness</a>
+        </h4>
+        <p class="fr-book-author">By Hans Rosling, Ola Rosling et al.</p>
         
-<p class="fr-book-desc">Explains the mechanics of trust-based financial scams.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Confidence+Game+by+Maria+Konnikova&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Encourages skepticism toward extraordinary commercial claims.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Factfulness+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Extraordinary Popular Delusions and the Madness of Crowds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=JVwcP0fXmC4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Extraordinary Popular Delusions and the Madness of Crowds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Extraordinary Popular Delusions and the Madness of Crowds">Extraordinary Popular Delusions and the Madness of Crowds</a>
-</h4>
-<p class="fr-book-author">By Charles Mackay</p>
-<p class="fr-book-popularity">Rating: 4.0/5 from 5 Google Books ratings</p>
-<p class="fr-book-desc">Shows recurring patterns behind implausible profit schemes.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-</a>
-</div>
-</div>
-</article>
-
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+World+for+Sale+by+Javier+Blas&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The World for Sale on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ZWyzDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The World for Sale" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+World+for+Sale+by+Javier+Blas&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The World for Sale">The World for Sale</a>
-</h4>
-<p class="fr-book-author">By Javier Blas, Jack Farchy</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Confidence+Game+Maria+Konnikova&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Confidence Game on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=zdVhCAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Confidence Game" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Confidence+Game+Maria+Konnikova&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Confidence Game">The Confidence Game</a>
+        </h4>
+        <p class="fr-book-author">By Maria Konnikova</p>
         
-<p class="fr-book-desc">Helps readers understand real mineral and commodity markets.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+World+for+Sale+by+Javier+Blas&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Explains the mechanics of trust-based financial scams.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Confidence+Game+Maria+Konnikova&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=King+Leopold%27s+Ghost+by+Adam+Hochschild&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open King Leopold&#x27;s Ghost on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=OS3wDZE2w0kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for King Leopold&#x27;s Ghost" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=King+Leopold%27s+Ghost+by+Adam+Hochschild&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="King Leopold&#x27;s Ghost">King Leopold&#x27;s Ghost</a>
-</h4>
-<p class="fr-book-author">By Adam Hochschild</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+World+for+Sale+Javier+Blas&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The World for Sale on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ZWyzDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The World for Sale" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+World+for+Sale+Javier+Blas&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The World for Sale">The World for Sale</a>
+        </h4>
+        <p class="fr-book-author">By Javier Blas, Jack Farchy</p>
         
-<p class="fr-book-desc">Provides regional context for extractive-resource economies.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=King+Leopold%27s+Ghost+by+Adam+Hochschild&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Helps readers understand real mineral and commodity markets.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+World+for+Sale+Javier+Blas&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Confidence+Game&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Confidence Game</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Extraordinary Popular Delusions and the Madness of Crowds</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+World+for+Sale&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The World for Sale</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Extraordinary Popular Delusions and the Madness of Crowds</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Factfulness&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Factfulness</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Confidence+Game&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Confidence Game</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

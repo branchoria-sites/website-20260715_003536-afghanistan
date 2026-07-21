@@ -348,89 +348,89 @@ The *Maine* disaster sits at the boundary between tragedy, propaganda and histor
 Newspapers, politicians and activists transformed a mystery into a narrative of guilt before investigators had finished their work. Once that narrative took hold, later doubts struggled to compete with the emotional power of the original accusation. Historians still debate the mechanics of the explosion, but they are far less divided on a broader lesson: public certainty arrived long before the evidence did.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://blogs.loc.gov/headlinesandheroes/2024/02/the-spanish-american-war-and-the-yellow-press/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blogs.loc.gov">[loc.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blogs.loc.gov</span><span class="citation-popover-title">the spanish american war and the yellow press</span><span class="citation-popover-snippet">The Library of CongressThe Spanish American War and the Yellow Press6 Feb 2024 — When the USS Maine mysteriously exploded, the American “...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to Who Sank the Maine and What Was Proved?. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to Who Sank the Maine and What Was Proved?. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+War+of+1898+by+Louis+A.+P%C3%A9rez&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The War of 1898 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xLkMAAAAYAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The War of 1898" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+War+of+1898+by+Louis+A.+P%C3%A9rez&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The War of 1898">The War of 1898</a>
-</h4>
-<p class="fr-book-author">By Louis A. Pérez</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=CUBA%3A+AN+AMERICAN+HISTORY+FERRER.+DR.+ADA&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open CUBA: AN AMERICAN HISTORY on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=a1IwzwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for CUBA: AN AMERICAN HISTORY" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=CUBA%3A+AN+AMERICAN+HISTORY+FERRER.+DR.+ADA&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="CUBA: AN AMERICAN HISTORY">CUBA: AN AMERICAN HISTORY</a>
+        </h4>
+        <p class="fr-book-author">By FERRER. DR. ADA</p>
         
-<p class="fr-book-desc">Directly engages with the Maine, war origins and competing interpretations.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+War+of+1898+by+Louis+A.+P%C3%A9rez&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Explains the political climate surrounding the explosion.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=CUBA%3A+AN+AMERICAN+HISTORY+FERRER.+DR.+ADA&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Spanish-American+War+by+Brad+K.+Berner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Spanish-American War on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Ka8MAAAAYAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Spanish-American War" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Spanish-American+War+by+Brad+K.+Berner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Spanish-American War">The Spanish-American War</a>
-</h4>
-<p class="fr-book-author">By Brad K. Berner</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+War+of+1898+Louis+A.+P%C3%A9rez&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The War of 1898 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xLkMAAAAYAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The War of 1898" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+War+of+1898+Louis+A.+P%C3%A9rez&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The War of 1898">The War of 1898</a>
+        </h4>
+        <p class="fr-book-author">By Louis A. Pérez</p>
         
-<p class="fr-book-desc">Covers the Maine disaster and subsequent debates.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Spanish-American+War+by+Brad+K.+Berner&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Directly engages with the Maine, war origins and competing interpretations.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+War+of+1898+Louis+A.+P%C3%A9rez&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=CUBA%3A+AN+AMERICAN+HISTORY+by+FERRER.+DR.+ADA&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open CUBA: AN AMERICAN HISTORY on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=a1IwzwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for CUBA: AN AMERICAN HISTORY" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=CUBA%3A+AN+AMERICAN+HISTORY+by+FERRER.+DR.+ADA&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="CUBA: AN AMERICAN HISTORY">CUBA: AN AMERICAN HISTORY</a>
-</h4>
-<p class="fr-book-author">By FERRER. DR. ADA</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Spanish-American+War+Brad+K.+Berner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Spanish-American War on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Ka8MAAAAYAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Spanish-American War" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Spanish-American+War+Brad+K.+Berner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Spanish-American War">The Spanish-American War</a>
+        </h4>
+        <p class="fr-book-author">By Brad K. Berner</p>
         
-<p class="fr-book-desc">Explains the political climate surrounding the explosion.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=CUBA%3A+AN+AMERICAN+HISTORY+by+FERRER.+DR.+ADA&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Covers the Maine disaster and subsequent debates.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Spanish-American+War+Brad+K.+Berner&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=All+the+News+That%27s+Fit+to+Sell+by+James+Hamilton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open All the News That&#x27;s Fit to Sell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=2ofpb0nid6UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for All the News That&#x27;s Fit to Sell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=All+the+News+That%27s+Fit+to+Sell+by+James+Hamilton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="All the News That&#x27;s Fit to Sell">All the News That&#x27;s Fit to Sell</a>
-</h4>
-<p class="fr-book-author">By James Hamilton</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=All+the+News+That%27s+Fit+to+Sell+James+Hamilton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open All the News That&#x27;s Fit to Sell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=2ofpb0nid6UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for All the News That&#x27;s Fit to Sell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=All+the+News+That%27s+Fit+to+Sell+James+Hamilton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="All the News That&#x27;s Fit to Sell">All the News That&#x27;s Fit to Sell</a>
+        </h4>
+        <p class="fr-book-author">By James Hamilton</p>
         
-<p class="fr-book-desc">Provides context on press behavior and news commercialization.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=All+the+News+That%27s+Fit+to+Sell+by+James+Hamilton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Provides context on press behavior and news commercialization.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=All+the+News+That%27s+Fit+to+Sell+James+Hamilton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+War+of+1898&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The War of 1898</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Spanish+American+War&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Spanish American War</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=CUBA%3A+AN+AMERICAN+HISTORY&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">CUBA: AN AMERICAN HISTORY</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=CUBA%3A+AN+AMERICAN+HISTORY&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">CUBA: AN AMERICAN HISTORY</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+War+of+1898&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The War of 1898</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Spanish+American+War&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Spanish American War</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

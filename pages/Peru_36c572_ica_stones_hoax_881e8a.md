@@ -320,89 +320,89 @@ More than half a century after they entered public consciousness, the dinosaur e
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to Did the Ica Stones Really Show Dinosaurs?. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to Did the Ica Stones Really Show Dinosaurs?. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Frauds%2C+Myths%2C+and+Mysteries%3A+Science+and+Pseudoscience+in+Archaeology+by+Kenneth+Feder&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Frauds, Myths, and Mysteries: Science and Pseudoscience in Archaeology on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=auQIHwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Frauds, Myths, and Mysteries: Science and Pseudoscience in Archaeology" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Frauds%2C+Myths%2C+and+Mysteries%3A+Science+and+Pseudoscience+in+Archaeology+by+Kenneth+Feder&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Frauds, Myths, and Mysteries: Science and Pseudoscience in Archaeology">Frauds, Myths, and Mysteries: Science and Pseudoscience in Ar...</a>
-</h4>
-<p class="fr-book-author">By Kenneth Feder</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Frauds%2C+Myths%2C+and+Mysteries%3A+Science+and+Pseudoscience+in+Archaeology+Kenneth+Feder&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Frauds, Myths, and Mysteries: Science and Pseudoscience in Archaeology on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=auQIHwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Frauds, Myths, and Mysteries: Science and Pseudoscience in Archaeology" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Frauds%2C+Myths%2C+and+Mysteries%3A+Science+and+Pseudoscience+in+Archaeology+Kenneth+Feder&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Frauds, Myths, and Mysteries: Science and Pseudoscience in Archaeology">Frauds, Myths, and Mysteries: Science and Pseudoscience in Ar...</a>
+        </h4>
+        <p class="fr-book-author">By Kenneth Feder</p>
         
-<p class="fr-book-desc">The Ica Stones are a textbook archaeological hoax case.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Frauds%2C+Myths%2C+and+Mysteries%3A+Science+and+Pseudoscience+in+Archaeology+by+Kenneth+Feder&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">The Ica Stones are a textbook archaeological hoax case.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Frauds%2C+Myths%2C+and+Mysteries%3A+Science+and+Pseudoscience+in+Archaeology+Kenneth+Feder&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Fingerprints+of+the+Gods+by+Graham+Hancock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fingerprints of the Gods on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eTONEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Fingerprints of the Gods" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Fingerprints+of+the+Gods+by+Graham+Hancock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fingerprints of the Gods">Fingerprints of the Gods</a>
-</h4>
-<p class="fr-book-author">By Graham Hancock</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Fingerprints+of+the+Gods+Graham+Hancock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fingerprints of the Gods on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eTONEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Fingerprints of the Gods" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Fingerprints+of+the+Gods+Graham+Hancock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fingerprints of the Gods">Fingerprints of the Gods</a>
+        </h4>
+        <p class="fr-book-author">By Graham Hancock</p>
         
-<p class="fr-book-desc">Provides context for lost-civilization interpretations.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Fingerprints+of+the+Gods+by+Graham+Hancock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Provides context for lost-civilization interpretations.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Fingerprints+of+the+Gods+Graham+Hancock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Archaeological+Theory+by+Matthew+Johnson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Archaeological Theory on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=N79xKpMEReAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Archaeological Theory" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Archaeological+Theory+by+Matthew+Johnson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Archaeological Theory">Archaeological Theory</a>
-</h4>
-<p class="fr-book-author">By Matthew Johnson</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Archaeological+Theory+Matthew+Johnson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Archaeological Theory on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=N79xKpMEReAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Archaeological Theory" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Archaeological+Theory+Matthew+Johnson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Archaeological Theory">Archaeological Theory</a>
+        </h4>
+        <p class="fr-book-author">By Matthew Johnson</p>
         
-<p class="fr-book-desc">Explains how evidence is evaluated in archaeology.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Archaeological+Theory+by+Matthew+Johnson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Explains how evidence is evaluated in archaeology.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Archaeological+Theory+Matthew+Johnson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Frauds%2C+myths%2C+and+mysteries+Kenneth+L.+Feder&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Frauds, myths, and mysteries on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/527319-M.jpg" alt="Cover for Frauds, myths, and mysteries" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Frauds%2C+myths%2C+and+mysteries+Kenneth+L.+Feder&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Frauds, myths, and mysteries">Frauds, myths, and mysteries</a>
-</h4>
-<p class="fr-book-author">By Kenneth L. Feder</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Forbidden+Archeology+Michael+A.+Cremo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Forbidden Archeology on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9329459-M.jpg" alt="Cover for Forbidden Archeology" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Forbidden+Archeology+Michael+A.+Cremo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Forbidden Archeology">Forbidden Archeology</a>
+        </h4>
+        <p class="fr-book-author">By Michael A. Cremo, Richard L. Thompson</p>
         
-<p class="fr-book-desc">First published 1990. Subjects: Forgery of antiquities, Archaeology, Arqueología, Archäologie, Irrtum.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Frauds%2C+myths%2C+and+mysteries+Kenneth+L.+Feder&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Appeals to the same audience attracted to Ica Stones claims.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Forbidden+Archeology+Michael+A.+Cremo&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Frauds%2C+Myths%2C+and+Mysteries%3A+Science+and+Pseudoscience+in+Archaeology&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Frauds, Myths, and Mysteries: Science and Pseudoscience in Archaeology</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Fingerprints+of+the+Gods&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Fingerprints of the Gods</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Archaeological+Theory&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Archaeological Theory</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Frauds%2C+Myths%2C+and+Mysteries%3A+Science+and+Pseudoscience+in+Archaeology&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Frauds, Myths, and Mysteries: Science and Pseudoscience in Archaeology</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Fingerprints+of+the+Gods&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Fingerprints of the Gods</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Archaeological+Theory&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Archaeological Theory</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 ## Endnotes

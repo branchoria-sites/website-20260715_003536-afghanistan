@@ -343,89 +343,89 @@ Among Bahrain-related stories involving deception and false claims, the counterf
 The lesson is straightforward. In the antiquities market, an object can look ancient, carry mysterious writing and arrive in carefully packed trunks from overseas while still being entirely modern. The Heathrow seizure showed how easily appearance can be manufactured—and how careful examination of provenance, materials and craftsmanship remains the most effective defence against being deceived.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britishmuseum.org/blog/fake-antiquities-made-unsuspecting-collectors" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britishmuseum.org">[britishmuseum.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britishmuseum.org</span><span class="citation-popover-title">fake antiquities made unsuspecting collectors</span><span class="citation-popover-snippet">British MuseumFake antiquities made for unsuspecting collectors5 May 2020 — The trunks had as many as 190 clay tablets covered in cuneifo...</span><span class="citation-popover-meta">Published: May 2020</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to How Fake Antiquities Passed Through Bahrain. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to How Fake Antiquities Passed Through Bahrain. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Provenance+by+Laney+Salisbury&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Provenance on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XaiMEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Provenance" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Provenance+by+Laney+Salisbury&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Provenance">Provenance</a>
-</h4>
-<p class="fr-book-author">By Laney Salisbury, Aly Sujo</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Provenance+Laney+Salisbury&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Provenance on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XaiMEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Provenance" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Provenance+Laney+Salisbury&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Provenance">Provenance</a>
+        </h4>
+        <p class="fr-book-author">By Laney Salisbury, Aly Sujo</p>
         
-<p class="fr-book-desc">Shows how forged cultural objects circulate through markets.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Provenance+by+Laney+Salisbury&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Shows how forged cultural objects circulate through markets.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Provenance+Laney+Salisbury&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Medici+Conspiracy+by+Peter+Watson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Medici Conspiracy on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=pZ44DgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Medici Conspiracy" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Medici+Conspiracy+by+Peter+Watson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Medici Conspiracy">The Medici Conspiracy</a>
-</h4>
-<p class="fr-book-author">By Peter Watson, Cecilia Todeschini</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Medici+Conspiracy+Peter+Watson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Medici Conspiracy on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=pZ44DgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Medici Conspiracy" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Medici+Conspiracy+Peter+Watson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Medici Conspiracy">The Medici Conspiracy</a>
+        </h4>
+        <p class="fr-book-author">By Peter Watson, Cecilia Todeschini</p>
         
-<p class="fr-book-desc">Explores antiquities trafficking and questions of provenance.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Medici+Conspiracy+by+Peter+Watson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Explores antiquities trafficking and questions of provenance.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Medici+Conspiracy+Peter+Watson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Stealing+History+by+Roger+Atwood&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Stealing History on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=qf6q5dIfBU0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Stealing History" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Stealing+History+by+Roger+Atwood&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Stealing History">Stealing History</a>
-</h4>
-<p class="fr-book-author">By Roger Atwood</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Frauds%2C+Myths%2C+and+Mysteries%3A+Science+and+Pseudoscience+in+Archaeology+Kenneth+Feder&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Frauds, Myths, and Mysteries: Science and Pseudoscience in Archaeology on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=auQIHwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Frauds, Myths, and Mysteries: Science and Pseudoscience in Archaeology" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Frauds%2C+Myths%2C+and+Mysteries%3A+Science+and+Pseudoscience+in+Archaeology+Kenneth+Feder&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Frauds, Myths, and Mysteries: Science and Pseudoscience in Archaeology">Frauds, Myths, and Mysteries: Science and Pseudoscience in Ar...</a>
+        </h4>
+        <p class="fr-book-author">By Kenneth Feder</p>
         
-<p class="fr-book-desc">Examines looting, fakes and the global market for artefacts.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Stealing+History+by+Roger+Atwood&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Discusses fake artefacts and archaeological deception.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Frauds%2C+Myths%2C+and+Mysteries%3A+Science+and+Pseudoscience+in+Archaeology+Kenneth+Feder&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Forger%27s+Spell+by+Edward+Dolnick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Forger&#x27;s Spell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=qiX-I_LbXIMC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Forger&#x27;s Spell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Forger%27s+Spell+by+Edward+Dolnick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Forger&#x27;s Spell">The Forger&#x27;s Spell</a>
-</h4>
-<p class="fr-book-author">By Edward Dolnick</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Stealing+History+Roger+Atwood&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Stealing History on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=qf6q5dIfBU0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Stealing History" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Stealing+History+Roger+Atwood&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Stealing History">Stealing History</a>
+        </h4>
+        <p class="fr-book-author">By Roger Atwood</p>
         
-<p class="fr-book-desc">Illustrates techniques and motivations behind forgery.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Forger%27s+Spell+by+Edward+Dolnick&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Examines looting, fakes and the global market for artefacts.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Stealing+History+Roger+Atwood&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Provenance&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Provenance</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Medici+Conspiracy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Medici Conspiracy</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Stealing+History&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Stealing History</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Provenance&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Provenance</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Medici+Conspiracy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Medici Conspiracy</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Frauds%2C+Myths%2C+and+Mysteries%3A+Science+and+Pseudoscience+in+Archaeology&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Frauds, Myths, and Mysteries: Science and Pseudoscience in Archaeology</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

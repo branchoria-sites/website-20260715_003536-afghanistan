@@ -338,89 +338,89 @@ The case also arrived during a period of intense debate about disinformation, pr
 Within Ukraine's broader history of contested truths, the Babchenko case stands out because it was simultaneously an exposure and a deception. Ukrainian authorities argued that the fabricated murder revealed a real threat. Yet the method used to uncover that threat generated lasting doubts about official credibility. The episode therefore remains a powerful example of a dilemma that extends far beyond Ukraine: can democratic institutions defend themselves through deception without weakening the trust on which they ultimately depend?<span class="citation-link-wrap"><a class="citation-inline-link" href="https://time.com/5476536/person-of-the-year-2018-arkady-babchenko/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[time.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-title">He Faked His Own Death to Save His Life</span><span class="citation-popover-snippet">Did He Discredit His Profession By Doing So?Arkady Babchenko, a Russian journalist living in exile in Ukraine, simulated his death with t...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to Why Ukraine Faked a Journalist&#x27;s Murder. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to Why Ukraine Faked a Journalist&#x27;s Murder. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Post-Truth+by+Lee+McIntyre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Post-Truth on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9e1LDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Post-Truth" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Post-Truth+by+Lee+McIntyre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Post-Truth">Post-Truth</a>
-</h4>
-<p class="fr-book-author">By Lee McIntyre</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=This+Is+Not+Propaganda+Peter+Pomerantsev&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open This Is Not Propaganda on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YbGSDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for This Is Not Propaganda" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=This+Is+Not+Propaganda+Peter+Pomerantsev&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="This Is Not Propaganda">This Is Not Propaganda</a>
+        </h4>
+        <p class="fr-book-author">By Peter Pomerantsev</p>
         
-<p class="fr-book-desc">Addresses credibility, misinformation, and belief formation.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Post-Truth+by+Lee+McIntyre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Examines modern disinformation and strategic manipulation of narratives.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=This+Is+Not+Propaganda+Peter+Pomerantsev&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Nothing+is+True+and+Everything+is+Possible+by+Peter+Pomerantsev&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Nothing is True and Everything is Possible on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Nb8pDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Nothing is True and Everything is Possible" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Nothing+is+True+and+Everything+is+Possible+by+Peter+Pomerantsev&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Nothing is True and Everything is Possible">Nothing is True and Everything is Possible</a>
-</h4>
-<p class="fr-book-author">By Peter Pomerantsev</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Confidence+Game+Maria+Konnikova&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Confidence Game on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=zdVhCAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Confidence Game" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Confidence+Game+Maria+Konnikova&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Confidence Game">The Confidence Game</a>
+        </h4>
+        <p class="fr-book-author">By Maria Konnikova</p>
         
-<p class="fr-book-desc">Provides regional context for information operations and narrative control.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Nothing+is+True+and+Everything+is+Possible+by+Peter+Pomerantsev&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Shows why convincing fabrications can succeed despite scrutiny.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Confidence+Game+Maria+Konnikova&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Confidence+Game+by+Maria+Konnikova&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Confidence Game on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=zdVhCAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Confidence Game" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Confidence+Game+by+Maria+Konnikova&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Confidence Game">The Confidence Game</a>
-</h4>
-<p class="fr-book-author">By Maria Konnikova</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Nothing+is+True+and+Everything+is+Possible+Peter+Pomerantsev&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Nothing is True and Everything is Possible on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Nb8pDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Nothing is True and Everything is Possible" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Nothing+is+True+and+Everything+is+Possible+Peter+Pomerantsev&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Nothing is True and Everything is Possible">Nothing is True and Everything is Possible</a>
+        </h4>
+        <p class="fr-book-author">By Peter Pomerantsev</p>
         
-<p class="fr-book-desc">Shows why convincing fabrications can succeed despite scrutiny.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Confidence+Game+by+Maria+Konnikova&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Provides regional context for information operations and narrative control.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Nothing+is+True+and+Everything+is+Possible+Peter+Pomerantsev&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=A+History+of+Fake+Things+on+the+Internet+by+Walter+Scheirer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A History of Fake Things on the Internet on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=s1kd0QEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for A History of Fake Things on the Internet" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=A+History+of+Fake+Things+on+the+Internet+by+Walter+Scheirer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A History of Fake Things on the Internet">A History of Fake Things on the Internet</a>
-</h4>
-<p class="fr-book-author">By Walter Scheirer</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=A+History+of+Fake+Things+on+the+Internet+Walter+Scheirer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A History of Fake Things on the Internet on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=s1kd0QEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for A History of Fake Things on the Internet" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=A+History+of+Fake+Things+on+the+Internet+Walter+Scheirer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A History of Fake Things on the Internet">A History of Fake Things on the Internet</a>
+        </h4>
+        <p class="fr-book-author">By Walter Scheirer</p>
         
-<p class="fr-book-desc">Explains how false reports spread rapidly through information networks.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=A+History+of+Fake+Things+on+the+Internet+by+Walter+Scheirer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Explains how false reports spread rapidly through information networks.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=A+History+of+Fake+Things+on+the+Internet+Walter+Scheirer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Post+Truth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Post Truth</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Nothing+is+True+and+Everything+is+Possible&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Nothing is True and Everything is Possible</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Confidence+Game&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Confidence Game</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=This+Is+Not+Propaganda&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">This Is Not Propaganda</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Confidence+Game&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Confidence Game</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Nothing+is+True+and+Everything+is+Possible&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Nothing is True and Everything is Possible</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

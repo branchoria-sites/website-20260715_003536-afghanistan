@@ -323,89 +323,89 @@ The Henry forgery remains one of France's most important examples of fabricated 
 For historians of hoaxes, propaganda and misinformation, the episode offers a lasting lesson. False evidence often survives not because it is impossible to detect, but because influential people have reasons not to examine it too closely. The Dreyfus Affair shows how a single forged document, protected by secrecy and institutional loyalty, helped sustain a national injustice for years before careful scrutiny finally exposed it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ebsco.com/research-starters/history/dreyfus-affair" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ebsco.com">[ebsco.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ebsco.com</span><span class="citation-popover-snippet">Dreyfus Affair &#124; History &#124; Research StartersMajor Henry, to protect himself, his superiors, and the honor of the French army, forged...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to How a Forged Letter Deepened the Dreyfus Affair. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to How a Forged Letter Deepened the Dreyfus Affair. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=An+Officer+and+a+Spy+by+Robert+Harris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open An Officer and a Spy on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Vl9hAwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for An Officer and a Spy" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=An+Officer+and+a+Spy+by+Robert+Harris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="An Officer and a Spy">An Officer and a Spy</a>
-</h4>
-<p class="fr-book-author">By Robert Harris</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=An+Officer+and+a+Spy+Robert+Harris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open An Officer and a Spy on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Vl9hAwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for An Officer and a Spy" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=An+Officer+and+a+Spy+Robert+Harris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="An Officer and a Spy">An Officer and a Spy</a>
+        </h4>
+        <p class="fr-book-author">By Robert Harris</p>
         
-<p class="fr-book-desc">Centres on forged evidence and the Dreyfus case.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=An+Officer+and+a+Spy+by+Robert+Harris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Centres on forged evidence and the Dreyfus case.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=An+Officer+and+a+Spy+Robert+Harris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Extraordinary Popular Delusions and the Madness of Crowds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=JVwcP0fXmC4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Extraordinary Popular Delusions and the Madness of Crowds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Extraordinary Popular Delusions and the Madness of Crowds">Extraordinary Popular Delusions and the Madness of Crowds</a>
-</h4>
-<p class="fr-book-author">By Charles Mackay</p>
-<p class="fr-book-popularity">Rating: 4.0/5 from 5 Google Books ratings</p>
-<p class="fr-book-desc">Matches the page&#x27;s broad theme of influential falsehoods.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-</a>
-</div>
-</div>
-</article>
-
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mistakes Were Made (but Not by Me) on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wlagzQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mistakes Were Made (but Not by Me)" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mistakes Were Made (but Not by Me)">Mistakes Were Made (but Not by Me)</a>
-</h4>
-<p class="fr-book-author">By Carol Tavris, Elliot Aronson</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mistakes Were Made (but Not by Me) on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wlagzQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mistakes Were Made (but Not by Me)" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mistakes Were Made (but Not by Me)">Mistakes Were Made (but Not by Me)</a>
+        </h4>
+        <p class="fr-book-author">By Carol Tavris, Elliot Aronson</p>
         
-<p class="fr-book-desc">Explains why institutions defend fabricated or flawed evidence.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Explains why institutions defend fabricated or flawed evidence.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=%C3%89mile+Zola%27s+J%27accuse%21+%C3%89mile+Zola&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Émile Zola&#x27;s J&#x27;accuse! on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=%C3%89mile+Zola%27s+J%27accuse%21+%C3%89mile+Zola&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Émile Zola&#x27;s J&#x27;accuse!">Émile Zola&#x27;s J&#x27;accuse!</a>
-</h4>
-<p class="fr-book-author">By Émile Zola</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Dreyfus+affair+George+R.+Whyte&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Dreyfus affair on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4263329-M.jpg" alt="Cover for The Dreyfus affair" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Dreyfus+affair+George+R.+Whyte&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Dreyfus affair">The Dreyfus affair</a>
+        </h4>
+        <p class="fr-book-author">By George R. Whyte</p>
         
-<p class="fr-book-desc">First published 1992. Subjects: Politics and government.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=%C3%89mile+Zola%27s+J%27accuse%21+%C3%89mile+Zola&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Direct coverage of the affair and documentary falsification.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Dreyfus+affair+George+R.+Whyte&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=An+Officer+and+a+Spy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">An Officer and a Spy</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Extraordinary Popular Delusions and the Madness of Crowds</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mistakes Were Made (but Not by Me)</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=%C3%89mile+Zola%27s+J%27accuse%21+%C3%89mile+Zola&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Émile Zola&#x27;s J&#x27;accuse! on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=%C3%89mile+Zola%27s+J%27accuse%21+%C3%89mile+Zola&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Émile Zola&#x27;s J&#x27;accuse!">Émile Zola&#x27;s J&#x27;accuse!</a>
+        </h4>
+        <p class="fr-book-author">By Émile Zola</p>
+        
+        <p class="fr-book-desc">First published 1992. Subjects: Politics and government.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=%C3%89mile+Zola%27s+J%27accuse%21+%C3%89mile+Zola&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=An+Officer+and+a+Spy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">An Officer and a Spy</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mistakes Were Made (but Not by Me)</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Dreyfus+affair&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Dreyfus affair</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

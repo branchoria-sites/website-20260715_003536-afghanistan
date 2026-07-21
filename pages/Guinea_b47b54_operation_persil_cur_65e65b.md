@@ -318,89 +318,89 @@ As a case study in deception, Operation Persil demonstrates that falsehoods can 
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to Could Fake Banknotes Undermine a New Nation?. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to Could Fake Banknotes Undermine a New Nation?. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Fate+of+Africa+by+Martin+Meredith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Fate of Africa on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=JhvGswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Fate of Africa" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Fate+of+Africa+by+Martin+Meredith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Fate of Africa">The Fate of Africa</a>
-</h4>
-<p class="fr-book-author">By Martin Meredith</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Fate+of+Africa+Martin+Meredith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Fate of Africa on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YcjJ10lhqIkC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Fate of Africa" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Fate+of+Africa+Martin+Meredith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Fate of Africa">The Fate of Africa</a>
+        </h4>
+        <p class="fr-book-author">By Martin Meredith</p>
         
-<p class="fr-book-desc">Covers independence struggles and postcolonial tensions.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Fate+of+Africa+by+Martin+Meredith&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Covers independence struggles and postcolonial tensions.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Fate+of+Africa+Martin+Meredith&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Scramble+For+Africa+by+Thomas+Pakenham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Scramble For Africa on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KwRMCgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Scramble For Africa" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Scramble+For+Africa+by+Thomas+Pakenham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Scramble For Africa">The Scramble For Africa</a>
-</h4>
-<p class="fr-book-author">By Thomas Pakenham</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Scramble+For+Africa+Thomas+Pakenham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Scramble For Africa on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KwRMCgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Scramble For Africa" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Scramble+For+Africa+Thomas+Pakenham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Scramble For Africa">The Scramble For Africa</a>
+        </h4>
+        <p class="fr-book-author">By Thomas Pakenham</p>
         
-<p class="fr-book-desc">Offers longer-term context for colonial and postcolonial power struggles.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Scramble+For+Africa+by+Thomas+Pakenham&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Offers longer-term context for colonial and postcolonial power struggles.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Scramble+For+Africa+Thomas+Pakenham&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+scramble+for+Africa%2C+1876-1912+Thomas+Pakenham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The scramble for Africa, 1876-1912 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4615361-M.jpg" alt="Cover for The scramble for Africa," loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+scramble+for+Africa%2C+1876-1912+Thomas+Pakenham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The scramble for Africa,">The scramble for Africa,</a>
-</h4>
-<p class="fr-book-author">By Thomas Pakenham, Thomas Pakenham et al.</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+scramble+for+Africa%2C+1876-1912+Thomas+Pakenham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The scramble for Africa, 1876-1912 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4615361-M.jpg" alt="Cover for The scramble for Africa, 1876-1912" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+scramble+for+Africa%2C+1876-1912+Thomas+Pakenham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The scramble for Africa, 1876-1912">The scramble for Africa, 1876-1912</a>
+        </h4>
+        <p class="fr-book-author">By Thomas Pakenham, Thomas Pakenham et al.</p>
         
-<p class="fr-book-desc">First published 1990. Subjects: History, Colonies, Colonization, Colonización, Kolonisatie.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+scramble+for+Africa%2C+1876-1912+Thomas+Pakenham&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">First published 1990. Subjects: History, Colonies, Colonization, Colonización, Kolonisatie.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+scramble+for+Africa%2C+1876-1912+Thomas+Pakenham&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Africa+Since+Independence+by+Paul+Nugent&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Africa Since Independence on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Africa+Since+Independence+by+Paul+Nugent&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Africa Since Independence">Africa Since Independence</a>
-</h4>
-<p class="fr-book-author">By Paul Nugent</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Africa+Since+Independence+Paul+Nugent&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Africa Since Independence on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Africa+Since+Independence+Paul+Nugent&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Africa Since Independence">Africa Since Independence</a>
+        </h4>
+        <p class="fr-book-author">By Paul Nugent</p>
         
-<p class="fr-book-desc">Explains the political climate surrounding Guinea&#x27;s early independence.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Africa+Since+Independence+by+Paul+Nugent&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Explains the political climate surrounding Guinea&#x27;s early independence.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Africa+Since+Independence+Paul+Nugent&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Fate+of+Africa&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Fate of Africa</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Scramble+For+Africa&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Scramble For Africa</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+scramble+for+Africa%2C+1876+1912&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The scramble for Africa,</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Fate+of+Africa&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Fate of Africa</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Scramble+For+Africa&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Scramble For Africa</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+scramble+for+Africa%2C+1876+1912&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The scramble for Africa, 1876 1912</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

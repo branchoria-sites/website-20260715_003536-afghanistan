@@ -327,89 +327,89 @@ Within Eritrea's wider history of disputed claims and information controls, the 
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to How the Tigray Troop Denial Unravelled. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to How the Tigray Troop Denial Unravelled. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Likewar+by+Peter+Warren+Singer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Likewar on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=URFxDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Likewar" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Likewar+by+Peter+Warren+Singer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Likewar">Likewar</a>
-</h4>
-<p class="fr-book-author">By Peter Warren Singer, Emerson T. Brooking</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Likewar+Peter+Warren+Singer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Likewar on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=URFxDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Likewar" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Likewar+Peter+Warren+Singer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Likewar">Likewar</a>
+        </h4>
+        <p class="fr-book-author">By Peter Warren Singer, Emerson T. Brooking</p>
         
-<p class="fr-book-desc">Relevant to information management during armed conflict.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Likewar+by+Peter+Warren+Singer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Relevant to information management during armed conflict.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Likewar+Peter+Warren+Singer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Dictator%27s+Handbook+by+Bruce+Bueno+de+Mesquita&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Dictator&#x27;s Handbook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UBY5DgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Dictator&#x27;s Handbook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Dictator%27s+Handbook+by+Bruce+Bueno+de+Mesquita&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Dictator&#x27;s Handbook">The Dictator&#x27;s Handbook</a>
-</h4>
-<p class="fr-book-author">By Bruce Bueno de Mesquita, Alastair Smith</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Dictator%27s+Handbook+Bruce+Bueno+de+Mesquita&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Dictator&#x27;s Handbook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UBY5DgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Dictator&#x27;s Handbook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Dictator%27s+Handbook+Bruce+Bueno+de+Mesquita&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Dictator&#x27;s Handbook">The Dictator&#x27;s Handbook</a>
+        </h4>
+        <p class="fr-book-author">By Bruce Bueno de Mesquita, Alastair Smith</p>
         
-<p class="fr-book-desc">Provides context for strategic information control by governments.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Dictator%27s+Handbook+by+Bruce+Bueno+de+Mesquita&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Provides context for strategic information control by governments.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Dictator%27s+Handbook+Bruce+Bueno+de+Mesquita&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+Propaganda+Works+by+Jason+Stanley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How Propaganda Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=G3CYDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How Propaganda Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=How+Propaganda+Works+by+Jason+Stanley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How Propaganda Works">How Propaganda Works</a>
-</h4>
-<p class="fr-book-author">By Jason Stanley</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=We+wish+to+inform+you+that+tomorrow+we+will+be+killed+with+our+families+Philip+Gourevitch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open We wish to inform you that tomorrow we will be killed with our families on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/196945-M.jpg" alt="Cover for We wish to inform you that tomorrow we will be killed with our families" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=We+wish+to+inform+you+that+tomorrow+we+will+be+killed+with+our+families+Philip+Gourevitch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="We wish to inform you that tomorrow we will be killed with our families">We wish to inform you that tomorrow we will be killed with ou...</a>
+        </h4>
+        <p class="fr-book-author">By Philip Gourevitch</p>
         
-<p class="fr-book-desc">Useful for understanding official denials and public persuasion.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=How+Propaganda+Works+by+Jason+Stanley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Shows how evidence and testimony emerge from difficult conflict environments.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=We+wish+to+inform+you+that+tomorrow+we+will+be+killed+with+our+families+Philip+Gourevitch&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=We+wish+to+inform+you+that+tomorrow+we+will+be+killed+with+our+families+Philip+Gourevitch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open We wish to inform you that tomorrow we will be killed with our families on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/196945-M.jpg" alt="Cover for We wish to inform you that tomorrow we will be killed with our families" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=We+wish+to+inform+you+that+tomorrow+we+will+be+killed+with+our+families+Philip+Gourevitch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="We wish to inform you that tomorrow we will be killed with our families">We wish to inform you that tomorrow we will be killed with ou...</a>
-</h4>
-<p class="fr-book-author">By Philip Gourevitch</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+Propaganda+Works+Jason+Stanley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How Propaganda Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=G3CYDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How Propaganda Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=How+Propaganda+Works+Jason+Stanley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How Propaganda Works">How Propaganda Works</a>
+        </h4>
+        <p class="fr-book-author">By Jason Stanley</p>
         
-<p class="fr-book-desc">First published 1998. Subjects: Ethnic relations, Genocide, History, Human rights, Personal narratives.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=We+wish+to+inform+you+that+tomorrow+we+will+be+killed+with+our+families+Philip+Gourevitch&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Useful for understanding official denials and public persuasion.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=How+Propaganda+Works+Jason+Stanley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Likewar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Likewar</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Dictator%27s+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Dictator&#x27;s books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+Propaganda+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How Propaganda Works</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Likewar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Likewar</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Dictator%27s+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Dictator&#x27;s books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=We+wish+to+inform+you+that+tomorrow+we+will+be+killed+with+our+families&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">We wish to inform you that tomorrow we will be killed with our families</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

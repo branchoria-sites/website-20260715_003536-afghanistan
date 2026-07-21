@@ -332,89 +332,89 @@ The story of blond Solomon Islanders is not really a mystery anymore. What once 
 Within the wider history of contested claims in the Solomon Islands, the blond-hair myth stands as a reminder that persuasive explanations are not necessarily correct. For decades, a widely repeated assumption seemed reasonable because it matched popular expectations about race and appearance. When researchers finally tested the claim directly, the evidence pointed elsewhere. The result was not merely a correction to a genetic detail, but a demonstration of how science can overturn deeply rooted cultural assumptions. [Science+2Stanford Medicine](https://www.science.org/doi/10.1126/science.1217849)
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to Why Blond Solomon Islanders Are Not a European Mystery. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to Why Blond Solomon Islanders Are Not a European Mystery. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=A+Brief+History+of+Everyone+Who+Ever+Lived+by+Adam+Rutherford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A Brief History of Everyone Who Ever Lived on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lCRtDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for A Brief History of Everyone Who Ever Lived" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=A+Brief+History+of+Everyone+Who+Ever+Lived+by+Adam+Rutherford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Brief History of Everyone Who Ever Lived">A Brief History of Everyone Who Ever Lived</a>
-</h4>
-<p class="fr-book-author">By Adam Rutherford</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=A+Brief+History+of+Everyone+Who+Ever+Lived+Adam+Rutherford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A Brief History of Everyone Who Ever Lived on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lCRtDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for A Brief History of Everyone Who Ever Lived" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=A+Brief+History+of+Everyone+Who+Ever+Lived+Adam+Rutherford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Brief History of Everyone Who Ever Lived">A Brief History of Everyone Who Ever Lived</a>
+        </h4>
+        <p class="fr-book-author">By Adam Rutherford</p>
         
-<p class="fr-book-desc">Directly addresses ancestry myths and what genetics can actually reveal.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=A+Brief+History+of+Everyone+Who+Ever+Lived+by+Adam+Rutherford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Directly addresses ancestry myths and what genetics can actually reveal.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=A+Brief+History+of+Everyone+Who+Ever+Lived+Adam+Rutherford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Who+We+are+and+how+We+Got+Here+by+David+Reich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Who We are and how We Got Here on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=RuXgzwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Who We are and how We Got Here" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Who+We+are+and+how+We+Got+Here+by+David+Reich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Who We are and how We Got Here">Who We are and how We Got Here</a>
-</h4>
-<p class="fr-book-author">By David Reich</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Who+We+are+and+how+We+Got+Here+David+Reich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Who We are and how We Got Here on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=RuXgzwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Who We are and how We Got Here" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Who+We+are+and+how+We+Got+Here+David+Reich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Who We are and how We Got Here">Who We are and how We Got Here</a>
+        </h4>
+        <p class="fr-book-author">By David Reich</p>
         
-<p class="fr-book-desc">Explains human population history and challenges simplistic ancestry assumptions.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Who+We+are+and+how+We+Got+Here+by+David+Reich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Explains human population history and challenges simplistic ancestry assumptions.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Who+We+are+and+how+We+Got+Here+David+Reich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Journey+of+Man+by+Spencer+Wells&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Journey of Man on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=EwAITOvmCGkC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Journey of Man" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Journey+of+Man+by+Spencer+Wells&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Journey of Man">The Journey of Man</a>
-</h4>
-<p class="fr-book-author">By Spencer Wells</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Gene+Siddhartha+Mukherjee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Gene on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Ozp_DAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Gene" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Gene+Siddhartha+Mukherjee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Gene">The Gene</a>
+        </h4>
+        <p class="fr-book-author">By Siddhartha Mukherjee</p>
         
-<p class="fr-book-desc">Shows how genetics transformed ideas about human origins and ancestry.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Journey+of+Man+by+Spencer+Wells&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Provides accessible background on inheritance and genetic variation.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Gene+Siddhartha+Mukherjee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Gene+by+Siddhartha+Mukherjee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Gene on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Ozp_DAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Gene" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Gene+by+Siddhartha+Mukherjee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Gene">The Gene</a>
-</h4>
-<p class="fr-book-author">By Siddhartha Mukherjee</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Sapiens+Yuval+Noah+Harari&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Sapiens on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=zfuOEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Sapiens" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Sapiens+Yuval+Noah+Harari&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Sapiens">Sapiens</a>
+        </h4>
+        <p class="fr-book-author">By Yuval Noah Harari</p>
         
-<p class="fr-book-desc">Provides accessible background on inheritance and genetic variation.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Gene+by+Siddhartha+Mukherjee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Provides broad context for how human groups and identities are understood.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Sapiens+Yuval+Noah+Harari&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=A+Brief+History+of+Everyone+Who+Ever+Lived&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A Brief History of Everyone Who Ever Lived</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Who+We+are+and+how+We+Got+Here&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Who We are and how We Got Here</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Journey+of+Man&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Journey of Man</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=A+Brief+History+of+Everyone+Who+Ever+Lived&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A Brief History of Everyone Who Ever Lived</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Who+We+are+and+how+We+Got+Here&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Who We are and how We Got Here</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Gene&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Gene</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

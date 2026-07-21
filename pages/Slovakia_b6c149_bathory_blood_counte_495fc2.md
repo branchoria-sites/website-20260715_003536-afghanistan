@@ -464,4 +464,91 @@ Yet the most important historical lesson is not whether every accusation against
 
 18.<a id="endnote-18"></a>
    Source: reddit.com  
-   Link:<a href="https://www.reddit.com/r/AskHistorians/comments/168m2zo/how_credible_is_the_story_of_elizabeth_b%C3%A1thory_of/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/AskHistorians/comments/168m2zo/how_credible_is_the_story_of_elizabeth_b%C3%A1thory_of/</a>  
+   Link:<a href="https://www.reddit.com/r/AskHistorians/comments/168m2zo/how_credible_is_the_story_of_elizabeth_b%C3%A1thory_of/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/AskHistorians/comments/168m2zo/how_credible_is_the_story_of_elizabeth_b%C3%A1thory_of/</a>
+
+<section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to How Did Bathory Become the Blood Countess?. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Private+Letters+of+Countess+Erzs%C3%A9bet+B%C3%A1thory+Kimberly+L.+Craft&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Private Letters of Countess Erzsébet Báthory on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SlYBtwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Private Letters of Countess Erzsébet Báthory" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Private+Letters+of+Countess+Erzs%C3%A9bet+B%C3%A1thory+Kimberly+L.+Craft&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Private Letters of Countess Erzsébet Báthory">The Private Letters of Countess Erzsébet Báthory</a>
+        </h4>
+        <p class="fr-book-author">By Kimberly L. Craft</p>
+        
+        <p class="fr-book-desc">Focuses on the historical figure behind the Blood Countess legend.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Private+Letters+of+Countess+Erzs%C3%A9bet+B%C3%A1thory+Kimberly+L.+Craft&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Infamous+Lady+Kimberly+L.+Craft&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Infamous Lady on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KDXUoQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Infamous Lady" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Infamous+Lady+Kimberly+L.+Craft&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Infamous Lady">Infamous Lady</a>
+        </h4>
+        <p class="fr-book-author">By Kimberly L. Craft</p>
+        
+        <p class="fr-book-desc">Examines the accusations and later myths surrounding Báthory.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Infamous+Lady+Kimberly+L.+Craft&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+        </h4>
+        <p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
+        <p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
+        <p class="fr-book-desc">Helps explain how sensational legends persist despite weak evidence.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Dracula+Bram+Stoker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dracula on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xGPcDAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Dracula" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Dracula+Bram+Stoker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dracula">Dracula</a>
+        </h4>
+        <p class="fr-book-author">By Bram Stoker</p>
+        
+        <p class="fr-book-desc">Readers interested in blood legends and Central European folklore often cross-shop it.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Dracula+Bram+Stoker&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Private+Letters+of+Countess+Erzs%C3%A9bet+B%C3%A1thory&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Private Letters of Countess Erzsébet Báthory</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Infamous+Lady&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Infamous Lady</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
+</section>
+

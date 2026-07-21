@@ -319,89 +319,89 @@ For students of hoaxes, propaganda and hidden influence, that makes the case esp
 In the broader story of contested truth in Azerbaijan, the Laundromat stands as an example of reputation management through opacity. Rather than inventing a myth, it sought to influence who appeared to be telling the story and why audiences trusted them.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.occrp.org/en/project/the-azerbaijani-laundromat" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: occrp.org">[OCCRP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">occrp.org</span><span class="citation-popover-title">the azerbaijani laundromat</span><span class="citation-popover-snippet">The Azerbaijani Laundromat4 Sept 2017 — A group of parliamentarians in the Council of Europe is calling for an investigation into re...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to How Money Manufactured International Approval. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to How Money Manufactured International Approval. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Kleptopia%3A+How+Dirty+Money+is+Conquering+the+World+by+Tom+Burgis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Kleptopia: How Dirty Money is Conquering the World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HQyqDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Kleptopia: How Dirty Money is Conquering the World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Kleptopia%3A+How+Dirty+Money+is+Conquering+the+World+by+Tom+Burgis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Kleptopia: How Dirty Money is Conquering the World">Kleptopia: How Dirty Money is Conquering the World</a>
-</h4>
-<p class="fr-book-author">By Tom Burgis</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Kleptopia%3A+How+Dirty+Money+is+Conquering+the+World+Tom+Burgis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Kleptopia: How Dirty Money is Conquering the World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HQyqDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Kleptopia: How Dirty Money is Conquering the World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Kleptopia%3A+How+Dirty+Money+is+Conquering+the+World+Tom+Burgis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Kleptopia: How Dirty Money is Conquering the World">Kleptopia: How Dirty Money is Conquering the World</a>
+        </h4>
+        <p class="fr-book-author">By Tom Burgis</p>
         
-<p class="fr-book-desc">Directly addresses the mechanisms behind hidden money and reputation management.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Kleptopia%3A+How+Dirty+Money+is+Conquering+the+World+by+Tom+Burgis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Directly addresses the mechanisms behind hidden money and reputation management.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Kleptopia%3A+How+Dirty+Money+is+Conquering+the+World+Tom+Burgis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Moneyland+by+Oliver+Bullough&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Moneyland on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=0O5PDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Moneyland" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Moneyland+by+Oliver+Bullough&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Moneyland">Moneyland</a>
-</h4>
-<p class="fr-book-author">By Oliver Bullough</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Moneyland+Oliver+Bullough&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Moneyland on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=0O5PDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Moneyland" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Moneyland+Oliver+Bullough&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Moneyland">Moneyland</a>
+        </h4>
+        <p class="fr-book-author">By Oliver Bullough</p>
         
-<p class="fr-book-desc">Explains shell companies, opaque transactions and international money flows.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Moneyland+by+Oliver+Bullough&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Explains shell companies, opaque transactions and international money flows.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Moneyland+Oliver+Bullough&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Black+Garden+by+Thomas+de+Waal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Black Garden on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=0OOgBwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Black Garden" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Black+Garden+by+Thomas+de+Waal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Black Garden">Black Garden</a>
-</h4>
-<p class="fr-book-author">By Thomas de Waal</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Black+Garden+Thomas+de+Waal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Black Garden on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=0OOgBwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Black Garden" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Black+Garden+Thomas+de+Waal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Black Garden">Black Garden</a>
+        </h4>
+        <p class="fr-book-author">By Thomas de Waal</p>
         
-<p class="fr-book-desc">Provides political context for Azerbaijan&#x27;s international image campaigns.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Black+Garden+by+Thomas+de+Waal&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Provides political context for Azerbaijan&#x27;s international image campaigns.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Black+Garden+Thomas+de+Waal&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hidden+Wealth+of+Nations+by+Gabriel+Zucman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hidden Wealth of Nations on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=75ElEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Hidden Wealth of Nations" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Hidden+Wealth+of+Nations+by+Gabriel+Zucman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hidden Wealth of Nations">The Hidden Wealth of Nations</a>
-</h4>
-<p class="fr-book-author">By Gabriel Zucman</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Dictators+Without+Borders+Alexander+Cooley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dictators Without Borders on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=n8wCDgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Dictators Without Borders" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Dictators+Without+Borders+Alexander+Cooley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dictators Without Borders">Dictators Without Borders</a>
+        </h4>
+        <p class="fr-book-author">By Alexander Cooley, John Heathershaw</p>
         
-<p class="fr-book-desc">Explains the financial structures that make laundering and concealment possible.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Hidden+Wealth+of+Nations+by+Gabriel+Zucman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Examines how authoritarian systems project influence beyond national borders.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Dictators+Without+Borders+Alexander+Cooley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Kleptopia%3A+How+Dirty+Money+is+Conquering+the+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Kleptopia: How Dirty Money is Conquering the World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Moneyland&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Moneyland</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Black+Garden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Black Garden</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Kleptopia%3A+How+Dirty+Money+is+Conquering+the+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Kleptopia: How Dirty Money is Conquering the World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Moneyland&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Moneyland</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Black+Garden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Black Garden</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

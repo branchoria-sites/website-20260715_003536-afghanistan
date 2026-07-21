@@ -380,89 +380,89 @@ That makes the Chupacabra an instructive example within El Salvador's wider hist
 The enduring mystery is therefore not the existence of a monster. It is the social process by which ordinary livestock attacks can be transformed into evidence for one. In El Salvador, as elsewhere in Latin America, the Chupacabra became famous not because it was proven, but because it provided a compelling answer before the facts were fully known.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Chupacabra" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[wikipedia.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to What Really Killed El Salvador&#x27;s Livestock?. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to What Really Killed El Salvador&#x27;s Livestock?. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Tracking+the+Chupacabra+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Tracking the Chupacabra on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=FuZAo9_ohgIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Tracking the Chupacabra" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Tracking+the+Chupacabra+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Tracking the Chupacabra">Tracking the Chupacabra</a>
-</h4>
-<p class="fr-book-author">By Benjamin Radford</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Tracking+the+Chupacabra+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Tracking the Chupacabra on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=FuZAo9_ohgIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Tracking the Chupacabra" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Tracking+the+Chupacabra+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Tracking the Chupacabra">Tracking the Chupacabra</a>
+        </h4>
+        <p class="fr-book-author">By Benjamin Radford</p>
         
-<p class="fr-book-desc">Directly examines livestock attacks and the legend&#x27;s origins.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Tracking+the+Chupacabra+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Directly examines livestock attacks and the legend&#x27;s origins.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Tracking+the+Chupacabra+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Revolution+In+El+Salvador+by+Tommie+Sue+Montgomery&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Revolution In El Salvador on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Y__EDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Revolution In El Salvador" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Revolution+In+El+Salvador+by+Tommie+Sue+Montgomery&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Revolution In El Salvador">Revolution In El Salvador</a>
-</h4>
-<p class="fr-book-author">By Tommie Sue Montgomery</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Revolution+In+El+Salvador+Tommie+Sue+Montgomery&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Revolution In El Salvador on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Y__EDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Revolution In El Salvador" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Revolution+In+El+Salvador+Tommie+Sue+Montgomery&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Revolution In El Salvador">Revolution In El Salvador</a>
+        </h4>
+        <p class="fr-book-author">By Tommie Sue Montgomery</p>
         
-<p class="fr-book-desc">Anchors the legend within Salvadoran society and history.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Revolution+In+El+Salvador+by+Tommie+Sue+Montgomery&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Anchors the legend within Salvadoran society and history.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Revolution+In+El+Salvador+Tommie+Sue+Montgomery&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptic%27s+Guide+to+the+Paranormal+by+Lynne+Kelly&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptic&#x27;s Guide to the Paranormal on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BoFF2n7qwnEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Skeptic&#x27;s Guide to the Paranormal" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Skeptic%27s+Guide+to+the+Paranormal+by+Lynne+Kelly&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptic&#x27;s Guide to the Paranormal">The Skeptic&#x27;s Guide to the Paranormal</a>
-</h4>
-<p class="fr-book-author">By Lynne Kelly</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Monster+Talk+Michael+Jarmer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Monster Talk on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=R3TuCsL0arUC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Monster Talk" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Monster+Talk+Michael+Jarmer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Monster Talk">Monster Talk</a>
+        </h4>
+        <p class="fr-book-author">By Michael Jarmer</p>
         
-<p class="fr-book-desc">Explains how extraordinary animal-attack claims are investigated.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Skeptic%27s+Guide+to+the+Paranormal+by+Lynne+Kelly&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Provides broader context for monster narratives like the Chupacabra.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Monster+Talk+Michael+Jarmer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Tracking+the+Chupacabra%3A+The+Vampire+Beast+in+Fact%2C+Fiction%2C+and+Folklore+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Tracking the Chupacabra: The Vampire Beast in Fact, Fiction, and Folklore on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Tracking+the+Chupacabra%3A+The+Vampire+Beast+in+Fact%2C+Fiction%2C+and+Folklore+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Tracking the Chupacabra: The Vampire Beast in Fact, Fiction, and Folklore">Tracking the Chupacabra: The Vampire Beast in Fact, Fiction,...</a>
-</h4>
-<p class="fr-book-author">By Benjamin Radford</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptic%27s+Guide+to+the+Paranormal+Lynne+Kelly&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptic&#x27;s Guide to the Paranormal on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BoFF2n7qwnEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Skeptic&#x27;s Guide to the Paranormal" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Skeptic%27s+Guide+to+the+Paranormal+Lynne+Kelly&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptic&#x27;s Guide to the Paranormal">The Skeptic&#x27;s Guide to the Paranormal</a>
+        </h4>
+        <p class="fr-book-author">By Lynne Kelly</p>
         
-<p class="fr-book-desc">Directly examines livestock attacks and the legend&#x27;s origins.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Tracking+the+Chupacabra%3A+The+Vampire+Beast+in+Fact%2C+Fiction%2C+and+Folklore+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Explains how extraordinary animal-attack claims are investigated.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Skeptic%27s+Guide+to+the+Paranormal+Lynne+Kelly&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Tracking+the+Chupacabra&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Tracking the Chupacabra</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Revolution+In+El+Salvador&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Revolution In El Salvador</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Skeptic%27s+to+the+Paranormal+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Skeptic&#x27;s to the Paranormal books</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Tracking+the+Chupacabra&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Tracking the Chupacabra</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Revolution+In+El+Salvador&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Revolution In El Salvador</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Monster+Talk&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Monster Talk</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

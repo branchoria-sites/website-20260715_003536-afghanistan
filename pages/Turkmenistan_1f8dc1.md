@@ -1297,89 +1297,89 @@ The most useful sceptical approach is therefore symmetrical. Official claims req
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to When Official Claims Became Turkmenistan&#x27;s Reality. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to When Official Claims Became Turkmenistan&#x27;s Reality. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Central+Asia+by+Adeeb+Khalid&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Central Asia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=h9hyEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Central Asia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Central+Asia+by+Adeeb+Khalid&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Central Asia">Central Asia</a>
-</h4>
-<p class="fr-book-author">By Adeeb Khalid</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Central+Asia+Adeeb+Khalid&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Central Asia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=h9hyEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Central Asia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Central+Asia+Adeeb+Khalid&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Central Asia">Central Asia</a>
+        </h4>
+        <p class="fr-book-author">By Adeeb Khalid</p>
         
-<p class="fr-book-desc">Places Turkmenistan&#x27;s information system in regional context.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Central+Asia+by+Adeeb+Khalid&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Places Turkmenistan&#x27;s information system in regional context.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Central+Asia+Adeeb+Khalid&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Dictators+Without+Borders+by+Alexander+Cooley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dictators Without Borders on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=n8wCDgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Dictators Without Borders" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Dictators+Without+Borders+by+Alexander+Cooley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dictators Without Borders">Dictators Without Borders</a>
-</h4>
-<p class="fr-book-author">By Alexander Cooley, John Heathershaw</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Dictators+Without+Borders+Alexander+Cooley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dictators Without Borders on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=n8wCDgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Dictators Without Borders" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Dictators+Without+Borders+Alexander+Cooley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dictators Without Borders">Dictators Without Borders</a>
+        </h4>
+        <p class="fr-book-author">By Alexander Cooley, John Heathershaw</p>
         
-<p class="fr-book-desc">Explores how authoritarian systems maintain power and narratives.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Dictators+Without+Borders+by+Alexander+Cooley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Explores how authoritarian systems maintain power and narratives.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Dictators+Without+Borders+Alexander+Cooley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Turkmenistan%3A+Power%2C+Politics+and+Petro+Authoritarianism+Luca+Anceschi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Turkmenistan: Power, Politics and Petro-Authoritarianism on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Turkmenistan%3A+Power%2C+Politics+and+Petro+Authoritarianism+Luca+Anceschi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Turkmenistan: Power, Politics and Petro-Authoritarianism">Turkmenistan: Power, Politics and Petro-Authoritarianism</a>
-</h4>
-<p class="fr-book-author">By Luca Anceschi</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Ruhnama+Saparmurat+Nijazov&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ruhnama on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Ruhnama+Saparmurat+Nijazov&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ruhnama">Ruhnama</a>
+        </h4>
+        <p class="fr-book-author">By Saparmurat Nijazov</p>
         
-<p class="fr-book-desc">Explains the political system behind official narratives and controlled information.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Turkmenistan%3A+Power%2C+Politics+and+Petro+Authoritarianism+Luca+Anceschi&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Central primary source for the page&#x27;s themes.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Ruhnama+Saparmurat+Nijazov&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Ruhnama+by+Saparmurat+Nijazov&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ruhnama on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Ruhnama+by+Saparmurat+Nijazov&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ruhnama">Ruhnama</a>
-</h4>
-<p class="fr-book-author">By Saparmurat Nijazov</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Turkmenistan%3A+Power%2C+Politics+and+Petro-Authoritarianism+Luca+Anceschi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Turkmenistan: Power, Politics and Petro-Authoritarianism on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Turkmenistan%3A+Power%2C+Politics+and+Petro-Authoritarianism+Luca+Anceschi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Turkmenistan: Power, Politics and Petro-Authoritarianism">Turkmenistan: Power, Politics and Petro-Authoritarianism</a>
+        </h4>
+        <p class="fr-book-author">By Luca Anceschi</p>
         
-<p class="fr-book-desc">Central primary source for the page&#x27;s themes.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Ruhnama+by+Saparmurat+Nijazov&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Explains the political system behind official narratives and controlled information.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Turkmenistan%3A+Power%2C+Politics+and+Petro-Authoritarianism+Luca+Anceschi&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Central+Asia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Central Asia</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Dictators+Without+Borders&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Dictators Without Borders</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Turkmenistan%3A+Power%2C+Politics+and+Petro+Authoritarianism&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Turkmenistan: Power, Politics and Petro Authoritarianism</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Central+Asia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Central Asia</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Dictators+Without+Borders&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Dictators Without Borders</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Ruhnama&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ruhnama</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

@@ -337,89 +337,89 @@ As a result, the “country that builds roads around elves” narrative belongs 
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to Does Iceland Really Build Roads Around Elves?. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to Does Iceland Really Build Roads Around Elves?. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Little+Book+of+the+Hidden+People+by+Alda+Sigmundsdottir&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Little Book of the Hidden People on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_vRcrgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Little Book of the Hidden People" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Little+Book+of+the+Hidden+People+by+Alda+Sigmundsdottir&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Little Book of the Hidden People">The Little Book of the Hidden People</a>
-</h4>
-<p class="fr-book-author">By Alda Sigmundsdottir</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Icelandic+Folktales+and+Legends+Jacqueline+Simpson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Icelandic Folktales and Legends on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HY-DCKd6UgUC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Icelandic Folktales and Legends" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Icelandic+Folktales+and+Legends+Jacqueline+Simpson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Icelandic Folktales and Legends">Icelandic Folktales and Legends</a>
+        </h4>
+        <p class="fr-book-author">By Jacqueline Simpson</p>
         
-<p class="fr-book-desc">Directly addresses the folklore behind road-and-elf stories.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Little+Book+of+the+Hidden+People+by+Alda+Sigmundsdottir&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Provides original stories that underpin modern elf narratives.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Icelandic+Folktales+and+Legends+Jacqueline+Simpson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Icelandic+Folktales+and+Legends+by+Jacqueline+Simpson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Icelandic Folktales and Legends on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HY-DCKd6UgUC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Icelandic Folktales and Legends" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Icelandic+Folktales+and+Legends+by+Jacqueline+Simpson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Icelandic Folktales and Legends">Icelandic Folktales and Legends</a>
-</h4>
-<p class="fr-book-author">By Jacqueline Simpson</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Little+Book+of+the+Hidden+People+Alda+Sigmundsdottir&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Little Book of the Hidden People on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_vRcrgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Little Book of the Hidden People" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Little+Book+of+the+Hidden+People+Alda+Sigmundsdottir&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Little Book of the Hidden People">The Little Book of the Hidden People</a>
+        </h4>
+        <p class="fr-book-author">By Alda Sigmundsdottir</p>
         
-<p class="fr-book-desc">Provides original stories that underpin modern elf narratives.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Icelandic+Folktales+and+Legends+by+Jacqueline+Simpson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Directly addresses the folklore behind road-and-elf stories.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Little+Book+of+the+Hidden+People+Alda+Sigmundsdottir&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Prose+Edda+by+Snorri+Sturluson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Prose Edda on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=uHwH2EmplcIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Prose Edda" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Prose+Edda+by+Snorri+Sturluson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Prose Edda">The Prose Edda</a>
-</h4>
-<p class="fr-book-author">By Snorri Sturluson</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Prose+Edda+Snorri+Sturluson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Prose Edda on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=uHwH2EmplcIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Prose Edda" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Prose+Edda+Snorri+Sturluson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Prose Edda">The Prose Edda</a>
+        </h4>
+        <p class="fr-book-author">By Snorri Sturluson</p>
         
-<p class="fr-book-desc">Explains supernatural traditions that influence later folklore.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Prose+Edda+by+Snorri+Sturluson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Explains supernatural traditions that influence later folklore.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Prose+Edda+Snorri+Sturluson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+prose+Edda+of+Snorri+Sturluson+Snorri+Sturluson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The prose Edda of Snorri Sturluson on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+prose+Edda+of+Snorri+Sturluson+Snorri+Sturluson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The prose Edda of Snorri Sturluson">The prose Edda of Snorri Sturluson</a>
-</h4>
-<p class="fr-book-author">By Snorri Sturluson</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+prose+Edda+of+Snorri+Sturluson+Snorri+Sturluson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The prose Edda of Snorri Sturluson on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+prose+Edda+of+Snorri+Sturluson+Snorri+Sturluson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The prose Edda of Snorri Sturluson">The prose Edda of Snorri Sturluson</a>
+        </h4>
+        <p class="fr-book-author">By Snorri Sturluson</p>
         
-<p class="fr-book-desc">First published 1954. Subjects: Norse Mythology, Scalds and scaldic poetry.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+prose+Edda+of+Snorri+Sturluson+Snorri+Sturluson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">First published 1954. Subjects: Norse Mythology, Scalds and scaldic poetry.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+prose+Edda+of+Snorri+Sturluson+Snorri+Sturluson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Little+Book+of+the+Hidden+People&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Little Book of the Hidden People</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Icelandic+Folktales+and+Legends&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Icelandic Folktales and Legends</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Prose+Edda&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Prose Edda</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Icelandic+Folktales+and+Legends&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Icelandic Folktales and Legends</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Little+Book+of+the+Hidden+People&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Little Book of the Hidden People</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Prose+Edda&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Prose Edda</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

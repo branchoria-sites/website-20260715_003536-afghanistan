@@ -361,89 +361,89 @@ The Shapira Scrolls controversy illustrates how authenticity judgments are shape
 For the history of Jordan-linked antiquities disputes, the case serves as a reminder that provenance matters as much as the object itself. Because the alleged discovery lacked secure archaeological documentation and because the original strips disappeared, the argument has remained unresolved for nearly a century and a half. Unlike many exposed hoaxes, the Shapira Scrolls cannot be conclusively debunked or conclusively vindicated. Their enduring fascination lies precisely in that uncertainty.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Shapira_Scroll" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[wikipedia.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Shapira Scroll</span><span class="citation-popover-snippet">Shapira Scroll</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to Were the Shapira Scrolls Dismissed Too Quickly?. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to Were the Shapira Scrolls Dismissed Too Quickly?. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Lost+Book+of+Moses+by+Chanan+Tigay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Lost Book of Moses on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eHd3rgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Lost Book of Moses" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Lost+Book+of+Moses+by+Chanan+Tigay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Lost Book of Moses">The Lost Book of Moses</a>
-</h4>
-<p class="fr-book-author">By Chanan Tigay</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Lost+Book+of+Moses+Chanan+Tigay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Lost Book of Moses on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eHd3rgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Lost Book of Moses" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Lost+Book+of+Moses+Chanan+Tigay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Lost Book of Moses">The Lost Book of Moses</a>
+        </h4>
+        <p class="fr-book-author">By Chanan Tigay</p>
         
-<p class="fr-book-desc">Directly addresses the disputed Shapira manuscripts.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Lost+Book+of+Moses+by+Chanan+Tigay&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Directly addresses the disputed Shapira manuscripts.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Lost+Book+of+Moses+Chanan+Tigay&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Dead+Sea+Scrolls+Today+by+James+C.+VanderKam&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Dead Sea Scrolls Today on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QG3bzQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Dead Sea Scrolls Today" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Dead+Sea+Scrolls+Today+by+James+C.+VanderKam&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Dead Sea Scrolls Today">The Dead Sea Scrolls Today</a>
-</h4>
-<p class="fr-book-author">By James C. VanderKam</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Dead+Sea+Scrolls+Today+James+C.+VanderKam&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Dead Sea Scrolls Today on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QG3bzQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Dead Sea Scrolls Today" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Dead+Sea+Scrolls+Today+James+C.+VanderKam&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Dead Sea Scrolls Today">The Dead Sea Scrolls Today</a>
+        </h4>
+        <p class="fr-book-author">By James C. VanderKam</p>
         
-<p class="fr-book-desc">The Dead Sea Scrolls revived interest in Shapira&#x27;s claims.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Dead+Sea+Scrolls+Today+by+James+C.+VanderKam&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">The Dead Sea Scrolls revived interest in Shapira&#x27;s claims.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Dead+Sea+Scrolls+Today+James+C.+VanderKam&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Misquoting+Jesus+by+Bart+D.+Ehrman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Misquoting Jesus on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xmJjSUiJtuQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Misquoting Jesus" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Misquoting+Jesus+by+Bart+D.+Ehrman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Misquoting Jesus">Misquoting Jesus</a>
-</h4>
-<p class="fr-book-author">By Bart D. Ehrman</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Bible+Unearthed+Israel+Finkelstein&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Bible Unearthed on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lu6ywyJr0CMC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Bible Unearthed" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Bible+Unearthed+Israel+Finkelstein&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Bible Unearthed">The Bible Unearthed</a>
+        </h4>
+        <p class="fr-book-author">By Israel Finkelstein, Neil Asher Silberman</p>
+        <p class="fr-book-popularity">Rating: 3.5/5 from 9 Google Books ratings</p>
+        <p class="fr-book-desc">Supplies historical context for ancient-text discoveries.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Bible+Unearthed+Israel+Finkelstein&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Misquoting+Jesus+Bart+D.+Ehrman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Misquoting Jesus on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xmJjSUiJtuQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Misquoting Jesus" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Misquoting+Jesus+Bart+D.+Ehrman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Misquoting Jesus">Misquoting Jesus</a>
+        </h4>
+        <p class="fr-book-author">By Bart D. Ehrman</p>
         
-<p class="fr-book-desc">Explores manuscript transmission and textual authenticity.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Misquoting+Jesus+by+Bart+D.+Ehrman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Explores manuscript transmission and textual authenticity.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Misquoting+Jesus+Bart+D.+Ehrman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Bible+Unearthed+by+Israel+Finkelstein&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Bible Unearthed on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lu6ywyJr0CMC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Bible Unearthed" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Bible+Unearthed+by+Israel+Finkelstein&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Bible Unearthed">The Bible Unearthed</a>
-</h4>
-<p class="fr-book-author">By Israel Finkelstein, Neil Asher Silberman</p>
-<p class="fr-book-popularity">Rating: 3.5/5 from 9 Google Books ratings</p>
-<p class="fr-book-desc">Supplies historical context for ancient-text discoveries.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Bible+Unearthed+by+Israel+Finkelstein&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Lost+Book+of+Moses&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Lost Book of Moses</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Dead+Sea+Scrolls+Today&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Dead Sea Scrolls Today</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Misquoting+Jesus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Misquoting Jesus</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Lost+Book+of+Moses&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Lost Book of Moses</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Dead+Sea+Scrolls+Today&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Dead Sea Scrolls Today</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Bible+Unearthed&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Bible Unearthed</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

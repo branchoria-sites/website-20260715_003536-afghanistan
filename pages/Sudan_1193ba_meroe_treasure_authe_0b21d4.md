@@ -328,89 +328,89 @@ Today the jewellery of Queen Amanishakheto is recognised as one of the most impo
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to Why Experts Doubted Meroe&#x27;s Real Royal Gold. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to Why Experts Doubted Meroe&#x27;s Real Royal Gold. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Ancient+Nubia+by+Marjorie+M.+Fisher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ancient Nubia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Lu6nZwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ancient Nubia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Ancient+Nubia+by+Marjorie+M.+Fisher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ancient Nubia">Ancient Nubia</a>
-</h4>
-<p class="fr-book-author">By Marjorie M. Fisher, Peter Lacovara et al.</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ancient+Nubia+Marjorie+M.+Fisher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ancient Nubia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Lu6nZwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ancient Nubia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Ancient+Nubia+Marjorie+M.+Fisher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ancient Nubia">Ancient Nubia</a>
+        </h4>
+        <p class="fr-book-author">By Marjorie M. Fisher, Peter Lacovara et al.</p>
         
-<p class="fr-book-desc">Explains the cultural setting of the Meroe treasure.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Ancient+Nubia+by+Marjorie+M.+Fisher&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Explains the cultural setting of the Meroe treasure.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Ancient+Nubia+Marjorie+M.+Fisher&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Lives+of+the+Ancient+Egyptians+by+Toby+Wilkinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Lives of the Ancient Egyptians on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wVbGDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Lives of the Ancient Egyptians" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Lives+of+the+Ancient+Egyptians+by+Toby+Wilkinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Lives of the Ancient Egyptians">Lives of the Ancient Egyptians</a>
-</h4>
-<p class="fr-book-author">By Toby Wilkinson</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Lives+of+the+Ancient+Egyptians+Toby+Wilkinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Lives of the Ancient Egyptians on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wVbGDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Lives of the Ancient Egyptians" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Lives+of+the+Ancient+Egyptians+Toby+Wilkinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Lives of the Ancient Egyptians">Lives of the Ancient Egyptians</a>
+        </h4>
+        <p class="fr-book-author">By Toby Wilkinson</p>
         
-<p class="fr-book-desc">Helps readers compare Nile civilizations and elite material culture.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Lives+of+the+Ancient+Egyptians+by+Toby+Wilkinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Helps readers compare Nile civilizations and elite material culture.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Lives+of+the+Ancient+Egyptians+Toby+Wilkinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Kingdom+of+Kush+by+L%C3%A1szl%C3%B3+T%C3%B6r%C3%B6k&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Kingdom of Kush on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Kingdom+of+Kush+by+L%C3%A1szl%C3%B3+T%C3%B6r%C3%B6k&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Kingdom of Kush">The Kingdom of Kush</a>
-</h4>
-<p class="fr-book-author">By László Török</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Archaeology+%3A+theories%2C+methods%2C+and+practice+Colin+Renfrew&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Archaeology : theories, methods, and practice on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/316824-M.jpg" alt="Cover for Archaeology : theories, methods, and practice" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Archaeology+%3A+theories%2C+methods%2C+and+practice+Colin+Renfrew&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Archaeology : theories, methods, and practice">Archaeology : theories, methods, and practice</a>
+        </h4>
+        <p class="fr-book-author">By Colin Renfrew, Paul Bahn</p>
         
-<p class="fr-book-desc">Directly addresses Kushite civilization and Meroitic archaeology.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Kingdom+of+Kush+by+L%C3%A1szl%C3%B3+T%C3%B6r%C3%B6k&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Useful for understanding provenance and artifact authentication.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Archaeology+%3A+theories%2C+methods%2C+and+practice+Colin+Renfrew&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Nubia+by+William+Y.+Adams&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Nubia on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Nubia+by+William+Y.+Adams&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Nubia">Nubia</a>
-</h4>
-<p class="fr-book-author">By William Y. Adams</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Kingdom+of+Kush+L%C3%A1szl%C3%B3+T%C3%B6r%C3%B6k&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Kingdom of Kush on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Kingdom+of+Kush+L%C3%A1szl%C3%B3+T%C3%B6r%C3%B6k&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Kingdom of Kush">The Kingdom of Kush</a>
+        </h4>
+        <p class="fr-book-author">By László Török</p>
         
-<p class="fr-book-desc">Provides broader archaeological context for royal Nubian finds.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Nubia+by+William+Y.+Adams&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Directly addresses Kushite civilization and Meroitic archaeology.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Kingdom+of+Kush+L%C3%A1szl%C3%B3+T%C3%B6r%C3%B6k&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Ancient+Nubia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ancient Nubia</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Lives+of+the+Ancient+Egyptians&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Lives of the Ancient Egyptians</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Kingdom+of+Kush&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Kingdom of Kush</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Ancient+Nubia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ancient Nubia</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Lives+of+the+Ancient+Egyptians&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Lives of the Ancient Egyptians</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Archaeology+%3A+theories%2C+methods%2C+and+practice&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Archaeology : theories, methods, and practice</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

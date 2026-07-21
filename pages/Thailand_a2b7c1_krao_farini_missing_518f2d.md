@@ -323,89 +323,89 @@ Krao Farini occupies an unusual place in the history of deception. Unlike many f
 That distinction makes the case especially important within [Thailand]({{ 'how-thailands-most-famous-deceptions/' | relative_url }})'s history of famous deceptions and misconceptions. The story demonstrates how places associated with mystery in the Western imagination could be used as settings for invented scientific narratives. It also shows how authority can be borrowed from science without following scientific standards. Krao's life reminds us that some of history's most influential falsehoods were not built from fake objects but from misleading stories imposed on real people.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://daily.jstor.org/finding-krao-farini/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: daily.jstor.org">[jstor.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">daily.jstor.org</span><span class="citation-popover-title">Daily Finding Krao Farini</span><span class="citation-popover-snippet">JSTOR DailyFinding Krao FariniJanuary 25, 2023 — 25 Jan 2023 — Krao was advertised in a new mode thanks to emergent evolution theory: not...</span><span class="citation-popover-meta">Published: January 25, 2023</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to How Krao Became a Victorian Missing Link. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to How Krao Became a Victorian Missing Link. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Freak+Show+by+Robert+Bogdan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Freak Show on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=1ZXeBQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Freak Show" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Freak+Show+by+Robert+Bogdan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Freak Show">Freak Show</a>
-</h4>
-<p class="fr-book-author">By Robert Bogdan</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Freak+Show+Robert+Bogdan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Freak Show on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=1ZXeBQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Freak Show" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Freak+Show+Robert+Bogdan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Freak Show">Freak Show</a>
+        </h4>
+        <p class="fr-book-author">By Robert Bogdan</p>
         
-<p class="fr-book-desc">Closely matches Krao Farini&#x27;s treatment as a spectacle.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Freak+Show+by+Robert+Bogdan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Closely matches Krao Farini&#x27;s treatment as a spectacle.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Freak+Show+Robert+Bogdan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+True+History+of+the+Elephant+Man+by+Peter+Ford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The True History of the Elephant Man on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=RgsnAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The True History of the Elephant Man" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+True+History+of+the+Elephant+Man+by+Peter+Ford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The True History of the Elephant Man">The True History of the Elephant Man</a>
-</h4>
-<p class="fr-book-author">By Peter Ford, Michael Howell</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Why People Believe Weird Things on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=RSqGDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Why People Believe Weird Things" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why People Believe Weird Things">Why People Believe Weird Things</a>
+        </h4>
+        <p class="fr-book-author">By Michael Shermer</p>
         
-<p class="fr-book-desc">Provides context for how unusual bodies were commercialized.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+True+History+of+the+Elephant+Man+by+Peter+Ford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Helps explain why the missing-link narrative resonated with audiences.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Mismeasure+of+Man+by+Stephen+Jay+Gould&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Mismeasure of Man on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Mismeasure+of+Man+by+Stephen+Jay+Gould&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Mismeasure of Man">The Mismeasure of Man</a>
-</h4>
-<p class="fr-book-author">By Stephen Jay Gould</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+True+History+of+the+Elephant+Man+Peter+Ford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The True History of the Elephant Man on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=RgsnAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The True History of the Elephant Man" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+True+History+of+the+Elephant+Man+Peter+Ford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The True History of the Elephant Man">The True History of the Elephant Man</a>
+        </h4>
+        <p class="fr-book-author">By Peter Ford, Michael Howell</p>
         
-<p class="fr-book-desc">Examines misuse of science to support human hierarchies and false claims.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Mismeasure+of+Man+by+Stephen+Jay+Gould&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Provides context for how unusual bodies were commercialized.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+True+History+of+the+Elephant+Man+Peter+Ford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Why People Believe Weird Things on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why People Believe Weird Things">Why People Believe Weird Things</a>
-</h4>
-<p class="fr-book-author">By Michael Shermer</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Mismeasure+of+Man+Stephen+Jay+Gould&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Mismeasure of Man on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Mismeasure+of+Man+Stephen+Jay+Gould&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Mismeasure of Man">The Mismeasure of Man</a>
+        </h4>
+        <p class="fr-book-author">By Stephen Jay Gould</p>
         
-<p class="fr-book-desc">Helps explain why the missing-link narrative resonated with audiences.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Examines misuse of science to support human hierarchies and false claims.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Mismeasure+of+Man+Stephen+Jay+Gould&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Freak+Show&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Freak Show</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+True+History+of+the+Elephant+Man&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The True History of the Elephant Man</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Mismeasure+of+Man&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Mismeasure of Man</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Freak+Show&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Freak Show</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Why People Believe Weird Things</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+True+History+of+the+Elephant+Man&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The True History of the Elephant Man</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

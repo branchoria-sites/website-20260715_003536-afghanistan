@@ -342,89 +342,89 @@ An ancient object can be genuine while its inscription is disputed. Scientific t
 For readers interested in famous archaeological disputes, the lasting lesson is simple: the 2012 acquittal settled a criminal case, not the historical debate. More than two decades after the inscription first captured international attention, the question of whether the words on the ossuary are entirely ancient remains contested, and the missing provenance continues to limit how confidently anyone can answer it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.timesofisrael.com/oded-golan-is-not-guilty-of-forgery-so-is-the-james-ossuary-for-real/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: timesofisrael.com">[timesofisrael.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">timesofisrael.com</span><span class="citation-popover-title">The Times of Israel Oded Golan is not guilty of forgery</span><span class="citation-popover-snippet">So is the &#x27;James...His decision to clear Golan of forging the inscription on the James ossuary, he wrote, “does not mean that the inscri...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to Did the James Ossuary Trial Prove Authenticity?. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to Did the James Ossuary Trial Prove Authenticity?. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Brother+of+Jesus+by+Hershel+Shanks&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Brother of Jesus on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YVFVzQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Brother of Jesus" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Brother+of+Jesus+by+Hershel+Shanks&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Brother of Jesus">The Brother of Jesus</a>
-</h4>
-<p class="fr-book-author">By Hershel Shanks, Ben Witherington III</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Brother+of+Jesus+Hershel+Shanks&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Brother of Jesus on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YVFVzQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Brother of Jesus" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Brother+of+Jesus+Hershel+Shanks&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Brother of Jesus">The Brother of Jesus</a>
+        </h4>
+        <p class="fr-book-author">By Hershel Shanks, Ben Witherington III</p>
         
-<p class="fr-book-desc">Focuses on the artifact, inscription and debate.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Brother+of+Jesus+by+Hershel+Shanks&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Focuses on the artifact, inscription and debate.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Brother+of+Jesus+Hershel+Shanks&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=James%2C+the+Brother+of+Jesus+by+Robert+H.+Eisenman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open James, the Brother of Jesus on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=V8lVPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for James, the Brother of Jesus" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=James%2C+the+Brother+of+Jesus+by+Robert+H.+Eisenman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="James, the Brother of Jesus">James, the Brother of Jesus</a>
-</h4>
-<p class="fr-book-author">By Robert H. Eisenman</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=James%2C+the+Brother+of+Jesus+Robert+H.+Eisenman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open James, the Brother of Jesus on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=V8lVPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for James, the Brother of Jesus" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=James%2C+the+Brother+of+Jesus+Robert+H.+Eisenman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="James, the Brother of Jesus">James, the Brother of Jesus</a>
+        </h4>
+        <p class="fr-book-author">By Robert H. Eisenman</p>
         
-<p class="fr-book-desc">Provides context for why the ossuary attracted such attention.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=James%2C+the+Brother+of+Jesus+by+Robert+H.+Eisenman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Provides context for why the ossuary attracted such attention.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=James%2C+the+Brother+of+Jesus+Robert+H.+Eisenman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Jesus+Dynasty+by+James+D.+Tabor&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Jesus Dynasty on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=3rCyCH1iMgIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Jesus Dynasty" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Jesus+Dynasty+by+James+D.+Tabor&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Jesus Dynasty">The Jesus Dynasty</a>
-</h4>
-<p class="fr-book-author">By James D. Tabor</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Bible+Unearthed+Israel+Finkelstein&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Bible Unearthed on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lu6ywyJr0CMC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Bible Unearthed" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Bible+Unearthed+Israel+Finkelstein&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Bible Unearthed">The Bible Unearthed</a>
+        </h4>
+        <p class="fr-book-author">By Israel Finkelstein, Neil Asher Silberman</p>
+        <p class="fr-book-popularity">Rating: 3.5/5 from 9 Google Books ratings</p>
+        <p class="fr-book-desc">Provides broader archaeological context for biblical-era artifacts.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Bible+Unearthed+Israel+Finkelstein&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Jesus+Dynasty+James+D.+Tabor&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Jesus Dynasty on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=3rCyCH1iMgIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Jesus Dynasty" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Jesus+Dynasty+James+D.+Tabor&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Jesus Dynasty">The Jesus Dynasty</a>
+        </h4>
+        <p class="fr-book-author">By James D. Tabor</p>
         
-<p class="fr-book-desc">Explains family and historical questions that fueled interest in the ossuary.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Jesus+Dynasty+by+James+D.+Tabor&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Explains family and historical questions that fueled interest in the ossuary.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Jesus+Dynasty+James+D.+Tabor&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Bible+Unearthed+by+Israel+Finkelstein&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Bible Unearthed on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lu6ywyJr0CMC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Bible Unearthed" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Bible+Unearthed+by+Israel+Finkelstein&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Bible Unearthed">The Bible Unearthed</a>
-</h4>
-<p class="fr-book-author">By Israel Finkelstein, Neil Asher Silberman</p>
-<p class="fr-book-popularity">Rating: 3.5/5 from 9 Google Books ratings</p>
-<p class="fr-book-desc">Provides broader archaeological context for biblical-era artifacts.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Bible+Unearthed+by+Israel+Finkelstein&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Brother+of+Jesus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Brother of Jesus</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=James%2C+the+Brother+of+Jesus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">James, the Brother of Jesus</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Jesus+Dynasty&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Jesus Dynasty</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Brother+of+Jesus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Brother of Jesus</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=James%2C+the+Brother+of+Jesus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">James, the Brother of Jesus</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Bible+Unearthed&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Bible Unearthed</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

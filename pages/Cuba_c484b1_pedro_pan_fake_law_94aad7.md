@@ -316,89 +316,89 @@ For historians of Cuba, the story is a reminder that some of the most influentia
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to Did Cuba Really Plan to Seize Children?. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to Did Cuba Really Plan to Seize Children?. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Operation+Pedro+Pan+by+Yvonne+Conde&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Operation Pedro Pan on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=W-SSAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Operation Pedro Pan" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Operation+Pedro+Pan+by+Yvonne+Conde&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Operation Pedro Pan">Operation Pedro Pan</a>
-</h4>
-<p class="fr-book-author">By Yvonne Conde</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Operation+Pedro+Pan+Yvonne+Conde&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Operation Pedro Pan on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=W-SSAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Operation Pedro Pan" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Operation+Pedro+Pan+Yvonne+Conde&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Operation Pedro Pan">Operation Pedro Pan</a>
+        </h4>
+        <p class="fr-book-author">By Yvonne Conde</p>
         
-<p class="fr-book-desc">Directly addresses the child-removal panic and Pedro Pan migration.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Operation+Pedro+Pan+by+Yvonne+Conde&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Directly addresses the child-removal panic and Pedro Pan migration.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Operation+Pedro+Pan+Yvonne+Conde&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Waiting+for+Snow+in+Havana+by+Carlos+M.+N.+Eire&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Waiting for Snow in Havana on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YAhiPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Waiting for Snow in Havana" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Waiting+for+Snow+in+Havana+by+Carlos+M.+N.+Eire&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Waiting for Snow in Havana">Waiting for Snow in Havana</a>
-</h4>
-<p class="fr-book-author">By Carlos M. N. Eire</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Waiting+for+Snow+in+Havana+Carlos+M.+N.+Eire&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Waiting for Snow in Havana on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YAhiPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Waiting for Snow in Havana" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Waiting+for+Snow+in+Havana+Carlos+M.+N.+Eire&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Waiting for Snow in Havana">Waiting for Snow in Havana</a>
+        </h4>
+        <p class="fr-book-author">By Carlos M. N. Eire</p>
         
-<p class="fr-book-desc">First-hand account from a Pedro Pan participant.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Waiting+for+Snow+in+Havana+by+Carlos+M.+N.+Eire&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">First-hand account from a Pedro Pan participant.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Waiting+for+Snow+in+Havana+Carlos+M.+N.+Eire&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=CUBA%3A+AN+AMERICAN+HISTORY+by+FERRER.+DR.+ADA&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open CUBA: AN AMERICAN HISTORY on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=a1IwzwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for CUBA: AN AMERICAN HISTORY" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=CUBA%3A+AN+AMERICAN+HISTORY+by+FERRER.+DR.+ADA&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="CUBA: AN AMERICAN HISTORY">CUBA: AN AMERICAN HISTORY</a>
-</h4>
-<p class="fr-book-author">By FERRER. DR. ADA</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=CUBA%3A+AN+AMERICAN+HISTORY+FERRER.+DR.+ADA&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open CUBA: AN AMERICAN HISTORY on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=a1IwzwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for CUBA: AN AMERICAN HISTORY" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=CUBA%3A+AN+AMERICAN+HISTORY+FERRER.+DR.+ADA&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="CUBA: AN AMERICAN HISTORY">CUBA: AN AMERICAN HISTORY</a>
+        </h4>
+        <p class="fr-book-author">By FERRER. DR. ADA</p>
         
-<p class="fr-book-desc">Explains the wider Cold War and revolutionary context behind the rumor.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=CUBA%3A+AN+AMERICAN+HISTORY+by+FERRER.+DR.+ADA&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Explains the wider Cold War and revolutionary context behind the rumor.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=CUBA%3A+AN+AMERICAN+HISTORY+FERRER.+DR.+ADA&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Closest+of+Enemies+by+Wayne+S.+Smith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Closest of Enemies on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Closest+of+Enemies+by+Wayne+S.+Smith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Closest of Enemies">The Closest of Enemies</a>
-</h4>
-<p class="fr-book-author">By Wayne S. Smith</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Manufacturing+Consent+Edward+S+Herman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Manufacturing Consent on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Kv_-bvCqgrEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Manufacturing Consent" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Manufacturing+Consent+Edward+S+Herman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Manufacturing Consent">Manufacturing Consent</a>
+        </h4>
+        <p class="fr-book-author">By Edward S Herman, Noam Chomsky</p>
         
-<p class="fr-book-desc">Provides background on Cold War information battles.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Closest+of+Enemies+by+Wayne+S.+Smith&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Helps readers understand how politically useful claims spread.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Manufacturing+Consent+Edward+S+Herman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Operation+Pedro+Pan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Operation Pedro Pan</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Waiting+for+Snow+in+Havana&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Waiting for Snow in Havana</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=CUBA%3A+AN+AMERICAN+HISTORY&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">CUBA: AN AMERICAN HISTORY</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Operation+Pedro+Pan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Operation Pedro Pan</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Waiting+for+Snow+in+Havana&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Waiting for Snow in Havana</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=CUBA%3A+AN+AMERICAN+HISTORY&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">CUBA: AN AMERICAN HISTORY</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

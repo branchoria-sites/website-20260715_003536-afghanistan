@@ -336,89 +336,89 @@ As a result, “Robinson Crusoe’s island” remains one of Tobago’s most end
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to Was Tobago the Real Robinson Crusoe Island?. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to Was Tobago the Real Robinson Crusoe Island?. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Robinson+Crusoe+by+Daniel+Defoe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Robinson Crusoe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Ek5sq-4QI6oC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Robinson Crusoe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Robinson+Crusoe+by+Daniel+Defoe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Robinson Crusoe">Robinson Crusoe</a>
-</h4>
-<p class="fr-book-author">By Daniel Defoe, Robert Blaisdell et al.</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Robinson+Crusoe+Daniel+Defoe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Robinson Crusoe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Ek5sq-4QI6oC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Robinson Crusoe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Robinson+Crusoe+Daniel+Defoe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Robinson Crusoe">Robinson Crusoe</a>
+        </h4>
+        <p class="fr-book-author">By Daniel Defoe, Robert Blaisdell et al.</p>
         
-<p class="fr-book-desc">The Tobago claim revolves around interpreting this novel&#x27;s geography.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Robinson+Crusoe+by+Daniel+Defoe&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">The Tobago claim revolves around interpreting this novel&#x27;s geography.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Robinson+Crusoe+Daniel+Defoe&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+life+and+adventures+of+Alexander+Selkirk+by+John+Howell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The life and adventures of Alexander Selkirk on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=DSARmYz3DkYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The life and adventures of Alexander Selkirk" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+life+and+adventures+of+Alexander+Selkirk+by+John+Howell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The life and adventures of Alexander Selkirk">The life and adventures of Alexander Selkirk</a>
-</h4>
-<p class="fr-book-author">By John Howell</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+life+and+adventures+of+Alexander+Selkirk+John+Howell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The life and adventures of Alexander Selkirk on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=DSARmYz3DkYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The life and adventures of Alexander Selkirk" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+life+and+adventures+of+Alexander+Selkirk+John+Howell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The life and adventures of Alexander Selkirk">The life and adventures of Alexander Selkirk</a>
+        </h4>
+        <p class="fr-book-author">By John Howell</p>
         
-<p class="fr-book-desc">Provides background on a major source often linked to Defoe&#x27;s story.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+life+and+adventures+of+Alexander+Selkirk+by+John+Howell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Provides background on a major source often linked to Defoe&#x27;s story.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+life+and+adventures+of+Alexander+Selkirk+John+Howell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+We+Know+What+Isn%27t+So+by+Thomas+Gilovich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How We Know What Isn&#x27;t So on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=LURGkHCPAJEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How We Know What Isn&#x27;t So" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=How+We+Know+What+Isn%27t+So+by+Thomas+Gilovich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How We Know What Isn&#x27;t So">How We Know What Isn&#x27;t So</a>
-</h4>
-<p class="fr-book-author">By Thomas Gilovich</p>
-<p class="fr-book-popularity">Rating: 4.0/5 from 6 Google Books ratings</p>
-<p class="fr-book-desc">Explains why persuasive but inaccurate stories spread.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=How+We+Know+What+Isn%27t+So+by+Thomas+Gilovich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-</a>
-</div>
-</div>
-</article>
-
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Life+and+Adventures+of+Alexander+Selkirk%2C+the+Real+Robinson+Crusoe+Howell+John+1788-1863&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Life and Adventures of Alexander Selkirk, the Real Robinson Crusoe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10910658-M.jpg" alt="Cover for The Life and Adventures of Alexander Selkirk, the Real Robinson Crusoe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Life+and+Adventures+of+Alexander+Selkirk%2C+the+Real+Robinson+Crusoe+Howell+John+1788-1863&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Life and Adventures of Alexander Selkirk, the Real Robinson Crusoe">The Life and Adventures of Alexander Selkirk, the Real Robins...</a>
-</h4>
-<p class="fr-book-author">By Howell John</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Life+and+Adventures+of+Alexander+Selkirk%2C+the+Real+Robinson+Crusoe+Howell+John+1788-1863&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Life and Adventures of Alexander Selkirk, the Real Robinson Crusoe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10910658-M.jpg" alt="Cover for The Life and Adventures of Alexander Selkirk, the Real Robinson Crusoe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Life+and+Adventures+of+Alexander+Selkirk%2C+the+Real+Robinson+Crusoe+Howell+John+1788-1863&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Life and Adventures of Alexander Selkirk, the Real Robinson Crusoe">The Life and Adventures of Alexander Selkirk, the Real Robins...</a>
+        </h4>
+        <p class="fr-book-author">By Howell John 1788-1863</p>
         
-<p class="fr-book-desc">First published 2018.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Life+and+Adventures+of+Alexander+Selkirk%2C+the+Real+Robinson+Crusoe+Howell+John+1788-1863&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">First published 2018.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Life+and+Adventures+of+Alexander+Selkirk%2C+the+Real+Robinson+Crusoe+Howell+John+1788-1863&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Robinson+Crusoe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Robinson Crusoe</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+life+and+adventures+of+Alexander+Selkirk&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The life and adventures of Alexander Selkirk</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+We+Know+What+Isn%27t+So&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How We Know What Isn&#x27;t So</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Island+of+the+Day+Before+Umberto+Eco&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Island of the Day Before on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Island+of+the+Day+Before+Umberto+Eco&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Island of the Day Before">The Island of the Day Before</a>
+        </h4>
+        <p class="fr-book-author">By Umberto Eco, William Weaver</p>
+        
+        <p class="fr-book-desc">Explores island imagination and literary geography.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Island+of+the+Day+Before+Umberto+Eco&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Robinson+Crusoe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Robinson Crusoe</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+life+and+adventures+of+Alexander+Selkirk&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The life and adventures of Alexander Selkirk</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Life+and+Adventures+of+Alexander+Selkirk%2C+the+Real+Robinson+Crusoe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Life and Adventures of Alexander Selkirk, the Real Robinson Crusoe</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

@@ -356,89 +356,89 @@ What kept the stories alive was not deception alone, but the appeal of a familia
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to Why Did Iceland Inspire So Many Dating Hoaxes?. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to Why Did Iceland Inspire So Many Dating Hoaxes?. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Little+Book+of+the+Icelanders+by+Alda+Sigmundsd%C3%B3ttir&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Little Book of the Icelanders on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wu9aEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Little Book of the Icelanders" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Little+Book+of+the+Icelanders+by+Alda+Sigmundsd%C3%B3ttir&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Little Book of the Icelanders">The Little Book of the Icelanders</a>
-</h4>
-<p class="fr-book-author">By Alda Sigmundsdóttir</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Little+Book+of+the+Icelanders+Alda+Sigmundsd%C3%B3ttir&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Little Book of the Icelanders on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wu9aEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Little Book of the Icelanders" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Little+Book+of+the+Icelanders+Alda+Sigmundsd%C3%B3ttir&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Little Book of the Icelanders">The Little Book of the Icelanders</a>
+        </h4>
+        <p class="fr-book-author">By Alda Sigmundsdóttir</p>
         
-<p class="fr-book-desc">Addresses Icelandic society, demographics and common misconceptions.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Little+Book+of+the+Icelanders+by+Alda+Sigmundsd%C3%B3ttir&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Addresses Icelandic society, demographics and common misconceptions.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Little+Book+of+the+Icelanders+Alda+Sigmundsd%C3%B3ttir&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Almost+Nearly+Perfect+People+by+Michael+Booth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Almost Nearly Perfect People on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=R8ucBgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Almost Nearly Perfect People" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Almost+Nearly+Perfect+People+by+Michael+Booth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Almost Nearly Perfect People">The Almost Nearly Perfect People</a>
-</h4>
-<p class="fr-book-author">By Michael Booth</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Icelandic+Folktales+and+Legends+Jacqueline+Simpson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Icelandic Folktales and Legends on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HY-DCKd6UgUC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Icelandic Folktales and Legends" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Icelandic+Folktales+and+Legends+Jacqueline+Simpson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Icelandic Folktales and Legends">Icelandic Folktales and Legends</a>
+        </h4>
+        <p class="fr-book-author">By Jacqueline Simpson</p>
         
-<p class="fr-book-desc">Provides context for stereotypes and media myths about Nordic countries including Iceland.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Almost+Nearly+Perfect+People+by+Michael+Booth&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Shows the storytelling traditions that encourage viral myths.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Icelandic+Folktales+and+Legends+Jacqueline+Simpson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Little+Book+of+the+Icelanders+in+the+Old+Days+by+Alda+Sigmundsdottir&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Little Book of the Icelanders in the Old Days on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=DtTxrQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Little Book of the Icelanders in the Old Days" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Little+Book+of+the+Icelanders+in+the+Old+Days+by+Alda+Sigmundsdottir&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Little Book of the Icelanders in the Old Days">The Little Book of the Icelanders in the Old Days</a>
-</h4>
-<p class="fr-book-author">By Alda Sigmundsdottir</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Almost+Nearly+Perfect+People+Michael+Booth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Almost Nearly Perfect People on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=R8ucBgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Almost Nearly Perfect People" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Almost+Nearly+Perfect+People+Michael+Booth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Almost Nearly Perfect People">The Almost Nearly Perfect People</a>
+        </h4>
+        <p class="fr-book-author">By Michael Booth</p>
         
-<p class="fr-book-desc">Helps explain how unusual cultural stories become exaggerated abroad.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Little+Book+of+the+Icelanders+in+the+Old+Days+by+Alda+Sigmundsdottir&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Provides context for stereotypes and media myths about Nordic countries including Iceland.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Almost+Nearly+Perfect+People+Michael+Booth&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Icelandic+Folktales+and+Legends+by+Jacqueline+Simpson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Icelandic Folktales and Legends on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HY-DCKd6UgUC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Icelandic Folktales and Legends" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Icelandic+Folktales+and+Legends+by+Jacqueline+Simpson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Icelandic Folktales and Legends">Icelandic Folktales and Legends</a>
-</h4>
-<p class="fr-book-author">By Jacqueline Simpson</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Little+Book+of+the+Icelanders+in+the+Old+Days+Alda+Sigmundsdottir&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Little Book of the Icelanders in the Old Days on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=DtTxrQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Little Book of the Icelanders in the Old Days" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Little+Book+of+the+Icelanders+in+the+Old+Days+Alda+Sigmundsdottir&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Little Book of the Icelanders in the Old Days">The Little Book of the Icelanders in the Old Days</a>
+        </h4>
+        <p class="fr-book-author">By Alda Sigmundsdottir</p>
         
-<p class="fr-book-desc">Shows the storytelling traditions that encourage viral myths.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Icelandic+Folktales+and+Legends+by+Jacqueline+Simpson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Helps explain how unusual cultural stories become exaggerated abroad.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Little+Book+of+the+Icelanders+in+the+Old+Days+Alda+Sigmundsdottir&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Little+Book+of+the+Icelanders&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Little Book of the Icelanders</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Almost+Nearly+Perfect+People&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Almost Nearly Perfect People</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Little+Book+of+the+Icelanders+in+the+Old+Days&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Little Book of the Icelanders in the Old Days</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Little+Book+of+the+Icelanders&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Little Book of the Icelanders</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Icelandic+Folktales+and+Legends&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Icelandic Folktales and Legends</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Almost+Nearly+Perfect+People&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Almost Nearly Perfect People</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

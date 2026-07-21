@@ -349,89 +349,89 @@ In the history of Rwanda’s propaganda campaigns, few fabrications were more co
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to How a False History Became a Total Conspiracy. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to How a False History Became a Total Conspiracy. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=%22Leave+None+to+Tell+the+Story%22+by+Alison+Liebhafsky+Des+Forges&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open &quot;Leave None to Tell the Story&quot; on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ZlpyAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for &quot;Leave None to Tell the Story&quot;" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=%22Leave+None+to+Tell+the+Story%22+by+Alison+Liebhafsky+Des+Forges&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="&quot;Leave None to Tell the Story&quot;">&quot;Leave None to Tell the Story&quot;</a>
-</h4>
-<p class="fr-book-author">By Alison Liebhafsky Des Forges, Human Rights Watch (Organization)</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=%22Leave+None+to+Tell+the+Story%22+Alison+Liebhafsky+Des+Forges&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open &quot;Leave None to Tell the Story&quot; on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ZlpyAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for &quot;Leave None to Tell the Story&quot;" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=%22Leave+None+to+Tell+the+Story%22+Alison+Liebhafsky+Des+Forges&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="&quot;Leave None to Tell the Story&quot;">&quot;Leave None to Tell the Story&quot;</a>
+        </h4>
+        <p class="fr-book-author">By Alison Liebhafsky Des Forges, Human Rights Watch (Organization)</p>
         
-<p class="fr-book-desc">Directly addresses conspiracy narratives used before the genocide.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=%22Leave+None+to+Tell+the+Story%22+by+Alison+Liebhafsky+Des+Forges&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Directly addresses conspiracy narratives used before the genocide.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=%22Leave+None+to+Tell+the+Story%22+Alison+Liebhafsky+Des+Forges&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Shake+Hands+With+The+Devil+by+Romeo+Dallaire&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Shake Hands With The Devil on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=cAzcVWCHZSMC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Shake Hands With The Devil" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Shake+Hands+With+The+Devil+by+Romeo+Dallaire&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Shake Hands With The Devil">Shake Hands With The Devil</a>
-</h4>
-<p class="fr-book-author">By Romeo Dallaire</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=We+wish+to+inform+you+that+tomorrow+we+will+be+killed+with+our+families+Philip+Gourevitch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open We wish to inform you that tomorrow we will be killed with our families on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/196945-M.jpg" alt="Cover for We wish to inform you that tomorrow we will be killed with our families" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=We+wish+to+inform+you+that+tomorrow+we+will+be+killed+with+our+families+Philip+Gourevitch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="We wish to inform you that tomorrow we will be killed with our families">We wish to inform you that tomorrow we will be killed with ou...</a>
+        </h4>
+        <p class="fr-book-author">By Philip Gourevitch</p>
         
-<p class="fr-book-desc">Provides context for the spread of extremist narratives.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Shake+Hands+With+The+Devil+by+Romeo+Dallaire&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Explains how false beliefs about ethnic threats spread.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=We+wish+to+inform+you+that+tomorrow+we+will+be+killed+with+our+families+Philip+Gourevitch&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Machete+Season+by+Jean+Hatzfeld&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Machete Season on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=tyhZ48O5NVoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Machete Season" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Machete+Season+by+Jean+Hatzfeld&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Machete Season">Machete Season</a>
-</h4>
-<p class="fr-book-author">By Jean Hatzfeld</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Shake+Hands+With+The+Devil+Romeo+Dallaire&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Shake Hands With The Devil on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=cAzcVWCHZSMC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Shake Hands With The Devil" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Shake+Hands+With+The+Devil+Romeo+Dallaire&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Shake Hands With The Devil">Shake Hands With The Devil</a>
+        </h4>
+        <p class="fr-book-author">By Romeo Dallaire</p>
         
-<p class="fr-book-desc">Illustrates the human consequences of conspiracy-driven propaganda.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Machete+Season+by+Jean+Hatzfeld&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Provides context for the spread of extremist narratives.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Shake+Hands+With+The+Devil+Romeo+Dallaire&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+True+Believer+by+Eric+Hoffer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The True Believer on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=0KnZAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The True Believer" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+True+Believer+by+Eric+Hoffer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The True Believer">The True Believer</a>
-</h4>
-<p class="fr-book-author">By Eric Hoffer</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Machete+Season+Jean+Hatzfeld&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Machete Season on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=tyhZ48O5NVoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Machete Season" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Machete+Season+Jean+Hatzfeld&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Machete Season">Machete Season</a>
+        </h4>
+        <p class="fr-book-author">By Jean Hatzfeld</p>
         
-<p class="fr-book-desc">Helps explain why self-sealing conspiracy theories gain followers.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+True+Believer+by+Eric+Hoffer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Illustrates the human consequences of conspiracy-driven propaganda.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Machete+Season+Jean+Hatzfeld&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=%22Leave+None+to+Tell+the+Story%22&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">&quot;Leave None to Tell the Story&quot;</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Shake+Hands+With+The+Devil&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Shake Hands With The Devil</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Machete+Season&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Machete Season</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=%22Leave+None+to+Tell+the+Story%22&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">&quot;Leave None to Tell the Story&quot;</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=We+wish+to+inform+you+that+tomorrow+we+will+be+killed+with+our+families&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">We wish to inform you that tomorrow we will be killed with our families</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Shake+Hands+With+The+Devil&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Shake Hands With The Devil</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

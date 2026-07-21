@@ -358,89 +358,89 @@ The myth also survives because it contains an important truth. Bhutan genuinely 
 Seen in that light, the story belongs in the history of modern myths and simplified national legends. A sophisticated policy experiment became a global feel-good narrative. The result was neither a classic hoax nor a straightforward falsehood, but a powerful example of how a real idea can be transformed by repetition into something much simpler than the evidence supports.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://opendocs.ids.ac.uk/articles/online_resource/Bhutan_Gross_National_Happiness_and_the_GNH_index/26471131" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: opendocs.ids.ac.uk">[ids.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">opendocs.ids.ac.uk</span><span class="citation-popover-title">Bhutan Gross National Happiness and the GNH index</span><span class="citation-popover-snippet">Bhutan: Gross National Happiness and the GNH index5 Sept 2024 — Since then the idea of Gross National Happiness (GNH) has influen...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to Is Bhutan Really the World&#x27;s Happiest Country?. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to Is Bhutan Really the World&#x27;s Happiest Country?. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+History+of+Bhutan+by+Karma+Phuntsho&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The History of Bhutan on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=r1crDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The History of Bhutan" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+History+of+Bhutan+by+Karma+Phuntsho&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The History of Bhutan">The History of Bhutan</a>
-</h4>
-<p class="fr-book-author">By Karma Phuntsho</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+History+of+Bhutan+Karma+Phuntsho&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The History of Bhutan on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=r1crDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The History of Bhutan" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+History+of+Bhutan+Karma+Phuntsho&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The History of Bhutan">The History of Bhutan</a>
+        </h4>
+        <p class="fr-book-author">By Karma Phuntsho</p>
         
-<p class="fr-book-desc">Explains the historical and political context behind Bhutan&#x27;s global image.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+History+of+Bhutan+by+Karma+Phuntsho&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Explains the historical and political context behind Bhutan&#x27;s global image.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+History+of+Bhutan+Karma+Phuntsho&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Gross+National+Happiness+by+Arthur+C.+Brooks&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Gross National Happiness on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=C6IQAQAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Gross National Happiness" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Gross+National+Happiness+by+Arthur+C.+Brooks&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Gross National Happiness">Gross National Happiness</a>
-</h4>
-<p class="fr-book-author">By Arthur C. Brooks</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Gross+National+Happiness+Arthur+C.+Brooks&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Gross National Happiness on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=C6IQAQAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Gross National Happiness" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Gross+National+Happiness+Arthur+C.+Brooks&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Gross National Happiness">Gross National Happiness</a>
+        </h4>
+        <p class="fr-book-author">By Arthur C. Brooks</p>
         
-<p class="fr-book-desc">Addresses happiness measurement and wellbeing debates central to the topic.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Gross+National+Happiness+by+Arthur+C.+Brooks&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Addresses happiness measurement and wellbeing debates central to the topic.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Gross+National+Happiness+Arthur+C.+Brooks&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Happiness+Hypothesis+by+Jonathan+Haidt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Happiness Hypothesis on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UBCmAAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Happiness Hypothesis" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Happiness+Hypothesis+by+Jonathan+Haidt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Happiness Hypothesis">The Happiness Hypothesis</a>
-</h4>
-<p class="fr-book-author">By Jonathan Haidt</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Radio+Shangri-La+Lisa+Napoli&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Radio Shangri-La on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=T4nHwAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Radio Shangri-La" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Radio+Shangri-La+Lisa+Napoli&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Radio Shangri-La">Radio Shangri-La</a>
+        </h4>
+        <p class="fr-book-author">By Lisa Napoli</p>
         
-<p class="fr-book-desc">Provides a broader framework for evaluating happiness claims.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Happiness+Hypothesis+by+Jonathan+Haidt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Examines the gap between Bhutan&#x27;s reputation and lived reality.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Radio+Shangri-La+Lisa+Napoli&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Happier%3F+by+Daniel+Horowitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Happier? on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HXs7DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Happier?" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Happier%3F+by+Daniel+Horowitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Happier?">Happier?</a>
-</h4>
-<p class="fr-book-author">By Daniel Horowitz</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Happiness+Hypothesis+Jonathan+Haidt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Happiness Hypothesis on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UBCmAAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Happiness Hypothesis" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Happiness+Hypothesis+Jonathan+Haidt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Happiness Hypothesis">The Happiness Hypothesis</a>
+        </h4>
+        <p class="fr-book-author">By Jonathan Haidt</p>
         
-<p class="fr-book-desc">Helps readers assess claims about national happiness.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Happier%3F+by+Daniel+Horowitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Provides a broader framework for evaluating happiness claims.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Happiness+Hypothesis+Jonathan+Haidt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+History+of+Bhutan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The History of Bhutan</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Gross+National+Happiness&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Gross National Happiness</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Happiness+Hypothesis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Happiness Hypothesis</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+History+of+Bhutan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The History of Bhutan</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Gross+National+Happiness&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Gross National Happiness</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Radio+Shangri+La&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Radio Shangri La</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

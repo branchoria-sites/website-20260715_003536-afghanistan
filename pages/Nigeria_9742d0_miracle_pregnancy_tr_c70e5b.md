@@ -342,89 +342,89 @@ The most useful warning sign is therefore not unusual bodily symptoms but a syst
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to When a Hidden Pregnancy Became a Trafficking Risk. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to When a Hidden Pregnancy Became a Trafficking Risk. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Boy+Who+Was+Raised+as+a+Dog+by+Bruce+D.+Perry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Boy Who Was Raised as a Dog on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=es4VMQAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Boy Who Was Raised as a Dog" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Boy+Who+Was+Raised+as+a+Dog+by+Bruce+D.+Perry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Boy Who Was Raised as a Dog">The Boy Who Was Raised as a Dog</a>
-</h4>
-<p class="fr-book-author">By Bruce D. Perry, Maia Szalavitz</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Immortal+Life+of+Henrietta+Lacks+Rebecca+Skloot&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Immortal Life of Henrietta Lacks on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=q6LiPaw0K3IC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Immortal Life of Henrietta Lacks" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Immortal+Life+of+Henrietta+Lacks+Rebecca+Skloot&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Immortal Life of Henrietta Lacks">The Immortal Life of Henrietta Lacks</a>
+        </h4>
+        <p class="fr-book-author">By Rebecca Skloot</p>
         
-<p class="fr-book-desc">Provides insight into vulnerability and exploitation.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Boy+Who+Was+Raised+as+a+Dog+by+Bruce+D.+Perry&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Explores trust, medicine and vulnerable patients.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Immortal+Life+of+Henrietta+Lacks+Rebecca+Skloot&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Immortal+Life+of+Henrietta+Lacks+by+Rebecca+Skloot&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Immortal Life of Henrietta Lacks on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=q6LiPaw0K3IC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Immortal Life of Henrietta Lacks" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Immortal+Life+of+Henrietta+Lacks+by+Rebecca+Skloot&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Immortal Life of Henrietta Lacks">The Immortal Life of Henrietta Lacks</a>
-</h4>
-<p class="fr-book-author">By Rebecca Skloot</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Boy+Who+Was+Raised+as+a+Dog+Bruce+D.+Perry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Boy Who Was Raised as a Dog on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=es4VMQAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Boy Who Was Raised as a Dog" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Boy+Who+Was+Raised+as+a+Dog+Bruce+D.+Perry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Boy Who Was Raised as a Dog">The Boy Who Was Raised as a Dog</a>
+        </h4>
+        <p class="fr-book-author">By Bruce D. Perry, Maia Szalavitz</p>
         
-<p class="fr-book-desc">Explores trust, medicine and vulnerable patients.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Immortal+Life+of+Henrietta+Lacks+by+Rebecca+Skloot&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Provides insight into vulnerability and exploitation.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Boy+Who+Was+Raised+as+a+Dog+Bruce+D.+Perry&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Half+The+Sky+by+Nicholas+D.+Kristof&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Half The Sky on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UeYKAG1zbqsC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Half The Sky" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Half+The+Sky+by+Nicholas+D.+Kristof&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Half The Sky">Half The Sky</a>
-</h4>
-<p class="fr-book-author">By Nicholas D. Kristof, Sheryl WuDunn</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Half+The+Sky+Nicholas+D.+Kristof&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Half The Sky on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UeYKAG1zbqsC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Half The Sky" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Half+The+Sky+Nicholas+D.+Kristof&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Half The Sky">Half The Sky</a>
+        </h4>
+        <p class="fr-book-author">By Nicholas D. Kristof, Sheryl WuDunn</p>
         
-<p class="fr-book-desc">Addresses exploitation and trafficking affecting women and children.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Half+The+Sky+by+Nicholas+D.+Kristof&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Addresses exploitation and trafficking affecting women and children.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Half+The+Sky+Nicholas+D.+Kristof&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Influence on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Influence">Influence</a>
-</h4>
-<p class="fr-book-author">By Robert B. Cialdini</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Influence+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Influence on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Influence+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Influence">Influence</a>
+        </h4>
+        <p class="fr-book-author">By Robert B. Cialdini</p>
         
-<p class="fr-book-desc">Helps explain how persuasive claims override evidence.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Helps explain how persuasive claims override evidence.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Influence+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Boy+Who+Was+Raised+as+a+Dog&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Boy Who Was Raised as a Dog</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Immortal+Life+of+Henrietta+Lacks&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Immortal Life of Henrietta Lacks</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Half+The+Sky&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Half The Sky</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Immortal+Life+of+Henrietta+Lacks&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Immortal Life of Henrietta Lacks</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Boy+Who+Was+Raised+as+a+Dog&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Boy Who Was Raised as a Dog</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Half+The+Sky&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Half The Sky</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

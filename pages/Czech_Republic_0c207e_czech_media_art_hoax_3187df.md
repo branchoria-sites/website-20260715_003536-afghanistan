@@ -333,89 +333,72 @@ These Czech media stunts occupy an unusual place in the history of deception. Th
 Within the broader history of Czech hoaxes, these projects stand out because they did not merely exploit trust. They turned trust itself into the subject of the art.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to When Czech Artists Used Hoaxes to Expose the Media. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to When Czech Artists Used Hoaxes to Expose the Media. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Trust+Me+I%27m+Lying+by+Ryan+Holiday&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Trust Me I&#x27;m Lying on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nHU7DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Trust Me I&#x27;m Lying" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Trust+Me+I%27m+Lying+by+Ryan+Holiday&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Trust Me I&#x27;m Lying">Trust Me I&#x27;m Lying</a>
-</h4>
-<p class="fr-book-author">By Ryan Holiday</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Amusing+Ourselves+to+Death+Neil+Postman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Amusing Ourselves to Death on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=oup6iagfox8C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Amusing Ourselves to Death" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Amusing+Ourselves+to+Death+Neil+Postman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Amusing Ourselves to Death">Amusing Ourselves to Death</a>
+        </h4>
+        <p class="fr-book-author">By Neil Postman</p>
         
-<p class="fr-book-desc">Shows how publicity systems can be exploited much like artistic hoaxes.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Trust+Me+I%27m+Lying+by+Ryan+Holiday&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Explores how media forms shape public belief and attention.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Amusing+Ourselves+to+Death+Neil+Postman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Amusing+Ourselves+to+Death+by+Neil+Postman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Amusing Ourselves to Death on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=oup6iagfox8C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Amusing Ourselves to Death" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Amusing+Ourselves+to+Death+by+Neil+Postman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Amusing Ourselves to Death">Amusing Ourselves to Death</a>
-</h4>
-<p class="fr-book-author">By Neil Postman</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Trust+Me+I%27m+Lying+Ryan+Holiday&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Trust Me I&#x27;m Lying on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nHU7DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Trust Me I&#x27;m Lying" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Trust+Me+I%27m+Lying+Ryan+Holiday&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Trust Me I&#x27;m Lying">Trust Me I&#x27;m Lying</a>
+        </h4>
+        <p class="fr-book-author">By Ryan Holiday</p>
         
-<p class="fr-book-desc">Explores how media forms shape public belief and attention.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Amusing+Ourselves+to+Death+by+Neil+Postman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Shows how publicity systems can be exploited much like artistic hoaxes.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Trust+Me+I%27m+Lying+Ryan+Holiday&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Ways+of+Seeing+John+Berger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ways of Seeing on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/95272-M.jpg" alt="Cover for Ways of Seeing" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Ways+of+Seeing+John+Berger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ways of Seeing">Ways of Seeing</a>
-</h4>
-<p class="fr-book-author">By John Berger</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ways+of+Seeing+John+Berger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ways of Seeing on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/95272-M.jpg" alt="Cover for Ways of Seeing" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Ways+of+Seeing+John+Berger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ways of Seeing">Ways of Seeing</a>
+        </h4>
+        <p class="fr-book-author">By John Berger</p>
         
-<p class="fr-book-desc">First published 1972. Subjects: Art, Art appreciation, Technique, Nonfiction, Visual perception.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Ways+of+Seeing+John+Berger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Examines how images and presentation influence interpretation.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Ways+of+Seeing+John+Berger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Trust+Me%2C+I%27m+Lying+Ryan+Holiday&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Trust Me, I&#x27;m Lying on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7888907-M.jpg" alt="Cover for Trust Me, I&#x27;m Lying" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Trust+Me%2C+I%27m+Lying+Ryan+Holiday&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Trust Me, I&#x27;m Lying">Trust Me, I&#x27;m Lying</a>
-</h4>
-<p class="fr-book-author">By Ryan Holiday</p>
-        
-<p class="fr-book-desc">First published 2012. Subjects: Public relations, Marketing, Blogs, Economic aspects, Social media.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Trust+Me%2C+I%27m+Lying+Ryan+Holiday&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Trust+Me+I%27m+Lying&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Trust Me I&#x27;m Lying</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Amusing+Ourselves+to+Death&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Amusing Ourselves to Death</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Ways+of+Seeing&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ways of Seeing</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Amusing+Ourselves+to+Death&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Amusing Ourselves to Death</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Trust+Me+I%27m+Lying&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Trust Me I&#x27;m Lying</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Ways+of+Seeing&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ways of Seeing</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

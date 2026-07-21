@@ -1533,4 +1533,91 @@ Romania’s history of hoaxes is therefore also a history of exposure. Archaeolo
 
 34.<a id="endnote-34"></a>
    Source: researchgate.net  
-   Link:<a href="https://www.researchgate.net/publication/407243542_The_Sinaia_Lead_Plates_A_Reassessment_of_a_Contested_Epigraphic_and_Iconographic_Corpus" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/407243542_The_Sinaia_Lead_Plates_A_Reassessment_of_a_Contested_Epigraphic_and_Iconographic_Corpus</a>  
+   Link:<a href="https://www.researchgate.net/publication/407243542_The_Sinaia_Lead_Plates_A_Reassessment_of_a_Contested_Epigraphic_and_Iconographic_Corpus" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/407243542_The_Sinaia_Lead_Plates_A_Reassessment_of_a_Contested_Epigraphic_and_Iconographic_Corpus</a>
+
+<section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to How Romania&#x27;s Most Famous Deceptions Took Hold. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Search+of+Romania+Dennis+Deletant&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Search of Romania on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wNJsEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for In Search of Romania" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=In+Search+of+Romania+Dennis+Deletant&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Search of Romania">In Search of Romania</a>
+        </h4>
+        <p class="fr-book-author">By Dennis Deletant</p>
+        
+        <p class="fr-book-desc">Helps explain the environment in which famous deceptions emerged.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=In+Search+of+Romania+Dennis+Deletant&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Devil+in+History+Vladimir+Tismaneanu&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Devil in History on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=t2cUVSJYO38C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Devil in History" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Devil+in+History+Vladimir+Tismaneanu&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Devil in History">The Devil in History</a>
+        </h4>
+        <p class="fr-book-author">By Vladimir Tismaneanu</p>
+        
+        <p class="fr-book-desc">Useful for understanding authoritarian narratives in Eastern Europe.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Devil+in+History+Vladimir+Tismaneanu&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Dracula+Bram+Stoker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dracula on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xGPcDAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Dracula" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Dracula+Bram+Stoker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dracula">Dracula</a>
+        </h4>
+        <p class="fr-book-author">By Bram Stoker</p>
+        
+        <p class="fr-book-desc">Illustrates the blend of folklore, legend and cultural myth.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Dracula+Bram+Stoker&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Romanian+Revolution+of+December+1989+Peter+Siani-Davies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Romanian Revolution of December 1989 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=vBssmkvaSoQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Romanian Revolution of December 1989" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Romanian+Revolution+of+December+1989+Peter+Siani-Davies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Romanian Revolution of December 1989">The Romanian Revolution of December 1989</a>
+        </h4>
+        <p class="fr-book-author">By Peter Siani-Davies</p>
+        
+        <p class="fr-book-desc">Explores competing narratives and political myths.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Romanian+Revolution+of+December+1989+Peter+Siani-Davies&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Search+of+Romania&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Search of Romania</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Devil+in+History&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Devil in History</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Dracula&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Dracula</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
+</section>
+
