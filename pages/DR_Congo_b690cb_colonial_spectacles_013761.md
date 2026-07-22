@@ -361,7 +361,7 @@ For the history of hoaxes, propaganda and contested truth in the Democratic Repu
           <a href="https://www.amazon.com/s?k=Orientalism+Edward+W.+Said&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Orientalism">Orientalism</a>
         </h4>
         <p class="fr-book-author">By Edward W. Said</p>
-        
+
         <p class="fr-book-desc">Shows how authoritative institutions create distorted cultural narratives.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Orientalism+Edward+W.+Said&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -378,7 +378,7 @@ For the history of hoaxes, propaganda and contested truth in the Democratic Repu
           <a href="https://www.amazon.com/s?k=King+Leopold%27s+Ghost+Adam+Hochschild&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="King Leopold&#x27;s Ghost">King Leopold&#x27;s Ghost</a>
         </h4>
         <p class="fr-book-author">By Adam Hochschild</p>
-        
+
         <p class="fr-book-desc">Explains the propaganda systems that justified colonial rule.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=King+Leopold%27s+Ghost+Adam+Hochschild&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -395,7 +395,7 @@ For the history of hoaxes, propaganda and contested truth in the Democratic Repu
           <a href="https://www.amazon.com/s?k=The+Invention+of+Africa+V.+Y.+Mudimbe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Invention of Africa">The Invention of Africa</a>
         </h4>
         <p class="fr-book-author">By V. Y. Mudimbe</p>
-        
+
         <p class="fr-book-desc">Examines how Africa was represented and constructed by outsiders.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Invention+of+Africa+V.+Y.+Mudimbe&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -406,16 +406,16 @@ For the history of hoaxes, propaganda and contested truth in the Democratic Repu
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Congo+from+Leopold+to+Kabila+Georges+Nzongola-Ntalaja&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Congo from Leopold to Kabila on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5N160QEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Congo from Leopold to Kabila" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Heart+of+Darkness+Joseph+Conrad&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Heart of Darkness on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=M3yIDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Heart of Darkness" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Congo+from+Leopold+to+Kabila+Georges+Nzongola-Ntalaja&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Congo from Leopold to Kabila">The Congo from Leopold to Kabila</a>
+          <a href="https://www.amazon.com/s?k=Heart+of+Darkness+Joseph+Conrad&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Heart of Darkness">Heart of Darkness</a>
         </h4>
-        <p class="fr-book-author">By Georges Nzongola-Ntalaja</p>
-        
-        <p class="fr-book-desc">Places colonial exhibitions within broader political history.</p>
+        <p class="fr-book-author">By Joseph Conrad</p>
+
+        <p class="fr-book-desc">Influential in shaping Western imagery of Central Africa.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Congo+from+Leopold+to+Kabila+Georges+Nzongola-Ntalaja&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Heart+of+Darkness+Joseph+Conrad&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>

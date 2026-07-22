@@ -343,7 +343,7 @@ In that sense, the story belongs less to the history of giants than to the histo
           <a href="https://www.amazon.com/s?k=Over+the+Edge+of+the+World+Laurence+Bergreen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Over the Edge of the World">Over the Edge of the World</a>
         </h4>
         <p class="fr-book-author">By Laurence Bergreen</p>
-        
+
         <p class="fr-book-desc">Covers the expedition linked to the origins of the Patagonian giants legend.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Over+the+Edge+of+the+World+Laurence+Bergreen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -377,7 +377,7 @@ In that sense, the story belongs less to the history of giants than to the histo
           <a href="https://www.amazon.com/s?k=The+Discoverers+Daniel+Joseph+Boorstin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Discoverers">The Discoverers</a>
         </h4>
         <p class="fr-book-author">By Daniel Joseph Boorstin</p>
-        
+
         <p class="fr-book-desc">Explains how reports from distant lands became accepted facts.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Discoverers+Daniel+Joseph+Boorstin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -388,16 +388,16 @@ In that sense, the story belongs less to the history of giants than to the histo
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Patagonia+Chris+Moss&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Patagonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jb2_BAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Patagonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Last+Imaginary+Place+Robert+McGhee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Last Imaginary Place on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=NdaAAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Last Imaginary Place" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Patagonia+Chris+Moss&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Patagonia">Patagonia</a>
+          <a href="https://www.amazon.com/s?k=The+Last+Imaginary+Place+Robert+McGhee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Last Imaginary Place">The Last Imaginary Place</a>
         </h4>
-        <p class="fr-book-author">By Chris Moss</p>
-        
-        <p class="fr-book-desc">Provides background on Patagonia and its enduring myths.</p>
+        <p class="fr-book-author">By Robert McGhee</p>
+
+        <p class="fr-book-desc">Shows how remote regions become canvases for exaggerated stories.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Patagonia+Chris+Moss&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+Last+Imaginary+Place+Robert+McGhee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>

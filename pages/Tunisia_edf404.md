@@ -1323,7 +1323,7 @@ Tunisia’s history of deception is therefore not a catalogue of national credul
           <a href="https://www.amazon.com/s?k=Carthage+Must+be+Destroyed+Richard+Miles&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Carthage Must be Destroyed">Carthage Must be Destroyed</a>
         </h4>
         <p class="fr-book-author">By Richard Miles</p>
-        
+
         <p class="fr-book-desc">Relevant to Tunisia&#x27;s most famous historical controversies.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Carthage+Must+be+Destroyed+Richard+Miles&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1357,7 +1357,7 @@ Tunisia’s history of deception is therefore not a catalogue of national credul
           <a href="https://www.amazon.com/s?k=SPQR+Mary+Beard&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="SPQR">SPQR</a>
         </h4>
         <p class="fr-book-author">By Mary Beard</p>
-        
+
         <p class="fr-book-desc">Provides context for Roman narratives that shaped claims about Carthage.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=SPQR+Mary+Beard&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1368,16 +1368,16 @@ Tunisia’s history of deception is therefore not a catalogue of national credul
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Tunisia+Safwan+M.+Masri&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Tunisia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=sBgwDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Tunisia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Righteous+Mind+Jonathan+Haidt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Righteous Mind on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y9-GG5gPzgwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Righteous Mind" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Tunisia+Safwan+M.+Masri&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Tunisia">Tunisia</a>
+          <a href="https://www.amazon.com/s?k=The+Righteous+Mind+Jonathan+Haidt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Righteous Mind">The Righteous Mind</a>
         </h4>
-        <p class="fr-book-author">By Safwan M. Masri</p>
-        
-        <p class="fr-book-desc">Explains the country&#x27;s political and social development.</p>
+        <p class="fr-book-author">By Jonathan Haidt</p>
+
+        <p class="fr-book-desc">Helps explain why persuasive stories gain traction.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Tunisia+Safwan+M.+Masri&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+Righteous+Mind+Jonathan+Haidt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>

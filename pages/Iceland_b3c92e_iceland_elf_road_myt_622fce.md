@@ -354,7 +354,7 @@ As a result, the “country that builds roads around elves” narrative belongs 
           <a href="https://www.amazon.com/s?k=Icelandic+Folktales+and+Legends+Jacqueline+Simpson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Icelandic Folktales and Legends">Icelandic Folktales and Legends</a>
         </h4>
         <p class="fr-book-author">By Jacqueline Simpson</p>
-        
+
         <p class="fr-book-desc">Provides original stories that underpin modern elf narratives.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Icelandic+Folktales+and+Legends+Jacqueline+Simpson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -371,7 +371,7 @@ As a result, the “country that builds roads around elves” narrative belongs 
           <a href="https://www.amazon.com/s?k=The+Little+Book+of+the+Hidden+People+Alda+Sigmundsdottir&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Little Book of the Hidden People">The Little Book of the Hidden People</a>
         </h4>
         <p class="fr-book-author">By Alda Sigmundsdottir</p>
-        
+
         <p class="fr-book-desc">Directly addresses the folklore behind road-and-elf stories.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Little+Book+of+the+Hidden+People+Alda+Sigmundsdottir&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -388,7 +388,7 @@ As a result, the “country that builds roads around elves” narrative belongs 
           <a href="https://www.amazon.com/s?k=The+Prose+Edda+Snorri+Sturluson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Prose Edda">The Prose Edda</a>
         </h4>
         <p class="fr-book-author">By Snorri Sturluson</p>
-        
+
         <p class="fr-book-desc">Explains supernatural traditions that influence later folklore.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Prose+Edda+Snorri+Sturluson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -399,16 +399,16 @@ As a result, the “country that builds roads around elves” narrative belongs 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+prose+Edda+of+Snorri+Sturluson+Snorri+Sturluson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The prose Edda of Snorri Sturluson on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Prose+Edda+of+Snorri+Sturluson+Snorri+Sturluson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Prose Edda of Snorri Sturluson on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=D-qzAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Prose Edda of Snorri Sturluson" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+prose+Edda+of+Snorri+Sturluson+Snorri+Sturluson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The prose Edda of Snorri Sturluson">The prose Edda of Snorri Sturluson</a>
+          <a href="https://www.amazon.com/s?k=The+Prose+Edda+of+Snorri+Sturluson+Snorri+Sturluson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Prose Edda of Snorri Sturluson">The Prose Edda of Snorri Sturluson</a>
         </h4>
         <p class="fr-book-author">By Snorri Sturluson</p>
-        
+
         <p class="fr-book-desc">First published 1954. Subjects: Norse Mythology, Scalds and scaldic poetry.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+prose+Edda+of+Snorri+Sturluson+Snorri+Sturluson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+Prose+Edda+of+Snorri+Sturluson+Snorri+Sturluson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>

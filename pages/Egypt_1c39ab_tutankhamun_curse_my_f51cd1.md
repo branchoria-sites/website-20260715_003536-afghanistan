@@ -345,30 +345,13 @@ For historians of Egypt, the curse is therefore valuable not as evidence of anci
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=TUTANKHAMUN+Joyce+Tyldesley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open TUTANKHAMUN on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=WYNYEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for TUTANKHAMUN" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=TUTANKHAMUN+Joyce+Tyldesley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="TUTANKHAMUN">TUTANKHAMUN</a>
-        </h4>
-        <p class="fr-book-author">By Joyce Tyldesley</p>
-        
-        <p class="fr-book-desc">Explores the discovery and later interpretation of Tutankhamun.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=TUTANKHAMUN+Joyce+Tyldesley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
       <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Complete+Tutankhamun+Nicholas+Reeves&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Complete Tutankhamun on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=pXGF3136bGMC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Complete Tutankhamun" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
           <a href="https://www.amazon.com/s?k=The+Complete+Tutankhamun+Nicholas+Reeves&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Complete Tutankhamun">The Complete Tutankhamun</a>
         </h4>
         <p class="fr-book-author">By Nicholas Reeves</p>
-        
+
         <p class="fr-book-desc">Provides factual history behind the tomb and associated myths.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Complete+Tutankhamun+Nicholas+Reeves&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -385,7 +368,7 @@ For historians of Egypt, the curse is therefore valuable not as evidence of anci
           <a href="https://www.amazon.com/s?k=The+Mummy%27s+Curse+Roger+Luckhurst&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Mummy&#x27;s Curse">The Mummy&#x27;s Curse</a>
         </h4>
         <p class="fr-book-author">By Roger Luckhurst</p>
-        
+
         <p class="fr-book-desc">Directly examines the origins and growth of curse narratives.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Mummy%27s+Curse+Roger+Luckhurst&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -402,7 +385,7 @@ For historians of Egypt, the curse is therefore valuable not as evidence of anci
           <a href="https://www.amazon.com/s?k=The+Rise+and+Fall+of+Ancient+Egypt+Toby+Wilkinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Rise and Fall of Ancient Egypt">The Rise and Fall of Ancient Egypt</a>
         </h4>
         <p class="fr-book-author">By Toby Wilkinson</p>
-        
+
         <p class="fr-book-desc">Places Tutankhamun within the wider history of ancient Egypt.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Rise+and+Fall+of+Ancient+Egypt+Toby+Wilkinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -411,9 +394,26 @@ For historians of Egypt, the curse is therefore valuable not as evidence of anci
         </div>
       </div>
     </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Oxford+Handbook+of+Egyptology+Ian+Shaw&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Oxford Handbook of Egyptology on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=3-MJEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Oxford Handbook of Egyptology" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Oxford+Handbook+of+Egyptology+Ian+Shaw&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Oxford Handbook of Egyptology">The Oxford Handbook of Egyptology</a>
+        </h4>
+        <p class="fr-book-author">By Ian Shaw, Elizabeth Bloxam</p>
+
+        <p class="fr-book-desc">Provides scholarly background to the archaeological record.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Oxford+Handbook+of+Egyptology+Ian+Shaw&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=TUTANKHAMUN&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">TUTANKHAMUN</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Complete+Tutankhamun&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Complete Tutankhamun</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Mummy%27s+Curse&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Mummy&#x27;s Curse</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Complete+Tutankhamun&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Complete Tutankhamun</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Mummy%27s+Curse&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Mummy&#x27;s Curse</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Rise+and+Fall+of+Ancient+Egypt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Rise and Fall of Ancient Egypt</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>

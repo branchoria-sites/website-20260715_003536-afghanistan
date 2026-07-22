@@ -359,89 +359,89 @@ For historians of deception, the case is important because it shows that authent
 That ambiguity is precisely what makes Palau's imitation-bead controversy memorable. It is not merely a story about fake artefacts. It is a debate over whether value comes from what an object originally was, or from what a community eventually decides it has become.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to When Does a Fake Bead Become Real?. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to When Does a Fake Bead Become Real?. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Debt+by+David+Graeber&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Debt on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=F7jFkQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Debt" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Debt+by+David+Graeber&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Debt">Debt</a>
-</h4>
-<p class="fr-book-author">By David Graeber</p>
-        
-<p class="fr-book-desc">Explores exchange, prestige and social meaning.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Debt+by+David+Graeber&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Social+Life+of+Things+Arjun+Appadurai&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Social Life of Things on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Social+Life+of+Things+Arjun+Appadurai&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Social Life of Things">The Social Life of Things</a>
+        </h4>
+        <p class="fr-book-author">By Arjun Appadurai</p>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Authenticity+by+James+H.+Gilmore&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Authenticity on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=VpTSBgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Authenticity" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Authenticity+by+James+H.+Gilmore&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Authenticity">Authenticity</a>
-</h4>
-<p class="fr-book-author">By James H. Gilmore, B. Joseph Pine</p>
-        
-<p class="fr-book-desc">Useful for thinking about what makes something seem real.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Authenticity+by+James+H.+Gilmore&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Directly addresses how objects gain value through circulation.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Social+Life+of+Things+Arjun+Appadurai&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Social+Life+of+Things+by+Arjun+Appadurai&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Social Life of Things on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Social+Life+of+Things+by+Arjun+Appadurai&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Social Life of Things">The Social Life of Things</a>
-</h4>
-<p class="fr-book-author">By Arjun Appadurai</p>
-        
-<p class="fr-book-desc">Directly addresses how objects gain value through circulation.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Social+Life+of+Things+by+Arjun+Appadurai&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Authenticity+James+H.+Gilmore&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Authenticity on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=VpTSBgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Authenticity" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Authenticity+James+H.+Gilmore&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Authenticity">Authenticity</a>
+        </h4>
+        <p class="fr-book-author">By James H. Gilmore, B. Joseph Pine</p>
 
-<article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Nutrition+in+Palau%2C+the+Pacific%2C+and+the+world+David+Rykken&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Nutrition in Palau, the Pacific, and the world on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Nutrition+in+Palau%2C+the+Pacific%2C+and+the+world+David+Rykken&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Nutrition in Palau, the Pacific, and the world">Nutrition in Palau, the Pacific, and the world</a>
-</h4>
-<p class="fr-book-author">By David Rykken</p>
-        
-<p class="fr-book-desc">First published 2004. Subjects: Nutrition, Health, Food supply.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Nutrition+in+Palau%2C+the+Pacific%2C+and+the+world+David+Rykken&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">The authors list the five factors that most directly influence customer perceptions: the operational essence of the enterprise, the natur...</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Authenticity+James+H.+Gilmore&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Debt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Debt</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Authenticity&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Authenticity</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Social+Life+of+Things&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Social Life of Things</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Nutrition+in+Palau%2C+the+Pacific%2C+and+the+world+David+Rykken&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Nutrition in Palau, the Pacific, and the world on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Nutrition+in+Palau%2C+the+Pacific%2C+and+the+world+David+Rykken&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Nutrition in Palau, the Pacific, and the world">Nutrition in Palau, the Pacific, and the world</a>
+        </h4>
+        <p class="fr-book-author">By David Rykken</p>
+
+        <p class="fr-book-desc">First published 2004. Subjects: Nutrition, Health, Food supply.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Nutrition+in+Palau%2C+the+Pacific%2C+and+the+world+David+Rykken&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Debt%3A+The+First+5%2C000+Years+David+Graeber&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Debt: The First 5,000 Years on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Debt%3A+The+First+5%2C000+Years+David+Graeber&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Debt: The First 5,000 Years">Debt: The First 5,000 Years</a>
+        </h4>
+        <p class="fr-book-author">By David Graeber</p>
+
+        <p class="fr-book-desc">Explores exchange, prestige and social meaning.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Debt%3A+The+First+5%2C000+Years+David+Graeber&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Social+Life+of+Things&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Social Life of Things</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Authenticity&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Authenticity</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Nutrition+Palau%2C+Pacific%2C+world&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Nutrition Palau, Pacific, world</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

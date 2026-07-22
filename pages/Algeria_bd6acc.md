@@ -1324,7 +1324,7 @@ The safest approach is not to dismiss every strange Algerian story, but to class
           <a href="https://www.amazon.com/s?k=The+Colonial+Harem+Malek+Alloula&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Colonial Harem">The Colonial Harem</a>
         </h4>
         <p class="fr-book-author">By Malek Alloula</p>
-        
+
         <p class="fr-book-desc">Examines how colonial postcards manufactured misleading images of Algerian women.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Colonial+Harem+Malek+Alloula&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1341,7 +1341,7 @@ The safest approach is not to dismiss every strange Algerian story, but to class
           <a href="https://www.amazon.com/s?k=Orientalism+Edward+W.+Said&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Orientalism">Orientalism</a>
         </h4>
         <p class="fr-book-author">By Edward W. Said</p>
-        
+
         <p class="fr-book-desc">Explains how images and stories were shaped to fit colonial expectations.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Orientalism+Edward+W.+Said&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1358,7 +1358,7 @@ The safest approach is not to dismiss every strange Algerian story, but to class
           <a href="https://www.amazon.com/s?k=A+Savage+War+of+Peace+Alistair+Horne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Savage War of Peace">A Savage War of Peace</a>
         </h4>
         <p class="fr-book-author">By Alistair Horne</p>
-        
+
         <p class="fr-book-desc">Provides context for propaganda, mythmaking and contested narratives in Algerian history.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=A+Savage+War+of+Peace+Alistair+Horne&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1369,16 +1369,16 @@ The safest approach is not to dismiss every strange Algerian story, but to class
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Algeria+Martin+Evans&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Algeria on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xmP_xKEVNMoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Algeria" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Photography%27s+Orientalism+Ali+Behdad&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Photography&#x27;s Orientalism on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HDJOsEbHroIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Photography&#x27;s Orientalism" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Algeria+Martin+Evans&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Algeria">Algeria</a>
+          <a href="https://www.amazon.com/s?k=Photography%27s+Orientalism+Ali+Behdad&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Photography&#x27;s Orientalism">Photography&#x27;s Orientalism</a>
         </h4>
-        <p class="fr-book-author">By Martin Evans</p>
-        
-        <p class="fr-book-desc">Explores conflict, memory and competing narratives in Algeria.</p>
+        <p class="fr-book-author">By Ali Behdad, Luke Gartlan</p>
+
+        <p class="fr-book-desc">Addresses how photography could create persuasive but misleading representations.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Algeria+Martin+Evans&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Photography%27s+Orientalism+Ali+Behdad&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>

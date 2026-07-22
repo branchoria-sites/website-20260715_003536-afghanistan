@@ -366,7 +366,7 @@ For modern readers, the most useful lesson is that sensational accounts deserve 
           <a href="https://www.amazon.com/s?k=Black+Spartacus+Sudhir+Hazareesingh&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Black Spartacus">Black Spartacus</a>
         </h4>
         <p class="fr-book-author">By Sudhir Hazareesingh</p>
-        
+
         <p class="fr-book-desc">Examines Atlantic-world narratives and representations linked to the region.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Black+Spartacus+Sudhir+Hazareesingh&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -383,7 +383,7 @@ For modern readers, the most useful lesson is that sensational accounts deserve 
           <a href="https://www.amazon.com/s?k=The+Fate+of+Africa+Martin+Meredith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Fate of Africa">The Fate of Africa</a>
         </h4>
         <p class="fr-book-author">By Martin Meredith</p>
-        
+
         <p class="fr-book-desc">Provides context for colonial legacies across the continent.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Fate+of+Africa+Martin+Meredith&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -400,7 +400,7 @@ For modern readers, the most useful lesson is that sensational accounts deserve 
           <a href="https://www.amazon.com/s?k=King+Leopold%27s+Ghost+Adam+Hochschild&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="King Leopold&#x27;s Ghost">King Leopold&#x27;s Ghost</a>
         </h4>
         <p class="fr-book-author">By Adam Hochschild</p>
-        
+
         <p class="fr-book-desc">Illustrates how colonial propaganda and selective reporting shaped opinion.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=King+Leopold%27s+Ghost+Adam+Hochschild&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -411,16 +411,16 @@ For modern readers, the most useful lesson is that sensational accounts deserve 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Population+Statistics+in+the+Kingdom+of+Dahomey+Melville+Jean+Herskovits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Population Statistics in the Kingdom of Dahomey on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Invention+of+Africa+V.+Y.+Mudimbe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Invention of Africa on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=-jwNAQAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Invention of Africa" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Population+Statistics+in+the+Kingdom+of+Dahomey+Melville+Jean+Herskovits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Population Statistics in the Kingdom of Dahomey">Population Statistics in the Kingdom of Dahomey</a>
+          <a href="https://www.amazon.com/s?k=The+Invention+of+Africa+V.+Y.+Mudimbe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Invention of Africa">The Invention of Africa</a>
         </h4>
-        <p class="fr-book-author">By Melville Jean Herskovits</p>
-        
-        <p class="fr-book-desc">Directly addresses Dahomey&#x27;s institutions and society beyond colonial caricatures.</p>
+        <p class="fr-book-author">By V. Y. Mudimbe</p>
+
+        <p class="fr-book-desc">Explores how Africa was constructed through colonial knowledge systems.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Population+Statistics+in+the+Kingdom+of+Dahomey+Melville+Jean+Herskovits&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+Invention+of+Africa+V.+Y.+Mudimbe&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>

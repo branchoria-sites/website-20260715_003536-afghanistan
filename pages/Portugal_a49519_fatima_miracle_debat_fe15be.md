@@ -367,7 +367,7 @@ More than a century later, the strongest conclusion is also the most cautious. S
           <a href="https://www.amazon.com/s?k=Our+Lady+of+Fatima+William+Thomas+Walsh&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Our Lady of Fatima">Our Lady of Fatima</a>
         </h4>
         <p class="fr-book-author">By William Thomas Walsh</p>
-        
+
         <p class="fr-book-desc">One of the most influential accounts of the apparitions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Our+Lady+of+Fatima+William+Thomas+Walsh&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -401,27 +401,10 @@ More than a century later, the strongest conclusion is also the most cautious. S
           <a href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why People Believe Weird Things">Why People Believe Weird Things</a>
         </h4>
         <p class="fr-book-author">By Michael Shermer</p>
-        
+
         <p class="fr-book-desc">Examines how remarkable experiences become enduring narratives.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Our+Lady+of+Fa%CC%81tima+William+Thomas+Walsh&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Our Lady of Fátima on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/238096-M.jpg" alt="Cover for Our Lady of Fátima" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Our+Lady+of+Fa%CC%81tima+William+Thomas+Walsh&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Our Lady of Fátima">Our Lady of Fátima</a>
-        </h4>
-        <p class="fr-book-author">By William Thomas Walsh</p>
-        
-        <p class="fr-book-desc">First published 1947. Subjects: Our Lady of Fatima, Fatima, our lady of.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Our+Lady+of+Fa%CC%81tima+William+Thomas+Walsh&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>

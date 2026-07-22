@@ -383,30 +383,13 @@ The story therefore says as much about market incentives as about forgery. Colle
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Fossils+Richard+A.+Fortey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fossils on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=6RL5Kp11U_gC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Fossils" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Fossils+Richard+A.+Fortey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fossils">Fossils</a>
-        </h4>
-        <p class="fr-book-author">By Richard A. Fortey</p>
-        
-        <p class="fr-book-desc">Explains fossil formation, restoration and interpretation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Fossils+Richard+A.+Fortey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
       <a class="fr-book-cover" href="https://www.amazon.com/s?k=Wonderful+Life+Stephen+Jay+Gould&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Wonderful Life on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=q8BUAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Wonderful Life" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
           <a href="https://www.amazon.com/s?k=Wonderful+Life+Stephen+Jay+Gould&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Wonderful Life">Wonderful Life</a>
         </h4>
         <p class="fr-book-author">By Stephen Jay Gould</p>
-        
+
         <p class="fr-book-desc">Encourages careful reading of fossil evidence and claims.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Wonderful+Life+Stephen+Jay+Gould&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -423,7 +406,7 @@ The story therefore says as much about market incentives as about forgery. Colle
           <a href="https://www.amazon.com/s?k=Dinosaurs+Darren+Naish&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dinosaurs">Dinosaurs</a>
         </h4>
         <p class="fr-book-author">By Darren Naish, Paul Barrett</p>
-        
+
         <p class="fr-book-desc">Useful for spotting realistic versus fabricated fossil claims.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Dinosaurs+Darren+Naish&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -434,16 +417,33 @@ The story therefore says as much about market incentives as about forgery. Colle
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=%E2%80%9CThe%E2%80%9D+Complete+Dinosaur+James+O.+Farlow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open “The” Complete Dinosaur on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Fossils+Richard+A.+Fortey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fossils on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=6RL5Kp11U_gC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Fossils" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=%E2%80%9CThe%E2%80%9D+Complete+Dinosaur+James+O.+Farlow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="“The” Complete Dinosaur">“The” Complete Dinosaur</a>
+          <a href="https://www.amazon.com/s?k=Fossils+Richard+A.+Fortey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fossils">Fossils</a>
         </h4>
-        <p class="fr-book-author">By James O. Farlow, Michael K. Brett-Surman</p>
-        
-        <p class="fr-book-desc">Helps readers understand authentic fossil anatomy and reconstruction.</p>
+        <p class="fr-book-author">By Richard A. Fortey</p>
+
+        <p class="fr-book-desc">This introduction offers an explanation of how fossils are a product of our evolving habitat. The emphasis is on what paleontology is rea...</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=%E2%80%9CThe%E2%80%9D+Complete+Dinosaur+James+O.+Farlow&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Fossils+Richard+A.+Fortey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+dinosaur+hunters+Deborah+Cadbury&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The dinosaur hunters on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+dinosaur+hunters+Deborah+Cadbury&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The dinosaur hunters">The dinosaur hunters</a>
+        </h4>
+        <p class="fr-book-author">By Deborah Cadbury</p>
+
+        <p class="fr-book-desc">Shows how fossil authentication became important in science.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+dinosaur+hunters+Deborah+Cadbury&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -451,7 +451,7 @@ The story therefore says as much about market incentives as about forgery. Colle
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Fossils&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Fossils</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Wonderful+Life&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Wonderful Life</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Dinosaurs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Dinosaurs</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Wonderful+Life&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Wonderful Life</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Dinosaurs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Dinosaurs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Fossils&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Fossils</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>

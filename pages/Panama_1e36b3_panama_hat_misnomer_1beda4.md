@@ -327,7 +327,7 @@ That is what makes the story so revealing. Panama’s role as a global crossroad
           <a href="https://www.amazon.com/s?k=The+Path+Between+the+Seas+David+G.+McCullough&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Path Between the Seas">The Path Between the Seas</a>
         </h4>
         <p class="fr-book-author">By David G. McCullough</p>
-        
+
         <p class="fr-book-desc">Provides background on Panama&#x27;s role as a transit hub.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Path+Between+the+Seas+David+G.+McCullough&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -344,10 +344,27 @@ That is what makes the story so revealing. Panama’s role as a global crossroad
           <a href="https://www.amazon.com/s?k=The+Panama+Hat+Trail+Tom+Miller&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Panama Hat Trail">The Panama Hat Trail</a>
         </h4>
         <p class="fr-book-author">By Tom Miller</p>
-        
+
         <p class="fr-book-desc">Directly explores the Ecuadorian craft behind the name.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Panama+Hat+Trail+Tom+Miller&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Over+the+Edge+of+the+World+Laurence+Bergreen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Over the Edge of the World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AmT3wAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Over the Edge of the World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Over+the+Edge+of+the+World+Laurence+Bergreen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Over the Edge of the World">Over the Edge of the World</a>
+        </h4>
+        <p class="fr-book-author">By Laurence Bergreen</p>
+
+        <p class="fr-book-desc">Provides broader context on trade routes through the isthmus.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Over+the+Edge+of+the+World+Laurence+Bergreen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -361,7 +378,7 @@ That is what makes the story so revealing. Panama’s role as a global crossroad
           <a href="https://www.amazon.com/s?k=Made+to+Stick+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Made to Stick">Made to Stick</a>
         </h4>
         <p class="fr-book-author">By Chip Heath, Dan Heath</p>
-        
+
         <p class="fr-book-desc">Helps explain why memorable labels and names persist.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Made+to+Stick+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -370,26 +387,9 @@ That is what makes the story so revealing. Panama’s role as a global crossroad
         </div>
       </div>
     </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Hats+Hilda+Amphlett&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Hats on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Hats+Hilda+Amphlett&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Hats">Hats</a>
-        </h4>
-        <p class="fr-book-author">By Hilda Amphlett</p>
-        
-        <p class="fr-book-desc">Provides context for famous hat traditions including Panama hats.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Hats+Hilda+Amphlett&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Path+Between+the+Seas&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Path Between the Seas</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Panama+Hat+Trail&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Panama Hat Trail</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Made+to+Stick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Made to Stick</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Path+Between+the+Seas&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Path Between the Seas</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Panama+Hat+Trail&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Panama Hat Trail</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Over+the+Edge+of+the+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Over the Edge of the World</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>

@@ -327,27 +327,10 @@ Within the wider history of Honduran contested truths, the 2017 election stands 
           <a href="https://www.amazon.com/s?k=How+Democracies+Die+Steven+Levitsky&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How Democracies Die">How Democracies Die</a>
         </h4>
         <p class="fr-book-author">By Steven Levitsky, Daniel Ziblatt</p>
-        
+
         <p class="fr-book-desc">Examines democratic erosion and contested political legitimacy.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=How+Democracies+Die+Steven+Levitsky&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+People+Vs.+Democracy+-+Why+Our+Freedom+Is+in+Danger+and+How+to+Save+It+Yascha+Mounk&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The People Vs. Democracy - Why Our Freedom Is in Danger and How to Save It on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CgbPugEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The People Vs. Democracy - Why Our Freedom Is in Danger and How to Save It" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+People+Vs.+Democracy+-+Why+Our+Freedom+Is+in+Danger+and+How+to+Save+It+Yascha+Mounk&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The People Vs. Democracy - Why Our Freedom Is in Danger and How to Save It">The People Vs. Democracy - Why Our Freedom Is in Danger and H...</a>
-        </h4>
-        <p class="fr-book-author">By Yascha Mounk</p>
-        
-        <p class="fr-book-desc">Provides context for disputes over elections and public trust.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+People+Vs.+Democracy+-+Why+Our+Freedom+Is+in+Danger+and+How+to+Save+It+Yascha+Mounk&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -361,7 +344,7 @@ Within the wider history of Honduran contested truths, the 2017 election stands 
           <a href="https://www.amazon.com/s?k=Network+Propaganda+Yochai+Benkler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Network Propaganda">Network Propaganda</a>
         </h4>
         <p class="fr-book-author">By Yochai Benkler, Robert Faris et al.</p>
-        
+
         <p class="fr-book-desc">Relevant to bot networks, online amplification and contested narratives.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Network+Propaganda+Yochai+Benkler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -378,7 +361,7 @@ Within the wider history of Honduran contested truths, the 2017 election stands 
           <a href="https://www.amazon.com/s?k=The+Lost+City+of+the+Monkey+God+Douglas+Preston&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Lost City of the Monkey God">The Lost City of the Monkey God</a>
         </h4>
         <p class="fr-book-author">By Douglas Preston</p>
-        
+
         <p class="fr-book-desc">Keeps readers within the broader Honduras topic area.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Lost+City+of+the+Monkey+God+Douglas+Preston&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -387,9 +370,26 @@ Within the wider history of Honduran contested truths, the 2017 election stands 
         </div>
       </div>
     </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hacking+of+the+American+Mind+Robert+H.+Lustig&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hacking of the American Mind on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=K1hqDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hacking of the American Mind" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Hacking+of+the+American+Mind+Robert+H.+Lustig&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hacking of the American Mind">The Hacking of the American Mind</a>
+        </h4>
+        <p class="fr-book-author">By Robert H. Lustig</p>
+
+        <p class="fr-book-desc">Touches on mechanisms that shape public perception and belief.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Hacking+of+the+American+Mind+Robert+H.+Lustig&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+Democracies+Die&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How Democracies Die</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+People+Vs.+Democracy+Why+Our+Freedom+Is+in+Danger+and+How+to+Save+It&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The People Vs. Democracy Why Our Freedom Is in Danger and How to Save It</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Network+Propaganda&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Network Propaganda</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+Democracies+Die&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How Democracies Die</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Network+Propaganda&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Network Propaganda</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Lost+City+of+the+Monkey+God&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Lost City of the Monkey God</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
