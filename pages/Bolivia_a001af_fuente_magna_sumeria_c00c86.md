@@ -321,7 +321,7 @@ Even the less dramatic possibility—a sincere misidentification rather than a f
 
 <img src="{{ "/assets/images/Bolivia_a001af_fuente_magna_sumeria_c00c86-Illustration-3-dark.svg" | relative_url }}" alt="Sumerian Relics illustration 3" data-theme-src-dark="{{ "/assets/images/Bolivia_a001af_fuente_magna_sumeria_c00c86-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Bolivia_a001af_fuente_magna_sumeria_c00c86-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the Story Still Circulates
+## The wider consequences of Sumerian Relics
 
 The Fuente Magna narrative survives because it combines several powerful themes. It offers a mystery object, a challenge to accepted history, an apparent written text and the possibility of dramatic ancient voyages. Such stories are naturally attractive to audiences interested in lost civilisations and historical puzzles.
 

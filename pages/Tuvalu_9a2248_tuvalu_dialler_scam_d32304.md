@@ -323,7 +323,7 @@ The combination of regulatory intervention, growing public awareness and the rap
 
 <img src="{{ "/assets/images/Tuvalu_9a2248_tuvalu_dialler_scam_d32304-Illustration-3-dark.svg" | relative_url }}" alt="Dialler Scam illustration 3" data-theme-src-dark="{{ "/assets/images/Tuvalu_9a2248_tuvalu_dialler_scam_d32304-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Tuvalu_9a2248_tuvalu_dialler_scam_d32304-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the Case Still Matters
+## How Dialler Scam entered public memory
 
 The Tuvalu dialler scam belongs to a transitional moment in internet history, but its underlying logic survives.
 

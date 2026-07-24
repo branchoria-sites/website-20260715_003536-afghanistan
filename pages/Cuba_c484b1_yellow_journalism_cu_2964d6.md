@@ -310,7 +310,7 @@ This is another reason the Cuba story remains instructive. The most enduring myt
 
 <img src="{{ "/assets/images/Cuba_c484b1_yellow_journalism_cu_2964d6-Illustration-3-dark.svg" | relative_url }}" alt="Yellow Press illustration 3" data-theme-src-dark="{{ "/assets/images/Cuba_c484b1_yellow_journalism_cu_2964d6-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Cuba_c484b1_yellow_journalism_cu_2964d6-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why These Stories Still Matter
+## How Yellow Press entered public memory
 
 The yellow press episodes connected with Cuba continue to circulate because they address a question that never disappears: how much of what people believe comes from events, and how much comes from the way those events are presented?
 

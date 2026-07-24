@@ -312,7 +312,7 @@ Perhaps the most telling detail emerged when a trader who had apparently spoken 
 
 <img src="{{ "/assets/images/Zimbabwe_5922f5_toes_for_cash_viral_027232-Illustration-3-dark.svg" | relative_url }}" alt="Toe Hoax illustration 3" data-theme-src-dark="{{ "/assets/images/Zimbabwe_5922f5_toes_for_cash_viral_027232-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Zimbabwe_5922f5_toes_for_cash_viral_027232-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the Story Still Matters
+## What Toe Hoax reveals about belief and deception
 
 The toes-for-cash hoax faded relatively quickly once investigations produced no evidence, but it remains a useful illustration of how misinformation spreads in the social-media era.
 

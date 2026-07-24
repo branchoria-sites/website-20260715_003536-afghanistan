@@ -302,7 +302,7 @@ This pattern is common in archaeological controversies. A dramatic possibility r
 
 <img src="{{ "/assets/images/Saudi_Arabia_8bf7f8_al_magar_horse_claim_f187b8-Illustration-3-dark.svg" | relative_url }}" alt="Al Magar illustration 3" data-theme-src-dark="{{ "/assets/images/Saudi_Arabia_8bf7f8_al_magar_horse_claim_f187b8-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Saudi_Arabia_8bf7f8_al_magar_horse_claim_f187b8-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the Story Still Circulates
+## What Al Magar reveals about belief and deception
 
 The Al-Magar claim survives because it sits in a grey area between discovery and debunking. Unlike a forged artefact or fabricated excavation, there is no evidence that the site itself is fraudulent. The sculptures are real, the archaeology is real, and the question being asked is legitimate.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/378498059_Preliminary_Archeological_Investigation_at_Al_Magar_Site" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">378498059 Preliminary Archeological Investigation at Al Magar Site</span><span class="citation-popover-snippet">Preliminary Archeological Investigation at Al Magar SiteFeb 27, 2024 — The purpose of the preliminary field season at Al-Maga...</span></span></span>
 

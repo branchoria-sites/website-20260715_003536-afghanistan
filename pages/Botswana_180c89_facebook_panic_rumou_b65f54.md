@@ -329,7 +329,7 @@ The incident also highlighted a difficult challenge for authorities. False infor
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/3ThsuLZio4w" title="Fake News in the Digital Age: How Misinformation Fuels Panic Across Nigerian Communities" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=3ThsuLZio4w" target="_blank" rel="noopener noreferrer">Fake News in the Digital Age: How Misinformation Fuels Panic Across Nigerian Communities</a></p><p class="youtube-embed-meta">Channel: OSRC TV</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=3ThsuLZio4w" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=3ThsuLZio4w">Open on YouTube</a></p></div></div></div>
 
-## Why the Story Still Matters
+## The wider consequences of Panic Rumour
 
 More than a decade later, the 2013 Facebook rumour remains one of Botswana's clearest examples of a social-media-driven moral panic. It was not a classic financial scam, a forged document or an elaborate political deception. Instead, it was a frightening story whose power came from emotional credibility and rapid sharing.
 

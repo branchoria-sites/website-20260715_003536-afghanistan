@@ -317,7 +317,7 @@ Once the Bank of Portugal and Waterlow compared records, the deception unravelle
 
 <img src="{{ "/assets/images/Angola_a42522_alves_reis_banknote_2e4433-Illustration-3-dark.svg" | relative_url }}" alt="Banknote Fraud illustration 3" data-theme-src-dark="{{ "/assets/images/Angola_a42522_alves_reis_banknote_2e4433-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Angola_a42522_alves_reis_banknote_2e4433-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the Case Still Matters
+## The wider consequences of Banknote Fraud
 
 The Alves Reis affair remains famous because it overturned common assumptions about forgery. The usual image of a banknote fraud involves criminals secretly imitating official currency. Reis pursued the opposite strategy: he obtained official currency by secretly imitating official authority.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.portugal.com/history-and-culture/the-portuguese-scandal-that-changed-the-country-forever/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: portugal.com">[Portugal.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">portugal.com</span><span class="citation-popover-title">the portuguese scandal that changed the country forever</span><span class="citation-popover-snippet">the portuguese scandal that changed the country forever</span></span></span>
 

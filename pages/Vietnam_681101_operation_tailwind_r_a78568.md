@@ -312,7 +312,7 @@ The episode became a case study in confirmation bias within investigative report
 
 <img src="{{ "/assets/images/Vietnam_681101_operation_tailwind_r_a78568-Illustration-3-dark.svg" | relative_url }}" alt="Tailwind Story illustration 3" data-theme-src-dark="{{ "/assets/images/Vietnam_681101_operation_tailwind_r_a78568-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Vietnam_681101_operation_tailwind_r_a78568-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the Story Still Circulates
+## How Tailwind Story entered public memory
 
 Despite the retraction, the Tailwind story never disappeared completely. Some of the journalists involved continued to defend aspects of their reporting, arguing that later evidence might yet vindicate parts of the original investigation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ajrarchive.org/Article.asp?id=3213" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ajrarchive.org">[ajrarchive.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ajrarchive.org</span><span class="citation-popover-title">The Wrong Lessons</span><span class="citation-popover-snippet">The Wrong Lessons</span></span></span>
 

@@ -296,7 +296,7 @@ The incident also demonstrated how quickly visual misinformation could spread in
 
 <img src="{{ "/assets/images/Bangladesh_fa6c37_sayeedi_moon_image_b62916-Illustration-3-dark.svg" | relative_url }}" alt="Moon Image illustration 3" data-theme-src-dark="{{ "/assets/images/Bangladesh_fa6c37_sayeedi_moon_image_b62916-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Bangladesh_fa6c37_sayeedi_moon_image_b62916-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the Story Still Circulates
+## The wider consequences of Moon Image
 
 More than a decade later, the “face on the Moon” episode remains a reference point in discussions of misinformation in Bangladesh. The image occasionally reappears online, particularly during moments when Sayeedi’s legacy returns to public debate. After his death in 2023, versions of the same visual motif again circulated on social media, showing how enduring the symbol had become among admirers.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://theprint.in/opinion/war-criminal-delwar-hossain-was-against-bangladesh-why-is-his-face-on-the-moon-now/1724630/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theprint.in">[ThePrint]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theprint.in</span><span class="citation-popover-title">The Print War criminal Delwar Hossain was against Bangladesh</span><span class="citation-popover-snippet">The Print War criminal Delwar Hossain was against Bangladesh</span></span></span>
 

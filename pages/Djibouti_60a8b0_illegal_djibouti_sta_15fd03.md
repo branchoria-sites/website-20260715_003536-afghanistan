@@ -313,7 +313,7 @@ The wider philatelic community developed additional methods of identification. C
 
 <img src="{{ "/assets/images/Djibouti_60a8b0_illegal_djibouti_sta_15fd03-Illustration-3-dark.svg" | relative_url }}" alt="Illegal Stamps illustration 3" data-theme-src-dark="{{ "/assets/images/Djibouti_60a8b0_illegal_djibouti_sta_15fd03-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Djibouti_60a8b0_illegal_djibouti_sta_15fd03-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the Case Still Matters
+## Why claims about Illegal Stamps remained persuasive
 
 The Djibouti stamp affair demonstrates how national identity can become a commercial asset in its own right. The producers did not need to counterfeit an existing stamp. They merely needed collectors to believe that Djibouti had authorised a new one.
 

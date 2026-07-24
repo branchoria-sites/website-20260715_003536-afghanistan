@@ -316,7 +316,7 @@ Unlike some famous hoaxes that relied on newspapers, photographs or fabricated d
 
 <img src="{{ "/assets/images/Poland_5ff03b_mikorzyn_stones_forg_7be8de-Illustration-3-dark.svg" | relative_url }}" alt="Mikorzyn Stones illustration 3" data-theme-src-dark="{{ "/assets/images/Poland_5ff03b_mikorzyn_stones_forg_7be8de-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Poland_5ff03b_mikorzyn_stones_forg_7be8de-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the story still matters
+## The wider consequences of Mikorzyn Stones
 
 Modern archaeology has largely settled the question of the Mikorzyn stones' authenticity, yet the case remains relevant because debates about ancient origins never entirely disappear. Claims about forgotten civilisations, lost scripts and suppressed histories continue to attract attention, particularly when they reinforce cultural pride or identity.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ma.krakow.pl/en/tour/the-mikorzyn-stones/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ma.krakow.pl">[Muzeum Archeologiczne w Krakowie]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ma.krakow.pl</span><span class="citation-popover-snippet">Muzeum Archeologiczne w KrakowieThe Mikorzyn stonesAt the same time, similar falsifications of pseudo Slavonic objects covered with runes...</span></span></span>
 

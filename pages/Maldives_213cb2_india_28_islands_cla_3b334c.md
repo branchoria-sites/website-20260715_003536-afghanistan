@@ -298,7 +298,7 @@ The speed with which the rumour collapsed under scrutiny highlights an important
 
 <img src="{{ "/assets/images/Maldives_213cb2_india_28_islands_cla_3b334c-Illustration-3-dark.svg" | relative_url }}" alt="28 Islands Claim illustration 3" data-theme-src-dark="{{ "/assets/images/Maldives_213cb2_india_28_islands_cla_3b334c-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Maldives_213cb2_india_28_islands_cla_3b334c-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the Story Still Matters
+## What 28 Islands Claim reveals about belief and deception
 
 The “28 islands” rumour was not merely a factual mistake about a ceremony. It demonstrated how geopolitical anxieties can transform ordinary government events into stories about national survival and territorial loss. The claim required no forged documents and no sophisticated image editing. A change of caption was enough.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.boomlive.in/fact-check/fake-news-india-buys-28-islands-from-maldives-president-mohamed-muizzu-fact-check-26191" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: boomlive.in">[BOOM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">boomlive.in</span><span class="citation-popover-title">BOOMNo, Maldives Did Not Hand Over 28 Islands To India</span><span class="citation-popover-snippet">August 14, 2024 — 14 Aug 2024 — FACT CHECKSocial media users misinterpreted a &#x27;handover ceremony&#x27; of water and sewerage facilities, which...</span><span class="citation-popover-meta">Published: August 14, 2024</span></span></span>
 

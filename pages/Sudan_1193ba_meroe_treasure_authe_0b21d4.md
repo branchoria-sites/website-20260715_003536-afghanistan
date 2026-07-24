@@ -316,7 +316,7 @@ The eventual acceptance of the jewellery therefore became more than a question o
 
 <img src="{{ "/assets/images/Sudan_1193ba_meroe_treasure_authe_0b21d4-Illustration-3-dark.svg" | relative_url }}" alt="Meroe Treasure illustration 3" data-theme-src-dark="{{ "/assets/images/Sudan_1193ba_meroe_treasure_authe_0b21d4-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Sudan_1193ba_meroe_treasure_authe_0b21d4-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the Story Still Matters
+## The wider consequences of Meroe Treasure
 
 Within Sudan's wider history of disputed artefacts and misunderstood evidence, the Meroe treasure stands as a cautionary tale about both looting and prejudice. Ferlini uncovered something real, but his treasure-hunting methods destroyed information that scholars can never recover. At the same time, the sceptical reaction in Europe showed how deeply assumptions about African history influenced judgments about authenticity.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Giuseppe_Ferlini" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Giuseppe Ferlini</span><span class="citation-popover-snippet">Giuseppe Ferlini</span></span></span>
 

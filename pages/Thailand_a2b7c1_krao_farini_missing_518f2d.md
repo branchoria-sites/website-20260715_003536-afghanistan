@@ -316,7 +316,7 @@ Today, historians generally view Krao Farini as an example of how Victorian ente
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/rWEy01M324I" title="William Leonard Hunt" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=rWEy01M324I" target="_blank" rel="noopener noreferrer">William Leonard Hunt</a></p><p class="youtube-embed-meta">Channel: WikiReader</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=rWEy01M324I" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=rWEy01M324I">Open on YouTube</a></p></div></div></div>
 
-## Why the Story Still Matters
+## What Krao Farini reveals about belief and deception
 
 Krao Farini occupies an unusual place in the history of deception. Unlike many famous hoaxes, there was no fabricated creature, forged fossil or hidden mechanism. The central object of the spectacle was a real child. What was manufactured was the explanation.
 

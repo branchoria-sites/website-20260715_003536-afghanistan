@@ -323,7 +323,7 @@ Public-relations commentators later cited the incident as an example of a market
 
 <img src="{{ "/assets/images/Latvia_c5f5bb_mazsalaca_meteorite_fb3799-Illustration-3-dark.svg" | relative_url }}" alt="Meteorite Stunt illustration 3" data-theme-src-dark="{{ "/assets/images/Latvia_c5f5bb_mazsalaca_meteorite_fb3799-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Latvia_c5f5bb_mazsalaca_meteorite_fb3799-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the story still matters
+## Why claims about Meteorite Stunt remained persuasive
 
 The Mazsalaca meteorite hoax remains one of Latvia’s most famous modern deceptions because it combined nearly every ingredient needed for rapid belief: dramatic imagery, apparent eyewitnesses, a physical site that could be photographed, and the visible involvement of official institutions. For a few hours, the crater seemed more convincing precisely because experts and emergency services were treating it seriously.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/2009_Latvian_meteorite_hoax" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">2009 Latvian meteorite hoax</span><span class="citation-popover-snippet">2009 Latvian meteorite hoax</span></span></span>
 

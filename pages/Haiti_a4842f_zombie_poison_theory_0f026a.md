@@ -336,7 +336,7 @@ Under this view, the search for a single “zombie toxin” may have oversimplif
 
 <img src="{{ "/assets/images/Haiti_a4842f_zombie_poison_theory_0f026a-Illustration-3-dark.svg" | relative_url }}" alt="Zombie Science illustration 3" data-theme-src-dark="{{ "/assets/images/Haiti_a4842f_zombie_poison_theory_0f026a-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Haiti_a4842f_zombie_poison_theory_0f026a-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the Story Still Circulates
+## What Zombie Science reveals about belief and deception
 
 The poisoned-zombie theory survives because it occupies a fascinating middle ground between folklore and science. Unlike supernatural explanations, it offered a mechanism that sounded testable. Unlike a simple dismissal of zombie stories, it treated Haitian accounts seriously enough to investigate them. That combination made it attractive to journalists, filmmakers and readers looking for a real-world mystery.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://harpers.org/archive/1984/04/the-pharmacology-of-zombies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: harpers.org">[harpers.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">harpers.org</span><span class="citation-popover-snippet">The Pharmacology of Zombies, by Wade DavisScientific interest in the zombie poison was rekindled recently by reported cases of zombies un...</span></span></span>
 

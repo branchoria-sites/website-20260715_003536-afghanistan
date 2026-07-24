@@ -332,7 +332,7 @@ The giant story demonstrates a commercial version of the same principle. The val
 
 <img src="{{ "/assets/images/Ireland_eb2131_forged_irish_evidenc_8dc794-Illustration-3-dark.svg" | relative_url }}" alt="Forged Evidence illustration 3" data-theme-src-dark="{{ "/assets/images/Ireland_eb2131_forged_irish_evidenc_8dc794-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Ireland_eb2131_forged_irish_evidenc_8dc794-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why these cases still matter
+## The wider consequences of Forged Evidence
 
 The petrified giant and the Black Diaries continue to attract attention because they raise questions that remain relevant in the digital age. How much trust should be placed in a photograph? When does forensic analysis settle a dispute, and when does it merely narrow the field of disagreement? Can genuine evidence be used to create a misleading narrative? How should historians evaluate claims that carry strong political or cultural consequences?
 

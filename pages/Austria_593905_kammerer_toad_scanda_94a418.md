@@ -337,7 +337,7 @@ Modern biology depends heavily on reproducibility. Kammerer’s specific observa
 
 Some modern researchers have argued that epigenetics—the study of inherited changes in gene activity that do not involve changes to DNA sequences—makes certain aspects of Kammerer’s broader ideas seem less implausible than they once appeared. However, even if epigenetic inheritance exists, that does not demonstrate that Kammerer's toad experiments were genuine. The altered specimen remains compromised evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/27781385/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">He reported spectacular results in the midwife toad.Read more...</span></span></span>
 
-## Why the case still matters
+## How Kammerer Toad entered public memory
 
 The Kammerer toad scandal survives in discussions of hoaxes and scientific fraud because it occupies an uncomfortable middle ground. Unlike clear fabrications, the physical evidence of tampering did not automatically identify the culprit. Unlike exonerations, the altered specimen permanently damaged confidence in the results.
 

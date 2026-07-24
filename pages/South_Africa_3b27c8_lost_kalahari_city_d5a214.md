@@ -312,7 +312,7 @@ The episode also demonstrates how scientific authority can unintentionally ampli
 
 <img src="{{ "/assets/images/South_Africa_3b27c8_lost_kalahari_city_d5a214-Illustration-3-dark.svg" | relative_url }}" alt="Lost City illustration 3" data-theme-src-dark="{{ "/assets/images/South_Africa_3b27c8_lost_kalahari_city_d5a214-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/South_Africa_3b27c8_lost_kalahari_city_d5a214-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the Story Still Circulates
+## Why claims about Lost City remained persuasive
 
 The Lost City of the Kalahari remains popular because it combines several enduring themes: unexplored landscapes, missing evidence, adventure and the possibility that experts overlooked something extraordinary.
 

@@ -329,7 +329,7 @@ The dispute has never been fully resolved because it involves competing values: 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/wJ3JFZ14Ros" title="BREAKING NEWS: &#x27;Murdered&#x27; Russia journalist is alive - BBC News" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=wJ3JFZ14Ros" target="_blank" rel="noopener noreferrer">BREAKING NEWS: &#x27;Murdered&#x27; Russia journalist is alive - BBC News</a></p><p class="youtube-embed-meta">Channel: BBC News</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=wJ3JFZ14Ros" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=wJ3JFZ14Ros">Open on YouTube</a></p></div></div></div>
 
-## Why the Case Still Matters
+## The wider consequences of Babchenko Case
 
 The Babchenko affair remains memorable because it occurred at the intersection of journalism, intelligence operations and information warfare. Unlike a forged relic or fabricated photograph, the falsehood came directly from state institutions and was intended to be believed.
 

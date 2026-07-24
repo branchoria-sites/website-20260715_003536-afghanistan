@@ -325,7 +325,7 @@ Investigators therefore face a peculiar situation: there is plenty of storytelli
 
 <img src="{{ "/assets/images/Afghanistan_c69153_giant_of_kandahar_c09725-Illustration-3-dark.svg" | relative_url }}" alt="Kandahar Giant illustration 3" data-theme-src-dark="{{ "/assets/images/Afghanistan_c69153_giant_of_kandahar_c09725-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Afghanistan_c69153_giant_of_kandahar_c09725-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the Story Still Circulates
+## What Kandahar Giant reveals about belief and deception
 
 The Kandahar Giant persists because it combines several powerful themes into a single narrative. It offers a war story, a monster story, a conspiracy story and, for some audiences, a religious confirmation story. Each audience can focus on a different aspect while sharing the same legend.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.coasttocoastam.com/show/2016-07-25-show/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: coasttocoastam.com">[coasttocoastam.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">coasttocoastam.com</span><span class="citation-popover-title">The case was first reported by Steve</span><span class="citation-popover-snippet">Coast to Coast AMLocation of Atlantis/ Skulls, Giants, &amp; AnomaliesJul 25, 2016 — They also talked about the case of a giant said to be sh...</span></span></span>
 

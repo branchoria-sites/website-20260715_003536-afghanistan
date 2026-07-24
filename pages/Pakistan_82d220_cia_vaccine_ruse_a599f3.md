@@ -306,7 +306,7 @@ The change did not immediately erase public suspicion in Pakistan. Once trust is
 
 <img src="{{ "/assets/images/Pakistan_82d220_cia_vaccine_ruse_a599f3-Illustration-3-dark.svg" | relative_url }}" alt="Vaccine Ruse illustration 3" data-theme-src-dark="{{ "/assets/images/Pakistan_82d220_cia_vaccine_ruse_a599f3-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Pakistan_82d220_cia_vaccine_ruse_a599f3-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the Story Still Matters
+## How Vaccine Ruse entered public memory
 
 The CIA vaccine ruse remains relevant because it demonstrates how a genuine deception can reshape public understanding of later events. Most vaccine conspiracies circulating in Pakistan and elsewhere are unsupported by evidence. Yet the Abbottabad operation gave sceptics a real example that could be woven into much broader and less accurate narratives.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://firstdraftnews.org/long-form-article/first-draft-case-study-understanding-the-impact-of-polio-vaccine-disinformation-in-pakistan/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: firstdraftnews.org">[First Draft]</a><span class="citation-popover" role="note"><span class="citation-popover-source">firstdraftnews.org</span><span class="citation-popover-snippet">Open source on firstdraftnews.org.</span></span></span>
 

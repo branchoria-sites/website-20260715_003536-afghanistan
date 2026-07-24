@@ -304,7 +304,7 @@ Likewise, claims that Operation Persil alone caused severe inflation or nearly c
 
 <img src="{{ "/assets/images/Guinea_b47b54_operation_persil_cur_65e65b-Illustration-3-dark.svg" | relative_url }}" alt="Operation Persil illustration 3" data-theme-src-dark="{{ "/assets/images/Guinea_b47b54_operation_persil_cur_65e65b-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Guinea_b47b54_operation_persil_cur_65e65b-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the Story Still Matters
+## The wider consequences of Operation Persil
 
 Operation Persil remains remarkable because it turns the usual counterfeit narrative upside down. Counterfeiters typically seek personal enrichment. Here, fake money was allegedly deployed as an instrument of statecraft. The deception was aimed at weakening public trust in a government, a currency and the idea of independent economic control itself.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Operation_Persil" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Operation Persil</span><span class="citation-popover-snippet">April 13, 2026...</span><span class="citation-popover-meta">Published: April 13, 2026</span></span></span>
 

@@ -1338,7 +1338,7 @@ Confession is useful but not always essential. It may be delayed, partial or sha
 
 Exposure also requires institutions to revisit their own conduct. A forged object may survive because a museum restricts access. A mistaken criminal profile may persist because senior investigators have publicly endorsed it. A political falsehood may achieve its purpose before a cautious official inquiry reports. Corrections therefore need more than a declaration that something was “fake”; they must explain the chain of decisions that allowed it to gain authority.
 
-## Why the stories still circulate
+## The wider consequences of United Kingdom's hoax history
 
 British hoaxes survive because the false version is often simpler and more vivid than the correction. A prehistoric Englishman, a fairy caught by a camera or a monster lifting its neck from a Highland loch can be understood in seconds. The debunking requires discussion of chemical tests, photographic scale, provenance, institutional rivalries or the gradual development of folklore.
 

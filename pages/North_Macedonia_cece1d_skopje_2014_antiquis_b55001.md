@@ -318,7 +318,7 @@ Architects and urban planners criticised the aesthetic approach, arguing that th
 
 Public opposition became particularly visible during the political crisis of the mid-2010s, when protesters famously splashed paint on some of the project's most recognisable monuments. The colourful attacks turned the statues themselves into symbols of broader arguments about corruption, identity and political power.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://d-nb.info/1385178213/34" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: d-nb.info">[DNB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">d-nb.info</span><span class="citation-popover-snippet">Open source on d-nb.info.</span></span></span>
 
-## Why the Story Still Matters
+## How Skopje 2014 entered public memory
 
 More than a decade after construction began, Skopje 2014 remains one of the most striking examples of how governments can use urban space to shape historical consciousness. The debate is no longer simply about statues. It concerns the relationship between history, memory and political authority.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.sagepub.com/doi/10.1177/03058298241231742" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Open source on sagepub.com.</span></span></span>
 

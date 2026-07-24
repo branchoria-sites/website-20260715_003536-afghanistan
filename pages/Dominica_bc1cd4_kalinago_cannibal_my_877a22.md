@@ -316,7 +316,7 @@ Many archaeologists today argue that the traditional image of the Kalinago as a 
 
 <img src="{{ "/assets/images/Dominica_bc1cd4_kalinago_cannibal_my_877a22-Illustration-3-dark.svg" | relative_url }}" alt="Cannibal Myth illustration 3" data-theme-src-dark="{{ "/assets/images/Dominica_bc1cd4_kalinago_cannibal_my_877a22-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Dominica_bc1cd4_kalinago_cannibal_my_877a22-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the Story Still Circulates
+## Why claims about Cannibal Myth remained persuasive
 
 The cannibal myth survives because it is memorable, dramatic and deeply embedded in older histories of the Caribbean. Schoolbooks, travel accounts and popular retellings repeated the story for centuries, often without examining how the claim originated or who benefited from it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://sundominica.com/articles/the-myth-of-cannibalism-4298/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sundominica.com">[sundominica.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sundominica.com</span><span class="citation-popover-title">The myth of cannibalism &#124; Local</span><span class="citation-popover-snippet">The myth of cannibalism &#124; Local</span></span></span>
 

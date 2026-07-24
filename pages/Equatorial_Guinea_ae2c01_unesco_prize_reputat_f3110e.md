@@ -307,7 +307,7 @@ Eventually, the award was reconfigured and later reappeared as the UNESCO–Equa
 
 <img src="{{ "/assets/images/Equatorial_Guinea_ae2c01_unesco_prize_reputat_f3110e-Illustration-3-dark.svg" | relative_url }}" alt="Science Prize illustration 3" data-theme-src-dark="{{ "/assets/images/Equatorial_Guinea_ae2c01_unesco_prize_reputat_f3110e-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Equatorial_Guinea_ae2c01_unesco_prize_reputat_f3110e-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the Story Still Matters
+## How Science Prize entered public memory
 
 Within the wider history of contested truth in Equatorial Guinea, the UNESCO prize controversy stands out because it was not a classic hoax, forgery or fabricated discovery. The scientific work honoured by the award was genuine. The dispute instead revolved around image creation and public perception.
 

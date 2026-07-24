@@ -322,7 +322,7 @@ The investigation had ripple effects. Museums, auction houses and collectors fac
 
 <img src="{{ "/assets/images/Mongolia_f54da3_tarbosaurus_provenan_415327-Illustration-3-dark.svg" | relative_url }}" alt="Dinosaur Fraud illustration 3" data-theme-src-dark="{{ "/assets/images/Mongolia_f54da3_tarbosaurus_provenan_415327-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Mongolia_f54da3_tarbosaurus_provenan_415327-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the story still matters
+## Why claims about Dinosaur Fraud remained persuasive
 
 Among Mongolia’s most important episodes involving deception and heritage, the Tarbosaurus affair stands out because it was neither a mythical creature nor a forged artefact. The dinosaur was real. The fraud lay in the story attached to it.
 

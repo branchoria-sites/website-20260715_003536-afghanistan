@@ -304,7 +304,7 @@ The human cost extended beyond investors. Tens of thousands of workers laboured 
 
 <img src="{{ "/assets/images/Panama_1e36b3_french_canal_scandal_ab3024-Illustration-3-dark.svg" | relative_url }}" alt="Canal Scandal illustration 3" data-theme-src-dark="{{ "/assets/images/Panama_1e36b3_french_canal_scandal_ab3024-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Panama_1e36b3_french_canal_scandal_ab3024-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the Story Still Matters
+## Why claims about Canal Scandal remained persuasive
 
 The French Panama Canal scandal occupies an unusual place in the history of deception. It was not a classic hoax involving a fake object, forged artefact or invented event. The canal existed, construction was real and the engineering ambition was genuine. The deception lay in the presentation of the project's prospects and finances.
 

@@ -302,7 +302,7 @@ The contrast is striking. Turnbull's account described a people who allegedly la
 
 <img src="{{ "/assets/images/Uganda_e92904_ik_misrepresentation_4f85ba-Illustration-3-dark.svg" | relative_url }}" alt="The Ik illustration 3" data-theme-src-dark="{{ "/assets/images/Uganda_e92904_ik_misrepresentation_4f85ba-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Uganda_e92904_ik_misrepresentation_4f85ba-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the Story Still Matters
+## How The Ik entered public memory
 
 The Ik controversy remains one of the most discussed cases in African anthropology because it illustrates how a powerful narrative can outlive the evidence that supported it. Once the image of the Ik as extraordinarily selfish entered public consciousness, it continued to circulate in books, articles and classrooms long after substantial criticism emerged.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.berghahnjournals.com/view/journals/conflict-and-society/7/1/arcs070108.xml" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: berghahnjournals.com">[Berghahn Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">berghahnjournals.com</span><span class="citation-popover-title">Berghahn Journals Telling Tales?</span><span class="citation-popover-snippet">in: Conflict and Society Volume...by D Rodgers · 2021 · Cited by 9 — Certainly, coming back to controversy surrounding The Mountain Peop...</span></span></span>
 

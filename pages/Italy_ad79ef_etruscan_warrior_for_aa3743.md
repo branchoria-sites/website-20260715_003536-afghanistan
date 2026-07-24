@@ -314,7 +314,7 @@ The case also helped encourage a more scientific approach to antiquities. Questi
 
 <img src="{{ "/assets/images/Italy_ad79ef_etruscan_warrior_for_aa3743-Illustration-3-dark.svg" | relative_url }}" alt="The Fake Etruscan Warriors Acquired By New York’s Metropolitan... illustration 3" data-theme-src-dark="{{ "/assets/images/Italy_ad79ef_etruscan_warrior_for_aa3743-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Italy_ad79ef_etruscan_warrior_for_aa3743-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the story still matters
+## How The Fake Etruscan Warriors Acquired By New York’s entered public memory
 
 Many forgery scandals focus on the brilliance of the forger. The Etruscan warriors are more interesting because they expose the social machinery of belief.
 

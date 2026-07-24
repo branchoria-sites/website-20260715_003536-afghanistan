@@ -321,7 +321,7 @@ For historians of hoaxes and misinformation, the case is less about belief in al
 
 <img src="{{ "/assets/images/Ecuador_09f199_radio_quito_martian_5362db-Illustration-3-dark.svg" | relative_url }}" alt="Radio Quito illustration 3" data-theme-src-dark="{{ "/assets/images/Ecuador_09f199_radio_quito_martian_5362db-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Ecuador_09f199_radio_quito_martian_5362db-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the story still circulates
+## Why claims about Radio Quito remained persuasive
 
 The Radio Quito incident continues to appear in discussions of media ethics, misinformation and public panic because it offers an unusually stark example of the relationship between credibility and responsibility. Unlike many famous hoaxes, it did not depend on forged artefacts, fake photographs or pseudoscientific claims. Its power came from the format itself. The deception worked because it sounded exactly like the kind of information people relied upon during genuine emergencies.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://radiolab.org/podcast/91624-could-it-happen-again-and-again" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: radiolab.org">[Radiolab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">radiolab.org</span><span class="citation-popover-title">91624 could it happen again and again</span><span class="citation-popover-snippet">Could It Happen Again? (And Again?)In 1949, when Radio Quito decided to translate the Orson Welles stunt for an Ecuadorian audien...</span></span></span>
 

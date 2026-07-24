@@ -304,7 +304,7 @@ The political value of such doubt is obvious. If every rescue video can be portr
 
 <img src="{{ "/assets/images/Syria_3ed104_staged_syrian_rescue_1b0dc4-Illustration-3-dark.svg" | relative_url }}" alt="Staged Rescues illustration 3" data-theme-src-dark="{{ "/assets/images/Syria_3ed104_staged_syrian_rescue_1b0dc4-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Syria_3ed104_staged_syrian_rescue_1b0dc4-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the Story Still Matters
+## The wider consequences of Staged Rescues
 
 The history of staged Syrian rescue videos is not primarily a story about a single fake clip. It is a story about how a small number of documented deceptions reshaped debates over a much larger body of evidence.
 

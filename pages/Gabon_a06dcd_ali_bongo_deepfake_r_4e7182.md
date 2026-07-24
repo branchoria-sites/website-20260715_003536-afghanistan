@@ -316,7 +316,7 @@ Throughout 2019, Bongo gradually resumed public activities. In August he appeare
 
 This does not mean every concern about governmental transparency was unfounded. Critics continued to question how much authority Bongo personally exercised after his stroke. Yet those constitutional and political debates were different from the specific allegation that the New Year address had been an AI-generated fake. Available evidence never substantiated that claim.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.washingtonpost.com/politics/2020/02/13/how-sick-president-suspect-video-helped-sparked-an-attempted-coup-gabon/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: washingtonpost.com">[The Washington Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">washingtonpost.com</span><span class="citation-popover-snippet">They didn&#x27;t trust that...</span></span></span>
 
-## Why the Story Still Matters
+## What Bongo Video reveals about belief and deception
 
 The Ali Bongo video remains one of the most cited examples of a suspected political deepfake that was never convincingly shown to be a deepfake at all.
 

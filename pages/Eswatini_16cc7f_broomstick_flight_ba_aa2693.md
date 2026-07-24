@@ -298,7 +298,7 @@ A further irony is that some reports pointed out that traditional Swazi brooms a
 
 <img src="{{ "/assets/images/Eswatini_16cc7f_broomstick_flight_ba_aa2693-Illustration-3-dark.svg" | relative_url }}" alt="Broomstick Ban illustration 3" data-theme-src-dark="{{ "/assets/images/Eswatini_16cc7f_broomstick_flight_ba_aa2693-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Eswatini_16cc7f_broomstick_flight_ba_aa2693-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the Story Still Circulates
+## What Broomstick Ban reveals about belief and deception
 
 More than a decade later, the broomstick ban continues to appear in online lists of bizarre laws and strange national facts. Its survival illustrates a common mechanism in the history of misinformation: a humorous comment is reported as news, repeated without context, simplified into a memorable claim, and eventually remembered as an established fact.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://reason.com/2013/05/22/oh-what-a-world/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reason.com">[Reason.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reason.com</span><span class="citation-popover-title">oh what a world</span><span class="citation-popover-snippet">Oh, What a World!22 May 2013 — Swaziland&#x27;s Civil Aviation Authority has threatened to fine witches who fly their broomsticks higher than...</span><span class="citation-popover-meta">Published: May 2013</span></span></span>
 

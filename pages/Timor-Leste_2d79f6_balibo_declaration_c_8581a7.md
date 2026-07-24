@@ -326,7 +326,7 @@ The contrast transformed the declaration from a contested political document int
 
 <img src="{{ "/assets/images/Timor-Leste_2d79f6_balibo_declaration_c_8581a7-Illustration-3-dark.svg" | relative_url }}" alt="Balibo Declaration illustration 3" data-theme-src-dark="{{ "/assets/images/Timor-Leste_2d79f6_balibo_declaration_c_8581a7-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Timor-Leste_2d79f6_balibo_declaration_c_8581a7-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the story still matters
+## How Balibo Declaration entered public memory
 
 The Balibo Declaration remains significant because it illustrates a recurring mechanism of political deception. The document did not rely on an obviously absurd claim. It relied on selective presentation, concealed authorship, strategic naming and the authority created by apparent local endorsement. Those techniques are often more effective than outright fabrication because they mix truth with distortion.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.fundasaunmahein.org/wp-content/uploads/2011/06/Indonesias-military-strategy-in-the-invasion-of-East-Timor.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fundasaunmahein.org">[Fundasaun Mahein]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fundasaunmahein.org</span><span class="citation-popover-snippet">Fundasaun MaheinIndonesia&#x27;s military strategy in the invasion of East TimorAlthough said to have been proclaimed at Balibo, witnesses to...</span></span></span>
 

@@ -319,7 +319,7 @@ In this sense, van Meegeren understood the art world as well as he understood pa
 
 <img src="{{ "/assets/images/Netherlands_fb61c8_van_meegeren_vermeer_b28550-Illustration-3-dark.svg" | relative_url }}" alt="Fake Vermeers illustration 3" data-theme-src-dark="{{ "/assets/images/Netherlands_fb61c8_van_meegeren_vermeer_b28550-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Netherlands_fb61c8_van_meegeren_vermeer_b28550-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the Story Still Matters
+## The wider consequences of Fake Vermeers
 
 Among the [Netherlands]({{ 'how-the-netherlands-learned-to-spot-a/' | relative_url }})' many famous episodes of deception, the fake Vermeers remain unusually revealing because they expose a universal weakness in human judgement. The fraud succeeded not through crude trickery but through a sophisticated understanding of expectation and authority.
 

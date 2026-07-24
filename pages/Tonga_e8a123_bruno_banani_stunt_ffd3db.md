@@ -327,7 +327,7 @@ When details of the name change became public, senior International Olympic Comm
 
 The controversy therefore highlighted a tension within modern sport. Athletes often depend on sponsorship funding, especially those from small nations with limited sporting resources. At the same time, governing bodies seek to prevent commercial branding from overwhelming competition itself. The Bruno Banani case pushed that tension into unusually visible territory.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/article/sports/olympics/tongan-changes-name-to-brand-in-bid-for-olympic-glory-idUSL5E8DB0IF/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">tongan changes name to brand in bid for olympic glory id USL5E8DB0IF</span><span class="citation-popover-snippet">Tongan changes name to brand in bid for Olympic glory11 Feb 2012 — Bruno Banani was born Fuahea Semi but changed his name to that...</span></span></span>
 
-## Why the Story Still Matters
+## Why claims about Bruno Banani remained persuasive
 
 Among Tonga-related stories of deception and publicity, the Bruno Banani affair remains distinctive because its central claim was true. A Tongan athlete really did become a Winter Olympian. What was misleading was the narrative framework that transformed him into a walking advertisement.
 

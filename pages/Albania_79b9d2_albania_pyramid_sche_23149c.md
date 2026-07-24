@@ -319,7 +319,7 @@ Economically, the damage was severe. Production fell, investment suffered and co
 
 <img src="{{ "/assets/images/Albania_79b9d2_albania_pyramid_sche_23149c-Illustration-3-dark.svg" | relative_url }}" alt="Pyramid Schemes illustration 3" data-theme-src-dark="{{ "/assets/images/Albania_79b9d2_albania_pyramid_sche_23149c-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Albania_79b9d2_albania_pyramid_sche_23149c-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the Story Still Matters
+## The wider consequences of Pyramid Schemes
 
 The Albanian pyramid schemes are often remembered as a cautionary tale about greed, but that explanation is too simple. Many investors were responding rationally to the information available to them. They saw companies that appeared successful, received payments as promised and operated openly under the gaze of the state. In a society undergoing rapid economic change, those signals were powerful.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ft.com/content/199b6c9f-fe1a-402f-9ea1-c77ea8cba334" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ft.com">[Financial Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ft.com</span><span class="citation-popover-snippet">Hosted by Robin Wigglesworth and Ortenca Aliaj, the episode recounts how Albania&#x27;s transition from an isolated communist regime to a free...</span></span></span>
 

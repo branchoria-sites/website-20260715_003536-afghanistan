@@ -330,7 +330,7 @@ Following Jammeh's departure from power in 2017, the programme attracted renewed
 
 The controversy also became part of broader efforts to document abuses committed during Jammeh's rule. In retrospective accounts, the HIV cure claim is often discussed alongside other episodes in which state power was used to promote unsupported beliefs or suppress criticism.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6586965/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The Impact of the Presidential Alternative Treatment Program...by SL Bosha · 2019 · Cited by 4 — This paper argues that PATP and the...</span></span></span>
 
-## Why the Story Still Matters
+## What HIV Cure Claim reveals about belief and deception
 
 Jammeh's HIV cure claim occupies a distinctive place in the history of deception and pseudoscience in The Gambia because it was not a commercial scam, a folklore tale or a media prank. It was an extraordinary medical claim backed by the authority of a sitting president.
 

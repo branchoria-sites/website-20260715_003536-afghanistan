@@ -345,7 +345,7 @@ For Slovenia, the episode was especially sensitive because it involved the count
 
 <img src="{{ "/assets/images/Slovenia_d1aa05_museum_masterpiece_s_e8a303-Illustration-3-dark.svg" | relative_url }}" alt="Museum Scandal illustration 3" data-theme-src-dark="{{ "/assets/images/Slovenia_d1aa05_museum_masterpiece_s_e8a303-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Slovenia_d1aa05_museum_masterpiece_s_e8a303-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the story still circulates
+## How Museum Scandal entered public memory
 
 The National Museum scandal remains memorable because it combined several elements that often appear in famous forgery controversies: celebrated artist names, a mysterious private collection, disputed provenance, institutional endorsement and a dramatic last-minute collapse.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/2022/jun/10/national-museum-of-slovenia-cancels-art-exhibition-over-alleged-fakes" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">The GuardianNational Museum of Slovenia cancels art exhibition over...June 10, 2022 — 10 Jun 2022 — National Museum of Slovenia cancels...</span><span class="citation-popover-meta">Published: June 10, 2022</span></span></span>
 

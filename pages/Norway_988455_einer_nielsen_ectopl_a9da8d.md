@@ -294,7 +294,7 @@ The Norwegian investigation therefore revealed more than one fraudulent medium. 
 
 <img src="{{ "/assets/images/Norway_988455_einer_nielsen_ectopl_a9da8d-Illustration-3-dark.svg" | relative_url }}" alt="Fake Ectoplasm illustration 3" data-theme-src-dark="{{ "/assets/images/Norway_988455_einer_nielsen_ectopl_a9da8d-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Norway_988455_einer_nielsen_ectopl_a9da8d-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the Case Still Matters
+## The wider consequences of Fake Ectoplasm
 
 Within Norway’s history of hoaxes and contested claims, the Nielsen affair stands out because it involved an organised attempt to test extraordinary assertions rather than merely denounce them. The investigators did not begin by proving spiritualism impossible; instead, they examined a specific claim under conditions designed to reveal how it worked. Their conclusion—that the ectoplasm was fraudulent—helped turn the case into a classic example of how careful controls can expose phenomena that seem impressive under less rigorous conditions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Einer_Nielsen" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Einer Nielsen</span><span class="citation-popover-snippet">Einer Nielsen</span></span></span>
 

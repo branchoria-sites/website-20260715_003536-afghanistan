@@ -323,7 +323,7 @@ Prince Philip himself appears to have treated the situation with good humour. Ra
 
 <img src="{{ "/assets/images/Vanuatu_d16ad2_prince_philip_god_st_6a9ab2-Illustration-3-dark.svg" | relative_url }}" alt="Prince Philip illustration 3" data-theme-src-dark="{{ "/assets/images/Vanuatu_d16ad2_prince_philip_god_st_6a9ab2-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Vanuatu_d16ad2_prince_philip_god_st_6a9ab2-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the Story Still Circulates
+## The wider consequences of Prince Philip
 
 The Prince Philip movement survives in popular culture because it sits at the intersection of several enduring themes: royalty, spirituality, colonial history and apparent cultural mystery.
 

@@ -318,7 +318,7 @@ As a result, two separate claims should be kept distinct:
 
 2. **That the campaign decisively altered the election result.** This remains much harder to establish and continues to be debated. [The Ballot+2Tufts Now](https://www.theballot.world/articles/after-cambridge-analytica)
 
-## Why the Story Still Matters
+## How Do So entered public memory
 
 The significance of Do So lies less in proving a single election outcome than in revealing a method of influence. The campaign entered Trinidad and Tobago’s history of contested truth because it allegedly depended on disguising political intent behind the appearance of independent youth activism.
 

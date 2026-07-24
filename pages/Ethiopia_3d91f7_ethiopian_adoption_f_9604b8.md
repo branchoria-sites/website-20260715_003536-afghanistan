@@ -328,7 +328,7 @@ Ethiopia eventually prohibited most international adoptions in 2018, a decision 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/gYScFV053Vw" title="Adoption Agencies Are Separating African Children From Their Parents" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=gYScFV053Vw" target="_blank" rel="noopener noreferrer">Adoption Agencies Are Separating African Children From Their Parents</a></p><p class="youtube-embed-meta">Channel: Journeyman Pictures</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=gYScFV053Vw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=gYScFV053Vw">Open on YouTube</a></p></div></div></div>
 
-## Why the Case Still Matters
+## How Adoption Fraud entered public memory
 
 Unlike many famous hoaxes, the Ethiopian adoption fraud case was not built around a forged relic, a fake photograph or a sensational legend. Its deception was embedded in official paperwork. That made it less dramatic but arguably more consequential.
 

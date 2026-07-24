@@ -294,7 +294,7 @@ This mechanism helps explain why misleading political claims can be effective ev
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/_G71uYBp9rI" title="Cape Verde Elections 2026: Is democracy on the line" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=_G71uYBp9rI" target="_blank" rel="noopener noreferrer">Cape Verde Elections 2026: Is democracy on the line</a></p><p class="youtube-embed-meta">Channel: DW Africa</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=_G71uYBp9rI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=_G71uYBp9rI">Open on YouTube</a></p></div></div></div>
 
-## Why These Cases Matter
+## The wider consequences of Campaign Claims
 
 The 2016 election stands out in Cape Verde’s history of misinformation because it demonstrates how deception can emerge from authentic material. Unlike classic hoaxes involving forged photographs, invented identities or fabricated documents, these disputes revolved around interpretation.
 

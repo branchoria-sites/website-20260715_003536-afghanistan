@@ -320,7 +320,7 @@ As the story circulated, many readers came away with the impression that interna
 
 <img src="{{ "/assets/images/Kiribati_3f57ad_teitiota_climate_ref_a8a816-Illustration-3-dark.svg" | relative_url }}" alt="Climate Refugee illustration 3" data-theme-src-dark="{{ "/assets/images/Kiribati_3f57ad_teitiota_climate_ref_a8a816-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kiribati_3f57ad_teitiota_climate_ref_a8a816-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the Story Still Matters
+## What Climate Refugee reveals about belief and deception
 
 The Teitiota case remains influential because it exposed a growing tension between environmental reality and legal definitions. Climate change may force migration, yet international refugee law was largely designed in response to persecution, conflict and political oppression rather than environmental transformation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://opiniojuris.org/2020/10/12/the-historic-case-of-teitiota-climate-induced-asylum-and-its-future/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: opiniojuris.org">[Opinio Juris]</a><span class="citation-popover" role="note"><span class="citation-popover-source">opiniojuris.org</span><span class="citation-popover-title">the historic case of teitiota climate induced asylum and its future</span><span class="citation-popover-snippet">the historic case of teitiota climate induced asylum and its future</span></span></span>
 

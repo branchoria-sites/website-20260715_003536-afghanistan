@@ -317,7 +317,7 @@ Valla's critique did not instantly eliminate the Donation's influence. Long-esta
 
 <img src="{{ "/assets/images/Italy_ad79ef_donation_constantine_a76de3-Illustration-3-dark.svg" | relative_url }}" alt="Constantine illustration 3" data-theme-src-dark="{{ "/assets/images/Italy_ad79ef_donation_constantine_a76de3-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Italy_ad79ef_donation_constantine_a76de3-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the Case Still Matters
+## What Constantine reveals about belief and deception
 
 The Donation of Constantine remains important because it shows how forged authority can survive for centuries when supported by trusted institutions. Its success depended not merely on the skill of an unknown forger but on the willingness of later generations to treat inherited documents as self-evidently authentic.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.newadvent.org/cathen/05118a.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newadvent.org">[New Advent]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newadvent.org</span><span class="citation-popover-snippet">New AdventCATHOLIC ENCYCLOPEDIA: Donation of ConstantineThis document is without doubt a forgery, fabricated somewhere between the years...</span></span></span>
 

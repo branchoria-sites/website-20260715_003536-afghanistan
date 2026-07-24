@@ -308,7 +308,7 @@ Finally, some retellings portray the event as evidence that an entirely fake foo
 
 <img src="{{ "/assets/images/Senegal_d8973b_ali_dia_false_recomm_006d5e-Illustration-3-dark.svg" | relative_url }}" alt="Ali Dia illustration 3" data-theme-src-dark="{{ "/assets/images/Senegal_d8973b_ali_dia_false_recomm_006d5e-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Senegal_d8973b_ali_dia_false_recomm_006d5e-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the Story Still Matters
+## Why claims about Ali Dia remained persuasive
 
 Nearly three decades later, the Ali Dia affair remains a cautionary tale about authority, reputation and verification. The deception succeeded because it appeared to come from a trusted source. Once Southampton accepted the recommendation as genuine, ordinary checks seem to have been relaxed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.goal.com/en/lists/football-craziest-transfers-ali-dia-fooled-southampton-premier-league/blt0dbec5bb0270444a" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: goal.com">[Goal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">goal.com</span><span class="citation-popover-snippet">Football&#x27;s craziest transfers: How &#x27;f*cking hopeless&#x27; Ali Dia...Sep 4, 2024 — After purporting to be the cousin of legendary Ballon...</span></span></span>
 

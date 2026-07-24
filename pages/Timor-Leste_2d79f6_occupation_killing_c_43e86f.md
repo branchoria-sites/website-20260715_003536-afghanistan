@@ -308,7 +308,7 @@ The pattern resembled the Balibo case in an important way. In both episodes, off
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/MQ6n8EoX8Fg" title="Murdered for reporting the truth: The story of the Balibo Five" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=MQ6n8EoX8Fg" target="_blank" rel="noopener noreferrer">Murdered for reporting the truth: The story of the Balibo Five</a></p><p class="youtube-embed-meta">Channel: The Sydney Morning Herald and The Age</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=MQ6n8EoX8Fg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=MQ6n8EoX8Fg">Open on YouTube</a></p></div></div></div>
 
-## Why These Cases Still Matter
+## Why claims about Killing Cover Stories remained persuasive
 
 The Balibo Five and Santa Cruz occupy a special place in Timor-Leste’s history because they illustrate how official narratives can shape understanding long before evidence becomes widely available. Neither case revolves around an elaborate hoax in the conventional sense. Instead, they show how governments can frame violent events through selective explanations that are difficult to challenge when access to information is tightly controlled.
 

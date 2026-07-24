@@ -309,7 +309,7 @@ The most cautious interpretation is also the most convincing: the stamp did not 
 
 <img src="{{ "/assets/images/Nicaragua_481264_canal_stamp_campaign_708cff-Illustration-3-dark.svg" | relative_url }}" alt="Canal Stamp illustration 3" data-theme-src-dark="{{ "/assets/images/Nicaragua_481264_canal_stamp_campaign_708cff-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Nicaragua_481264_canal_stamp_campaign_708cff-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the Story Still Matters
+## What Canal Stamp reveals about belief and deception
 
 The canal stamp survives in historical memory because it illustrates a form of persuasion that remains common today. An authentic image can be used to support a conclusion that the image itself does not actually prove.
 

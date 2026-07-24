@@ -302,7 +302,7 @@ No evidence has emerged that the Cuban government implemented the alleged law or
 
 This does not mean every parental concern was imaginary. Cuba did undergo sweeping educational and ideological changes, and many families sincerely objected to them. The crucial distinction is between opposition to real government policies and belief in a fabricated law. Historians generally separate these issues: genuine political disputes existed, but the specific claim that parental rights would be legally abolished and children seized was unsupported.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://academic.oup.com/edited-volume/61800/chapter/546374312?searchresult=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academic.oup.com">[oup.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academic.oup.com</span><span class="citation-popover-snippet">OUP AcademicOperation Pedro Pan: The Migration of Unaccompanied...The reasons Cuban parents chose to send their children unaccompanied t...</span></span></span>
 
-## Why the Story Still Matters
+## How Pedro Pan entered public memory
 
 The fake parental-law scare remains one of Cuba's most consequential misinformation episodes because it changed lives on a massive scale. Unlike a newspaper prank or forged photograph, its effects were measured in family separations and migration decisions.
 

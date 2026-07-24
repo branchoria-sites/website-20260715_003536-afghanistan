@@ -341,7 +341,7 @@ Law-enforcement operations have added a broader picture. A 2025 Interpol-led cra
 
 <img src="{{ "/assets/images/Ivory_Coast_0c79b1_romance_scam_identit_8ffb58-Illustration-3-dark.svg" | relative_url }}" alt="Romance Scams illustration 3" data-theme-src-dark="{{ "/assets/images/Ivory_Coast_0c79b1_romance_scam_identit_8ffb58-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Ivory_Coast_0c79b1_romance_scam_identit_8ffb58-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the Story Still Matters
+## Why claims about Romance Scams remained persuasive
 
 Romance scams linked to Ivory Coast occupy an important place in the country's modern history of deception because they demonstrate how hoaxes evolved in the social-media era. Instead of forging an artefact or inventing a newspaper story, the fraudster creates an entire fictional human being.
 

@@ -310,7 +310,7 @@ The case therefore belongs to the broader history of scientific claims later ove
 
 <img src="{{ "/assets/images/Liberia_1ed5dd_liberian_greenbul_dn_6a2d1a-Illustration-3-dark.svg" | relative_url }}" alt="Liberian Greenbul illustration 3" data-theme-src-dark="{{ "/assets/images/Liberia_1ed5dd_liberian_greenbul_dn_6a2d1a-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Liberia_1ed5dd_liberian_greenbul_dn_6a2d1a-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the Story Still Matters
+## The wider consequences of Liberian Greenbul
 
 The Liberian Greenbul remains memorable because it reverses a familiar conservation story. Usually, DNA testing reveals that apparently similar populations are actually separate species. Here, genetics produced the opposite result: a famous rarity disappeared because it was not distinct enough.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.smithsonianmag.com/smart-news/elusive-songbird-species-likely-never-existed-180965154/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: smithsonianmag.com">[Smithsonian Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">smithsonianmag.com</span><span class="citation-popover-title">elusive songbird species likely never existed 180965154</span><span class="citation-popover-snippet">Smithsonian MagazineThe Elusive Songbird Species That Likely Never Existed10 Oct 2017 — After fruitless hunts for a Liberian songbird, DN...</span></span></span>
 

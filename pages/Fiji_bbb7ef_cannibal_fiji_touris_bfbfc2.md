@@ -312,7 +312,7 @@ This pattern appears repeatedly in tourism. Historical cannibalism becomes the h
 
 <img src="{{ "/assets/images/Fiji_bbb7ef_cannibal_fiji_touris_bfbfc2-Illustration-3-dark.svg" | relative_url }}" alt="Cannibal Fiji illustration 3" data-theme-src-dark="{{ "/assets/images/Fiji_bbb7ef_cannibal_fiji_touris_bfbfc2-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Fiji_bbb7ef_cannibal_fiji_touris_bfbfc2-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the Story Still Circulates
+## The wider consequences of Cannibal Fiji
 
 “Cannibal Fiji” endures because it combines several elements that make stories memorable: genuine historical foundations, dramatic incidents, unusual artefacts and a clear contrast between past and present. Unlike a pure hoax, it cannot simply be debunked. The challenge is understanding how a real historical practice was enlarged into a national brand.
 

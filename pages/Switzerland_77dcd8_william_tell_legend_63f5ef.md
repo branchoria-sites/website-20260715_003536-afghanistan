@@ -298,7 +298,7 @@ The process illustrates how national memory often works. Historical accuracy is 
 
 <img src="{{ "/assets/images/Switzerland_77dcd8_william_tell_legend_63f5ef-Illustration-3-dark.svg" | relative_url }}" alt="William Tell illustration 3" data-theme-src-dark="{{ "/assets/images/Switzerland_77dcd8_william_tell_legend_63f5ef-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Switzerland_77dcd8_william_tell_legend_63f5ef-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the Story Still Matters
+## What William Tell reveals about belief and deception
 
 William Tell remains significant precisely because the historical verdict is uncertain. If historians had discovered definitive proof that he lived, the story would simply be biography. If they had found conclusive evidence that the legend was invented by a known author, it would be easier to dismiss. Instead, Tell occupies a fascinating middle ground where folklore, memory and history overlap.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.historyextra.com/period/medieval/william-tell-real-person-apple-true-story/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: historyextra.com">[History Extra]</a><span class="citation-popover" role="note"><span class="citation-popover-source">historyextra.com</span><span class="citation-popover-snippet">History ExtraWilliam Tell: was the legendary Swiss hero a real person?17 Jan 2025 — Despite a reputation enjoyed in Switzerland for centu...</span></span></span>
 

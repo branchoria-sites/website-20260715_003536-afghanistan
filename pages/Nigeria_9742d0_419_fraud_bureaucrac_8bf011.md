@@ -333,7 +333,7 @@ The transition to digital communication changed the scale rather than the core n
 
 <img src="{{ "/assets/images/Nigeria_9742d0_419_fraud_bureaucrac_8bf011-Illustration-3-dark.svg" | relative_url }}" alt="419 Fraud illustration 3" data-theme-src-dark="{{ "/assets/images/Nigeria_9742d0_419_fraud_bureaucrac_8bf011-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Nigeria_9742d0_419_fraud_bureaucrac_8bf011-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the Story Still Circulates
+## What 419 Fraud reveals about belief and deception
 
 The enduring image of the “Nigerian prince” email has obscured what made classic 419 fraud effective. The scam was never primarily about royalty, inheritances or hidden treasure. It was about credibility generated through imitation of institutions.
 

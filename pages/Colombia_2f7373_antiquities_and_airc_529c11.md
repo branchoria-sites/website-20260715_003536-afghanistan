@@ -338,7 +338,7 @@ These methods do not merely expose fakes. They also help prevent genuine objects
 
 <img src="{{ "/assets/images/Colombia_2f7373_antiquities_and_airc_529c11-Illustration-3-dark.svg" | relative_url }}" alt="Ancient Fakes illustration 3" data-theme-src-dark="{{ "/assets/images/Colombia_2f7373_antiquities_and_airc_529c11-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Colombia_2f7373_antiquities_and_airc_529c11-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the story still circulates
+## How Ancient Fakes entered public memory
 
 The appeal of the “Quimbaya aircraft” claim is different from the appeal of forged antiquities, but both flourish for similar reasons. They offer dramatic narratives that are easier to remember than careful archaeological explanations.
 

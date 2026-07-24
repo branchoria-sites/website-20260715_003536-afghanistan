@@ -312,7 +312,7 @@ In that sense, the 26-blacks episode contains two separate lessons. The first is
 
 <img src="{{ "/assets/images/Monaco_35ab1c_twenty_six_blacks_d4c0ad-Illustration-3-dark.svg" | relative_url }}" alt="26 Blacks illustration 3" data-theme-src-dark="{{ "/assets/images/Monaco_35ab1c_twenty_six_blacks_d4c0ad-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Monaco_35ab1c_twenty_six_blacks_d4c0ad-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the Story Still Matters
+## The wider consequences of 26 Blacks
 
 More than a century later, the Monte Carlo streak remains one of the most widely cited examples of mistaken reasoning under uncertainty. Whether encountered in psychology, economics, statistics or gambling literature, the anecdote survives because it captures a powerful human tendency to search for patterns and balance in events that are fundamentally random.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Gambler%27s_fallacy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Gambler&#x27;s fallacy</span><span class="citation-popover-snippet">Gambler&#x27;s fallacy</span></span></span>
 

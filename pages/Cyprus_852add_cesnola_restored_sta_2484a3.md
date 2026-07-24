@@ -318,7 +318,7 @@ The legacy of the controversy extends far beyond Cyprus. It helped establish a p
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/lRIpcxXAd_c" title="The Religious Record — Dead Sea Scroll Forgeries: What the Fakes Revealed About the Real Ones" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=lRIpcxXAd_c" target="_blank" rel="noopener noreferrer">The Religious Record — Dead Sea Scroll Forgeries: What the Fakes Revealed About the Real Ones</a></p><p class="youtube-embed-meta">Channel: PotiguaresBR</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=lRIpcxXAd_c" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=lRIpcxXAd_c">Open on YouTube</a></p></div></div></div>
 
-## Why the Story Still Matters
+## Why claims about Cesnola Statues remained persuasive
 
 The enduring fascination of the Cesnola statues comes from the fact that they challenge a common assumption about historical fraud. People often imagine authenticity as a simple choice between genuine and fake. The Cypriot sculptures show a more complicated reality.
 

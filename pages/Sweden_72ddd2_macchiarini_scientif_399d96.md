@@ -341,7 +341,7 @@ Karolinska Institutet subsequently introduced a range of reforms aimed at streng
 
 <img src="{{ "/assets/images/Sweden_72ddd2_macchiarini_scientif_399d96-Illustration-3-dark.svg" | relative_url }}" alt="Macchiarini illustration 3" data-theme-src-dark="{{ "/assets/images/Sweden_72ddd2_macchiarini_scientif_399d96-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Sweden_72ddd2_macchiarini_scientif_399d96-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the Case Still Matters
+## The wider consequences of Macchiarini
 
 Unlike many famous hoaxes, the Macchiarini affair was not driven by folklore, forged artefacts or fabricated photographs. It emerged from one of the most respected environments in modern science. That is precisely why it remains so important.
 

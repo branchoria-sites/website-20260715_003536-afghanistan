@@ -303,7 +303,7 @@ As scrutiny increased, the discussion shifted away from dramatic demonstrations 
 
 <img src="{{ "/assets/images/Pakistan_82d220_pakistan_water_car_e45c31-Illustration-3-dark.svg" | relative_url }}" alt="Water Car illustration 3" data-theme-src-dark="{{ "/assets/images/Pakistan_82d220_pakistan_water_car_e45c31-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Pakistan_82d220_pakistan_water_car_e45c31-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the story still circulates
+## How Water Car entered public memory
 
 The water car remains memorable because it combined several powerful themes: scientific ambition, national pride, economic hardship and the dream of unlimited clean energy. Similar claims have appeared repeatedly around the world for decades, often involving secret methods of producing hydrogen or extracting energy from water. None has survived rigorous testing.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Water-fuelled_car" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Water-fuelled car</span><span class="citation-popover-snippet">Water-fuelled car</span></span></span>
 

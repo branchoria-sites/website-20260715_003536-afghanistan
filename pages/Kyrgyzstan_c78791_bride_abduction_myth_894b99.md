@@ -310,7 +310,7 @@ Several highly publicised tragedies have intensified scrutiny of these attitudes
 
 <img src="{{ "/assets/images/Kyrgyzstan_c78791_bride_abduction_myth_894b99-Illustration-3-dark.svg" | relative_url }}" alt="Bride Abduction illustration 3" data-theme-src-dark="{{ "/assets/images/Kyrgyzstan_c78791_bride_abduction_myth_894b99-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kyrgyzstan_c78791_bride_abduction_myth_894b99-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the Story Still Circulates
+## The wider consequences of Bride Abduction
 
 The myth survives because it serves multiple social functions. For abductors, it offers a moral justification. For families, it can provide a way to avoid public conflict. For communities, it presents a difficult social issue as a familiar custom rather than a criminal act. And for some nationalists, it can appear to defend cultural authenticity against outside criticism.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ideas.repec.org/a/taf/ccasxx/v26y2007i2p217-233.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ideas.repec.org">[IDEAS/RePEc]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ideas.repec.org</span><span class="citation-popover-snippet">IDEAS/RePEcand: non-consensual bride kidnapping and tradition in...February 2, 2007 — by R Kleinbach · 2007 · Cited by 108 — The eviden...</span><span class="citation-popover-meta">Published: February 2, 2007</span></span></span>
 

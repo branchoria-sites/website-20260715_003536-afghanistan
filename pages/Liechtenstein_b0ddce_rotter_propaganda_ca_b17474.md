@@ -328,7 +328,7 @@ Historians of Liechtenstein’s Nazi era have therefore treated the episode as m
 
 The case also demonstrates an important distinction in the study of deception. The central falsehood was not a forged document or fabricated object. It was the conversion of unproven claims into accepted public “knowledge”. Once enough people accepted the narrative that the Rotters were guilty, extraordinary actions could be presented as reasonable responses.
 
-## Why the Story Still Matters
+## What Rotter Case reveals about belief and deception
 
 The Rotter kidnapping remains one of the most disturbing episodes in modern Liechtenstein history because it shows how propaganda can bridge the gap between accusation and violence. Later commemorations, historical research and memorial projects have increasingly emphasised that Alfred and Gertrud Rotter were victims of Nazi persecution and of a campaign that portrayed them as criminals before guilt had been established. [Wikipedia](https://de.wikipedia.org/wiki/Liste_der_Stolpersteine_in_Vaduz)
 

@@ -1268,7 +1268,7 @@ One notable feature of modern misinformation is that many viral claims are not e
 
 <img src="{{ "/assets/images/Sweden_72ddd2-Illustration-3-dark.svg" | relative_url }}" alt="When Sweden Mistook Stories for Solid... illustration 3" data-theme-src-dark="{{ "/assets/images/Sweden_72ddd2-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Sweden_72ddd2-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why these stories still matter
+## What Sweden's hoax history reveals about belief and deception
 
 The most revealing Swedish hoaxes and false claims are rarely the most theatrical. Instead, they show how deception often emerges where trust is strongest.
 

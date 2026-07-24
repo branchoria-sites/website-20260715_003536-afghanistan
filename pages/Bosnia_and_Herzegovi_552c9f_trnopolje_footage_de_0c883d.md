@@ -306,7 +306,7 @@ For historians of Bosnia and Herzegovina, the significance of the affair lies no
 
 <img src="{{ "/assets/images/Bosnia_and_Herzegovi_552c9f_trnopolje_footage_de_0c883d-Illustration-3-dark.svg" | relative_url }}" alt="Camp Footage illustration 3" data-theme-src-dark="{{ "/assets/images/Bosnia_and_Herzegovi_552c9f_trnopolje_footage_de_0c883d-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Bosnia_and_Herzegovi_552c9f_trnopolje_footage_de_0c883d-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the Story Still Matters
+## What Camp Footage reveals about belief and deception
 
 More than three decades after the footage was filmed, the Trnopolje images remain among the most recognisable visual records of the Bosnian War. They continue to appear in discussions of war reporting, historical memory and genocide denial. The controversy surrounding them has become almost as instructive as the footage itself.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://time.com/5034826/fikret-alic-time-cover-bosnia/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-snippet">Alic was on the cover of TIME magazine in 1992, depicted as an emaciated prisoner in the Trnopolje camp, a Serb-controlled camp. Recently...</span></span></span>
 

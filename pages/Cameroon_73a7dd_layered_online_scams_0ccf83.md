@@ -326,7 +326,7 @@ The technique mirrors older confidence tricks. Traditional advance-fee schemes o
 
 <img src="{{ "/assets/images/Cameroon_73a7dd_layered_online_scams_0ccf83-Illustration-3-dark.svg" | relative_url }}" alt="Online Scams illustration 3" data-theme-src-dark="{{ "/assets/images/Cameroon_73a7dd_layered_online_scams_0ccf83-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Cameroon_73a7dd_layered_online_scams_0ccf83-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the Story Still Matters
+## How Online Scams entered public memory
 
 The significance of these Cameroon-linked scams lies less in any individual fake identity than in the way multiple identities interact. The fraud becomes persuasive because every invented character appears to support the others. Victims are not convinced by one lie but by an entire ecosystem of lies.
 

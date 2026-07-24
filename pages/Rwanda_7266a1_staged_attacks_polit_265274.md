@@ -305,7 +305,7 @@ In Rwanda, staged or manipulated attacks helped establish a framework in which c
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/473lBlq71B4" title="The Japanese Invasion of Manchuria of 1931 | Operation Jinzhou" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=473lBlq71B4" target="_blank" rel="noopener noreferrer">The Japanese Invasion of Manchuria of 1931 | Operation Jinzhou</a></p><p class="youtube-embed-meta">Channel: The Pacific War Channel</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=473lBlq71B4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=473lBlq71B4">Open on YouTube</a></p></div></div></div>
 
-## Why These Cases Still Matter
+## The wider consequences of Staged Attacks
 
 The Kigali and Bigogwe incidents remain important because they show how political violence can be normalised through manufactured evidence. Unlike later propaganda broadcasts or inflammatory speeches, these episodes relied on physical events that appeared to provide proof of official claims. The deception therefore carried unusual persuasive power.
 

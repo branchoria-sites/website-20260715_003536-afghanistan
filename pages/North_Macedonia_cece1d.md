@@ -1302,7 +1302,7 @@ Such stories survive because ambiguity is useful. A clear photograph might revea
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/0F7BT-mZFTw" title="Inside the Fake News Factory of Macedonia" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=0F7BT-mZFTw" target="_blank" rel="noopener noreferrer">Inside the Fake News Factory of Macedonia</a></p><p class="youtube-embed-meta">Channel: WIRED</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=0F7BT-mZFTw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=0F7BT-mZFTw">Open on YouTube</a></p></div></div></div>
 
-## Why these cases still matter
+## The wider consequences of North Macedonia's hoax history
 
 North Macedonia’s documented deceptions reveal several different ways that doubtful information acquires credibility.
 

@@ -302,7 +302,7 @@ Under growing pressure, King resigned in 1930. Ironically, the fraudulent electi
 
 <img src="{{ "/assets/images/Liberia_1ed5dd_liberia_1927_electio_7daf04-Illustration-3-dark.svg" | relative_url }}" alt="1927 Election illustration 3" data-theme-src-dark="{{ "/assets/images/Liberia_1ed5dd_liberia_1927_electio_7daf04-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Liberia_1ed5dd_liberia_1927_electio_7daf04-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the Story Still Circulates
+## What 1927 Election reveals about belief and deception
 
 Many political scandals fade from memory because the details are complex. The 1927 Liberian election survives because its central fact is easy to grasp. People remember the story as the election in which there were more votes than voters.
 

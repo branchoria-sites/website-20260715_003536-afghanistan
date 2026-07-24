@@ -319,7 +319,7 @@ In 2022, a special court convicted Sambi and several others in connection with t
 
 <img src="{{ "/assets/images/Comoros_e5bb59_passport_scheme_scan_864110-Illustration-3-dark.svg" | relative_url }}" alt="Passport Scandal illustration 3" data-theme-src-dark="{{ "/assets/images/Comoros_e5bb59_passport_scheme_scan_864110-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Comoros_e5bb59_passport_scheme_scan_864110-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the Story Still Circulates
+## The wider consequences of Passport Scandal
 
 The passport scandal remains one of the most discussed modern controversies in Comoros because it sits at the intersection of legality and legitimacy. The documents involved were often genuine. The programme itself was legal when created. Yet investigators alleged that the machinery surrounding it enabled a parallel market that benefited intermediaries and politically connected actors more than the state.
 

@@ -350,7 +350,7 @@ Researchers examining biological-weapons disinformation have noted that allegati
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/3NNXh_T_UpM" title="Does the US Have A Secret Germ Warfare Lab on Russia’s Doorstep?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=3NNXh_T_UpM" target="_blank" rel="noopener noreferrer">Does the US Have A Secret Germ Warfare Lab on Russia’s Doorstep?</a></p><p class="youtube-embed-meta">Channel: Coda Story</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=3NNXh_T_UpM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=3NNXh_T_UpM">Open on YouTube</a></p></div></div></div>
 
-## Why the story still circulates
+## How Lugar Claims entered public memory
 
 The persistence of the Lugar laboratory allegations illustrates an important feature of modern disinformation: exposure does not necessarily eliminate a narrative. A claim may continue circulating because it satisfies political objectives, reinforces existing suspicions or provides a simple explanation for complex events.
 

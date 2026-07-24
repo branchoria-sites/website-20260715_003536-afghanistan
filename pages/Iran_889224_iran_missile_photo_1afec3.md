@@ -306,7 +306,7 @@ The incident also highlighted the growing role of distributed fact-checking. The
 
 <img src="{{ "/assets/images/Iran_889224_iran_missile_photo_1afec3-Illustration-3-dark.svg" | relative_url }}" alt="Missile Photo illustration 3" data-theme-src-dark="{{ "/assets/images/Iran_889224_iran_missile_photo_1afec3-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Iran_889224_iran_missile_photo_1afec3-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the story still matters
+## Why claims about Missile Photo remained persuasive
 
 The 2008 missile photograph remains one of the best-known examples of official image manipulation in the digital era. It is frequently cited alongside other cases of altered news photography because it demonstrates how visual evidence can be modified, disseminated and challenged within a matter of hours.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/List_of_photograph_manipulation_incidents" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">List of photograph manipulation incidents</span><span class="citation-popover-snippet">List of photograph manipulation incidents</span></span></span>
 

@@ -327,7 +327,7 @@ The episode illustrates a common mechanism in pseudoscientific argumentation: is
 
 <img src="{{ "/assets/images/Cambodia_314ccd_ta_prohm_dinosaur_375e68-Illustration-3-dark.svg" | relative_url }}" alt="Dinosaur Claim illustration 3" data-theme-src-dark="{{ "/assets/images/Cambodia_314ccd_ta_prohm_dinosaur_375e68-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Cambodia_314ccd_ta_prohm_dinosaur_375e68-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the Story Still Circulates
+## Why claims about Dinosaur Claim remained persuasive
 
 The Ta Prohm carving survives as a popular mystery because it sits at the intersection of archaeology, dinosaurs and ancient monuments—subjects that already attract public fascination. It also offers a simple, memorable image that can be shared without lengthy explanation. A photograph appears to provide immediate proof, whereas the sceptical explanation requires attention to artistic conventions, context and anatomy.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Dinosaur_of_Ta_Prohm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Dinosaur of Ta Prohm</span><span class="citation-popover-snippet">Dinosaur of Ta Prohm</span></span></span>
 

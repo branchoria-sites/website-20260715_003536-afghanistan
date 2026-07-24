@@ -304,7 +304,7 @@ For historians, the Bugesera case became an early warning sign. It showed that m
 
 <img src="{{ "/assets/images/Rwanda_7266a1_bugesera_false_radio_de23b8-Illustration-3-dark.svg" | relative_url }}" alt="Bugesera Broadcast illustration 3" data-theme-src-dark="{{ "/assets/images/Rwanda_7266a1_bugesera_false_radio_de23b8-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Rwanda_7266a1_bugesera_false_radio_de23b8-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the Story Still Matters
+## Why claims about Bugesera Broadcast remained persuasive
 
 The false Bugesera broadcast remains one of Rwanda’s most revealing examples of media-driven deception because the falsehood was relatively simple. There was no elaborate forgery, complex conspiracy or sophisticated propaganda campaign. Instead, a fabricated warning was attached to a trusted source and repeated through a trusted medium.
 

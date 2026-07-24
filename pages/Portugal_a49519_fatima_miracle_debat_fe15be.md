@@ -336,7 +336,7 @@ The result is a rare historical case in which both extreme conclusions face diff
 
 <img src="{{ "/assets/images/Portugal_a49519_fatima_miracle_debat_fe15be-Illustration-3-dark.svg" | relative_url }}" alt="Fatima Debate illustration 3" data-theme-src-dark="{{ "/assets/images/Portugal_a49519_fatima_miracle_debat_fe15be-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Portugal_a49519_fatima_miracle_debat_fe15be-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the Story Still Matters
+## The wider consequences of Fatima Debate
 
 The Fátima debate endures because it touches a larger question that appears throughout Portugal’s history of contested truth: how should extraordinary testimony be evaluated when many people sincerely report the same thing?
 

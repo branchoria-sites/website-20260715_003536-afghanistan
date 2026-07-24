@@ -318,7 +318,7 @@ The discovery of mass graves and the recovery of victims’ remains gave the epi
 
 <img src="{{ "/assets/images/Albania_79b9d2_1951_false_conspirac_1046d3-Illustration-3-dark.svg" | relative_url }}" alt="1951 Executions illustration 3" data-theme-src-dark="{{ "/assets/images/Albania_79b9d2_1951_false_conspirac_1046d3-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Albania_79b9d2_1951_false_conspirac_1046d3-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the Case Still Matters
+## Why claims about 1951 Executions remained persuasive
 
 The 1951 embassy bombing occupies a distinctive place in Albania’s history of deception because the hoax was not the explosion itself. The deception was the state-created conspiracy that followed. A real event provided the raw material for a false narrative that justified arrests, executions and intimidation.
 

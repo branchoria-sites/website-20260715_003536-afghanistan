@@ -325,7 +325,7 @@ That gap between claim and headline is the real lesson of the episode.
 
 <img src="{{ "/assets/images/Zimbabwe_5922f5_mermaid_reports_medi_b0d27c-Illustration-3-dark.svg" | relative_url }}" alt="Mermaid Reports illustration 3" data-theme-src-dark="{{ "/assets/images/Zimbabwe_5922f5_mermaid_reports_medi_b0d27c-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Zimbabwe_5922f5_mermaid_reports_medi_b0d27c-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the Story Still Circulates
+## The wider consequences of Mermaid Reports
 
 More than a decade later, the reservoir mermaid story continues to appear in lists of bizarre news events, paranormal compilations and social media discussions. Its survival has less to do with evidence than with narrative power. It combines several ingredients that help stories spread:
 

@@ -333,7 +333,7 @@ The case highlights several practical checks that can be used whenever academic 
 
 In this sense, the Dominion controversy became an unusually visible lesson in educational governance. The appearance of academic authority proved easier to create than genuine academic recognition.
 
-## Why the Story Still Matters
+## What Fake Degrees reveals about belief and deception
 
 The Dominion Christian University episode remains important because it exposed a weakness that extends far beyond a single institution. Modern degree disputes rarely depend on crude forgeries. More often they involve organisations that adopt the language, ceremonies and symbols of higher education while operating outside recognised quality-control systems.
 

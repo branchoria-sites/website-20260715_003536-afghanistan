@@ -344,7 +344,7 @@ The episode illustrates a broader lesson about impostures in politics. False ide
 
 <img src="{{ "/assets/images/Morocco_32e087_bou_hmara_imposture_2a8cfb-Illustration-3-dark.svg" | relative_url }}" alt="Bou Hmara illustration 3" data-theme-src-dark="{{ "/assets/images/Morocco_32e087_bou_hmara_imposture_2a8cfb-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Morocco_32e087_bou_hmara_imposture_2a8cfb-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the Story Still Matters
+## Why claims about Bou Hmara remained persuasive
 
 More than a century later, Bou Hmara remains one of Morocco's most memorable pretenders. His rise demonstrates how legitimacy can be constructed from a mixture of symbolism, military success and political opportunity. It also shows the limits of imposture: once military victories faded and support networks fractured, the borrowed identity could no longer sustain the regime.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Bou_Hmara" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[wikipedia.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Bou Hmara</span><span class="citation-popover-snippet">Bou Hmara</span></span></span>
 

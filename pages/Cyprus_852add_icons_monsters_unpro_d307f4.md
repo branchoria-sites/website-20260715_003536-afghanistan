@@ -338,7 +338,7 @@ To date, none of these standards has been met. The legend survives largely throu
 
 <img src="{{ "/assets/images/Cyprus_852add_icons_monsters_unpro_d307f4-Illustration-3-dark.svg" | relative_url }}" alt="Miracles and Monsters illustration 3" data-theme-src-dark="{{ "/assets/images/Cyprus_852add_icons_monsters_unpro_d307f4-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Cyprus_852add_icons_monsters_unpro_d307f4-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why These Stories Still Matter
+## The wider consequences of Miracles and Monsters
 
 The enduring appeal of Cyprus's weeping icons and sea-monster tales lies in what they reveal about uncertainty. They show how communities respond when evidence is incomplete and how narratives can flourish in the gap between observation and explanation.
 

@@ -302,7 +302,7 @@ Not every historian agrees on every detail. Some researchers have suggested that
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/CIt6uJdrqRQ" title="Cryptid Profile - De Loys&#x27; Ape" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=CIt6uJdrqRQ" target="_blank" rel="noopener noreferrer">Cryptid Profile - De Loys&#x27; Ape</a></p><p class="youtube-embed-meta">Channel: TREY the Explainer</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=CIt6uJdrqRQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=CIt6uJdrqRQ">Open on YouTube</a></p></div></div></div>
 
-## Why the story still circulates
+## How De Loys's entered public memory
 
 De Loys's ape survives in popular culture because it combines several elements that make mysteries hard to forget.
 

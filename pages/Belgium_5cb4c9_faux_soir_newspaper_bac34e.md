@@ -320,7 +320,7 @@ For that reason, historians often treat the operation less as an example of frau
 
 <img src="{{ "/assets/images/Belgium_5cb4c9_faux_soir_newspaper_bac34e-Illustration-3-dark.svg" | relative_url }}" alt="Faux Soir illustration 3" data-theme-src-dark="{{ "/assets/images/Belgium_5cb4c9_faux_soir_newspaper_bac34e-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Belgium_5cb4c9_faux_soir_newspaper_bac34e-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the story still matters
+## Why claims about Faux Soir remained persuasive
 
 The *Faux Soir* remains one of Belgium’s most famous wartime deceptions because it reverses the usual logic of fake news. Instead of using a counterfeit publication to conceal reality, resistance activists used one to reveal it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://focusonbelgium.be/en/facts/belgian-resistance-accomplished-most-daring-coup-underground-press" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: focusonbelgium.be">[Focus on Belgium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">focusonbelgium.be</span><span class="citation-popover-title">belgian resistance accomplished most daring coup underground press</span><span class="citation-popover-snippet">Focus on Belgiumthe Belgian Resistance accomplished the most daring...22 Dec 2021 — &quot;Le Faux Soir&quot;, which ridiculed Nazis and Rexists 75...</span></span></span>
 

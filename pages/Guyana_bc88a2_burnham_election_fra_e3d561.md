@@ -334,7 +334,7 @@ The reforms that preceded the 1992 election were designed in large part to addre
 
 The persistence of the issue demonstrates how difficult it is to restore trust once electoral records themselves become suspect. Even after reforms, memories of the Burnham-era elections continued to shape political debates in Guyana.
 
-## Why the Story Still Matters
+## The wider consequences of Rigged Elections
 
 The tale of fabricated voters in Burnham-era Guyana survives because it illustrates a broader lesson about political deception. The controversy was not centred on a secret conspiracy hidden from public view. Instead, it revolved around official documents, government procedures and electoral statistics that looked legitimate.
 

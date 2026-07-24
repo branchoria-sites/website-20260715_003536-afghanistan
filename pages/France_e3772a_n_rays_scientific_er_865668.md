@@ -331,7 +331,7 @@ The story also serves as a reminder that scientific error often emerges from the
 
 <img src="{{ "/assets/images/France_e3772a_n_rays_scientific_er_865668-Illustration-3-dark.svg" | relative_url }}" alt="N Rays illustration 3" data-theme-src-dark="{{ "/assets/images/France_e3772a_n_rays_scientific_er_865668-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/France_e3772a_n_rays_scientific_er_865668-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the Story Still Matters
+## What N Rays reveals about belief and deception
 
 More than a century later, N-rays remain a famous French episode in the history of mistaken discoveries because they reveal a universal human tendency rather than a uniquely French one. Researchers in several countries initially accepted the claims, and many of the scientists involved were respected professionals.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/N-ray" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
 

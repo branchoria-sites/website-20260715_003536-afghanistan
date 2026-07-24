@@ -324,7 +324,7 @@ Fact-checking initiatives in the region increasingly specialised in these techni
 
 The pattern illustrates a broader lesson about modern wartime deception. Most successful propaganda does not require completely invented events. It often works by attaching a misleading narrative to genuine photographs, authentic videos or real military incidents, making the deception much harder to recognise at first glance.
 
-## Why the Stories Still Matter
+## The wider consequences of War Propaganda
 
 The fake victories associated with Yemen’s war are significant not because every military claim was false, but because they demonstrate how modern conflicts blur the line between battlefield events and information warfare.
 

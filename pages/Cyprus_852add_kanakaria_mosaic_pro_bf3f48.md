@@ -310,7 +310,7 @@ Legal scholars frequently identify the Kanakaria litigation as a turning point b
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/rP-Ww1ZsRr8" title="Looted Byzantine mosaic goes on display at Cyprus museum" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=rP-Ww1ZsRr8" target="_blank" rel="noopener noreferrer">Looted Byzantine mosaic goes on display at Cyprus museum</a></p><p class="youtube-embed-meta">Channel: AFP News Agency</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=rP-Ww1ZsRr8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=rP-Ww1ZsRr8">Open on YouTube</a></p></div></div></div>
 
-## Why the Case Still Matters
+## How Kanakaria Mosaics entered public memory
 
 The Kanakaria mosaics case continues to appear in discussions of cultural-property law because it exposed a central weakness in the antiquities market: the ease with which undocumented objects can acquire a seemingly respectable past.
 
