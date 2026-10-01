@@ -234,6 +234,7 @@ next_link:
   short_title: Moana
   heading_title: How Much of Moana Was Really Documentary?
 date: '2026-07-15 00:07:43 '
+last_modified_at: '2026-07-15 00:07:43 '
 header:
   og_image: /assets/images/Samoa_f56806_mead_samoa_hoax_deba_8845e7-Illustration-1-social.jpg
   preview_image: /assets/images/Samoa_f56806_mead_samoa_hoax_deba_8845e7-Illustration-1.webp

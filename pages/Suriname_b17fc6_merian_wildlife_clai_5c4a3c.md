@@ -240,6 +240,7 @@ next_link:
   short_title: Oroonoko
   heading_title: Was Oroonoko History, Fiction or Something Between?
 date: '2026-07-15 00:09:09 '
+last_modified_at: '2026-07-15 00:09:09 '
 header:
   og_image: /assets/images/Suriname_b17fc6_merian_wildlife_clai_5c4a3c-Illustration-1-social.jpg
   preview_image: /assets/images/Suriname_b17fc6_merian_wildlife_clai_5c4a3c-Illustration-1.webp

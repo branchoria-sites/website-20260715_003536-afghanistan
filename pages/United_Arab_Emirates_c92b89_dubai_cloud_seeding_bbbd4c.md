@@ -240,6 +240,7 @@ next_link:
   short_title: Qatar Hack
   heading_title: How a Fake Statement Became Politically Real
 date: '2026-07-15 00:10:25 '
+last_modified_at: '2026-07-15 00:10:25 '
 header:
   og_image: /assets/images/United_Arab_Emirates_c92b89_dubai_cloud_seeding_bbbd4c-Illustration-1-social.jpg
   preview_image: /assets/images/United_Arab_Emirates_c92b89_dubai_cloud_seeding_bbbd4c-Illustration-1.webp

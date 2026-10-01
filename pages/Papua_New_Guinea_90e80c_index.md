@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /papua-new-guinea-90e80c-index/
 description: Focused pages that expand on Which Papua New Guinea Stories Were Really....
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Papua_New_Guinea_90e80c
 parent_title: Which Papua New Guinea Stories Were Really...

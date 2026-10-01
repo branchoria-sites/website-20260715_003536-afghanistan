@@ -234,6 +234,7 @@ prev_link:
   short_title: Protocols Forgery
   heading_title: How a Crude Forgery Became a Global Myth
 date: '2026-07-15 00:07:27 '
+last_modified_at: '2026-07-15 00:07:27 '
 header:
   og_image: /assets/images/Russia_6754fe_royal_impostors_miss_dc0b5a-Illustration-1-social.jpg
   preview_image: /assets/images/Russia_6754fe_royal_impostors_miss_dc0b5a-Illustration-1.webp

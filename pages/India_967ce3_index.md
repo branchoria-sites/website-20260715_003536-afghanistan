@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /india-967ce3-index/
 description: Focused pages that expand on How India's Most Famous Hoaxes Took Hold.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: India_967ce3
 parent_title: How India's Most Famous Hoaxes Took Hold

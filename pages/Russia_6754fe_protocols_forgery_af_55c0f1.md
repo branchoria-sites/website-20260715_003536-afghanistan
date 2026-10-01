@@ -240,6 +240,7 @@ next_link:
   short_title: Royal Impostors
   heading_title: Why Russia Kept Believing in Lost Heirs
 date: '2026-07-15 00:07:25 '
+last_modified_at: '2026-07-15 00:07:25 '
 header:
   og_image: /assets/images/Russia_6754fe_protocols_forgery_af_55c0f1-Illustration-1-social.jpg
   preview_image: /assets/images/Russia_6754fe_protocols_forgery_af_55c0f1-Illustration-1.webp

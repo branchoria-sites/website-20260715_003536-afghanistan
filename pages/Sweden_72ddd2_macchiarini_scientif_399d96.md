@@ -240,6 +240,7 @@ next_link:
   short_title: Monsters & Mediums
   heading_title: Why Did Strange Images Feel Like Proof?
 date: '2026-07-15 00:09:13 '
+last_modified_at: '2026-07-15 00:09:13 '
 header:
   og_image: /assets/images/Sweden_72ddd2_macchiarini_scientif_399d96-Illustration-1-social.jpg
   preview_image: /assets/images/Sweden_72ddd2_macchiarini_scientif_399d96-Illustration-1.webp

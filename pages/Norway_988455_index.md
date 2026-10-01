@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /norway-988455-index/
 description: Focused pages that expand on How Norway's Most Famous Hoaxes Fooled the....
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Norway_988455
 parent_title: How Norway's Most Famous Hoaxes Fooled the...

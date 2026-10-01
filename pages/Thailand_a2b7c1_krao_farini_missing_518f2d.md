@@ -240,6 +240,7 @@ next_link:
   short_title: Naga Fireballs
   heading_title: Are the Mekong's Naga Fireballs Man Made?
 date: '2026-07-15 00:09:31 '
+last_modified_at: '2026-07-15 00:09:31 '
 header:
   og_image: /assets/images/Thailand_a2b7c1_krao_farini_missing_518f2d-Illustration-1-social.jpg
   preview_image: /assets/images/Thailand_a2b7c1_krao_farini_missing_518f2d-Illustration-1.webp

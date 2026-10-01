@@ -240,6 +240,7 @@ next_link:
   short_title: Toe Hoax
   heading_title: How Did the Toe Selling Hoax Go Viral?
 date: '2026-07-15 00:11:11 '
+last_modified_at: '2026-07-15 00:11:11 '
 header:
   og_image: /assets/images/Zimbabwe_5922f5_mermaid_reports_medi_b0d27c-Illustration-1-social.jpg
   preview_image: /assets/images/Zimbabwe_5922f5_mermaid_reports_medi_b0d27c-Illustration-1.webp

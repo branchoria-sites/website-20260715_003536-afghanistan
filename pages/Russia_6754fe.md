@@ -1180,6 +1180,7 @@ next_link:
   permalink: /how-singapores-strangest-stories-became/
   short_title: Singapore Hoaxes
 date: '2026-07-15 00:07:24 '
+last_modified_at: '2026-07-15 00:07:24 '
 header:
   og_image: /assets/images/Russia_6754fe-overview-social.jpg
   preview_image: /assets/images/Russia_6754fe-overview.webp

@@ -8,6 +8,7 @@ permalink: /croatia-d7e045-index/
 description: Focused pages that expand on How Croatia's Most Famous Hoaxes Fooled
   the....
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Croatia_d7e045
 parent_title: How Croatia's Most Famous Hoaxes Fooled the...

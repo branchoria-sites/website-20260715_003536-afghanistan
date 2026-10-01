@@ -240,6 +240,7 @@ next_link:
   short_title: Militant Media
   heading_title: How Al Shabaab Tried to Control the Story
 date: '2026-07-15 00:08:39 '
+last_modified_at: '2026-07-15 00:08:39 '
 header:
   og_image: /assets/images/Somalia_4dfdf1_famine_donation_frau_f03743-Illustration-1-social.jpg
   preview_image: /assets/images/Somalia_4dfdf1_famine_donation_frau_f03743-Illustration-1.webp

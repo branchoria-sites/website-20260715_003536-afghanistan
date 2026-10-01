@@ -234,6 +234,7 @@ next_link:
   short_title: Tailwind Story
   heading_title: Why Did the Nerve Gas Story Collapse?
 date: '2026-07-15 00:10:57 '
+last_modified_at: '2026-07-15 00:10:57 '
 header:
   og_image: /assets/images/Vietnam_681101_vietnamese_art_fakes_d260ba-Illustration-1-social.jpg
   preview_image: /assets/images/Vietnam_681101_vietnamese_art_fakes_d260ba-Illustration-1.webp

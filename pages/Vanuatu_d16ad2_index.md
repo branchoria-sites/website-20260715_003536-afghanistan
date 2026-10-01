@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /vanuatu-d16ad2-index/
 description: Focused pages that expand on Which Vanuatu Stories Were Distorted or....
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Vanuatu_d16ad2
 parent_title: Which Vanuatu Stories Were Distorted or...

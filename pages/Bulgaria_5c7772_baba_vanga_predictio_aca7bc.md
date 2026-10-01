@@ -198,6 +198,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-07-12 01:44:27'
+last_modified_at: '2026-07-12 01:44:27'
 parent_title: Bulgaria Hoaxes
 parent_permalink: /bulgarias-most-persuasive-hoaxes-and/
 parent_nav_short_title: Bulgaria Hoaxes

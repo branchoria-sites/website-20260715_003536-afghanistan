@@ -234,6 +234,7 @@ next_link:
   short_title: Famine Scams
   heading_title: How Real Suffering Became a Fundraising Scam
 date: '2026-07-15 00:08:36 '
+last_modified_at: '2026-07-15 00:08:36 '
 header:
   og_image: /assets/images/Somalia_4dfdf1_recycled_war_photos_2d087e-Illustration-1-social.jpg
   preview_image: /assets/images/Somalia_4dfdf1_recycled_war_photos_2d087e-Illustration-1.webp

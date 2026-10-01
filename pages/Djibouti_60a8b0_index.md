@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /djibouti-60a8b0-index/
 description: Focused pages that expand on How Djibouti Became a Stage for Modern....
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Djibouti_60a8b0
 parent_title: How Djibouti Became a Stage for Modern...

@@ -234,6 +234,7 @@ next_link:
   short_title: Giant Skeleton
   heading_title: How a Photoshop Skeleton Became a Saudi Legend
 date: '2026-07-15 00:07:56 '
+last_modified_at: '2026-07-15 00:07:56 '
 header:
   og_image: /assets/images/Saudi_Arabia_8bf7f8_al_magar_horse_claim_f187b8-Illustration-1-social.jpg
   preview_image: /assets/images/Saudi_Arabia_8bf7f8_al_magar_horse_claim_f187b8-Illustration-1.webp

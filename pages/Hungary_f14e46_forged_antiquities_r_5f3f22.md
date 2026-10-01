@@ -198,6 +198,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-07-12 20:35:46'
+last_modified_at: '2026-07-12 20:35:46'
 parent_title: Hungarian Hoaxes
 parent_permalink: /when-uncertainty-became-useful-in/
 parent_nav_short_title: Hungarian Hoaxes

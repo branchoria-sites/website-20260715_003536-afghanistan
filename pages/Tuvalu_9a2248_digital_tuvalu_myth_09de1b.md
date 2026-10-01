@@ -240,6 +240,7 @@ next_link:
   short_title: Sinking Myth
   heading_title: Is Tuvalu Really Sinking Beneath the Sea?
 date: '2026-07-15 00:10:10 '
+last_modified_at: '2026-07-15 00:10:10 '
 header:
   og_image: /assets/images/Tuvalu_9a2248_digital_tuvalu_myth_09de1b-Illustration-1-social.jpg
   preview_image: /assets/images/Tuvalu_9a2248_digital_tuvalu_myth_09de1b-Illustration-1.webp

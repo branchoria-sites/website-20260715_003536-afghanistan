@@ -198,6 +198,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-07-13 17:09:12'
+last_modified_at: '2026-07-13 17:09:12'
 parent_title: Myanmar Hoaxes
 parent_permalink: /when-false-evidence-changed-myanmars/
 parent_nav_short_title: Myanmar Hoaxes

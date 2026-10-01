@@ -240,6 +240,7 @@ next_link:
   short_title: Security Scares
   heading_title: Why Moldova Became a Target for Security Scares
 date: '2026-07-15 00:07:18 '
+last_modified_at: '2026-07-15 00:07:18 '
 header:
   og_image: /assets/images/Moldova_9791bc_financial_fraud_scam_95ab0f-Illustration-1-social.jpg
   preview_image: /assets/images/Moldova_9791bc_financial_fraud_scam_95ab0f-Illustration-1.webp

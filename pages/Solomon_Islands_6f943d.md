@@ -1180,6 +1180,7 @@ next_link:
   permalink: /when-sudans-real-history-became-hard-to/
   short_title: Sudan Hoaxes
 date: '2026-07-15 00:08:31 '
+last_modified_at: '2026-07-15 00:08:31 '
 header:
   og_image: /assets/images/Solomon_Islands_6f943d-overview-social.jpg
   preview_image: /assets/images/Solomon_Islands_6f943d-overview.webp

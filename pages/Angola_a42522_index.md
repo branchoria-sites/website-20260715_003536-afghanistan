@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /angola-a42522-index/
 description: Focused pages that expand on How False Stories Took Hold in Angola.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Angola_a42522
 parent_title: How False Stories Took Hold in Angola

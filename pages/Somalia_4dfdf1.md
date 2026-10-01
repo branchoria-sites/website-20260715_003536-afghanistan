@@ -1180,6 +1180,7 @@ next_link:
   permalink: /how-south-koreas-famous-falsehoods-took/
   short_title: South Korea Hoaxes
 date: '2026-07-15 00:08:36 '
+last_modified_at: '2026-07-15 00:08:36 '
 header:
   og_image: /assets/images/Somalia_4dfdf1-overview-social.jpg
   preview_image: /assets/images/Somalia_4dfdf1-overview.webp

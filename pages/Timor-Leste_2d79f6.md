@@ -1180,6 +1180,7 @@ next_link:
   permalink: /how-false-stories-took-hold-in-angola/
   short_title: Angola Hoaxes
 date: '2026-07-15 00:09:33 '
+last_modified_at: '2026-07-15 00:09:33 '
 header:
   og_image: /assets/images/Timor-Leste_2d79f6-overview-social.jpg
   preview_image: /assets/images/Timor-Leste_2d79f6-overview.webp

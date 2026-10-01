@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /france-e3772a-index/
 description: Focused pages that expand on Why France's Most Famous Hoaxes Worked.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: France_e3772a
 parent_title: Why France's Most Famous Hoaxes Worked

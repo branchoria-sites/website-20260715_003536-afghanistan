@@ -234,6 +234,7 @@ prev_link:
   short_title: Tailwind Story
   heading_title: Why Did the Nerve Gas Story Collapse?
 date: '2026-07-15 00:10:55 '
+last_modified_at: '2026-07-15 00:10:55 '
 header:
   og_image: /assets/images/Vietnam_681101_gulf_of_tonkin_claim_7884aa-Illustration-1-social.jpg
   preview_image: /assets/images/Vietnam_681101_gulf_of_tonkin_claim_7884aa-Illustration-1.webp

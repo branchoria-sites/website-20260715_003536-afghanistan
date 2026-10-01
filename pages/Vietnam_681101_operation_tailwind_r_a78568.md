@@ -240,6 +240,7 @@ next_link:
   short_title: Tonkin Incident
   heading_title: How Did a Doubtful Attack Change a War?
 date: '2026-07-15 00:10:56 '
+last_modified_at: '2026-07-15 00:10:56 '
 header:
   og_image: /assets/images/Vietnam_681101_operation_tailwind_r_a78568-Illustration-1-social.jpg
   preview_image: /assets/images/Vietnam_681101_operation_tailwind_r_a78568-Illustration-1.webp

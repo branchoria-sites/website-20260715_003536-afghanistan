@@ -234,6 +234,7 @@ next_link:
   short_title: Balibo Declaration
   heading_title: How the Balibo Declaration Staged Popular Consent
 date: '2026-07-15 00:09:37 '
+last_modified_at: '2026-07-15 00:09:37 '
 header:
   og_image: /assets/images/Timor-Leste_2d79f6_referendum_fear_camp_9eae77-Illustration-1-social.jpg
   preview_image: /assets/images/Timor-Leste_2d79f6_referendum_fear_camp_9eae77-Illustration-1.webp

@@ -240,6 +240,7 @@ next_link:
   short_title: William Tell
   heading_title: Did William Tell Really Exist?
 date: '2026-07-15 00:09:19 '
+last_modified_at: '2026-07-15 00:09:19 '
 header:
   og_image: /assets/images/Switzerland_77dcd8_jetzer_staged_miracl_cbb7bc-Illustration-1-social.jpg
   preview_image: /assets/images/Switzerland_77dcd8_jetzer_staged_miracl_cbb7bc-Illustration-1.webp

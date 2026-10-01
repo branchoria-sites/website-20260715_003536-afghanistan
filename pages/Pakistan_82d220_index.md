@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /pakistan-82d220-index/
 description: Focused pages that expand on How Pakistan's Most Famous Hoaxes Took Hold.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Pakistan_82d220
 parent_title: How Pakistan's Most Famous Hoaxes Took Hold

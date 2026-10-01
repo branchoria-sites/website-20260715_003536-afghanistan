@@ -240,6 +240,7 @@ next_link:
   short_title: Viral Falsehoods
   heading_title: Why Real Images Made False Senegal Stories Believable
 date: '2026-07-15 00:08:01 '
+last_modified_at: '2026-07-15 00:08:01 '
 header:
   og_image: /assets/images/Senegal_d8973b_black_horror_propaga_2141d8-Illustration-1-social.jpg
   preview_image: /assets/images/Senegal_d8973b_black_horror_propaga_2141d8-Illustration-1.webp

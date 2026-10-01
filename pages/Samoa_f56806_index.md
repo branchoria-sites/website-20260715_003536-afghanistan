@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /samoa-f56806-index/
 description: Focused pages that expand on When Samoa Became a Stage for Contested....
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Samoa_f56806
 parent_title: When Samoa Became a Stage for Contested...

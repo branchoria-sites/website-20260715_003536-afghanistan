@@ -234,6 +234,7 @@ prev_link:
   short_title: Human Meat Rumour
   heading_title: How Fake Meat Photos Became Zambian News
 date: '2026-07-15 00:11:03 '
+last_modified_at: '2026-07-15 00:11:03 '
 header:
   og_image: /assets/images/Zambia_dcf25e_kongamato_claims_1af1e3-Illustration-1-social.jpg
   preview_image: /assets/images/Zambia_dcf25e_kongamato_claims_1af1e3-Illustration-1.webp

@@ -234,6 +234,7 @@ next_link:
   short_title: Museum Scandal
   heading_title: How Did a National Museum Back Suspected Fakes?
 date: '2026-07-15 00:08:27 '
+last_modified_at: '2026-07-15 00:08:27 '
 header:
   og_image: /assets/images/Slovenia_d1aa05_carantanian_black_pa_9e98f2-Illustration-1-social.jpg
   preview_image: /assets/images/Slovenia_d1aa05_carantanian_black_pa_9e98f2-Illustration-1.webp

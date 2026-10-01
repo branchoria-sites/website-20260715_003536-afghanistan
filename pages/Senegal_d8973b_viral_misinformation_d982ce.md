@@ -234,6 +234,7 @@ prev_link:
   short_title: Black Horror
   heading_title: How Propaganda Demonised Senegalese Soldiers in Europe
 date: '2026-07-15 00:08:01 '
+last_modified_at: '2026-07-15 00:08:01 '
 header:
   og_image: /assets/images/Senegal_d8973b_viral_misinformation_d982ce-Illustration-1-social.jpg
   preview_image: /assets/images/Senegal_d8973b_viral_misinformation_d982ce-Illustration-1.webp

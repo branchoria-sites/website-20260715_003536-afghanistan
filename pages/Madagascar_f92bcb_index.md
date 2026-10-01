@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /madagascar-f92bcb-index/
 description: Focused pages that expand on How Madagascar Became a Label for Impossible....
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Madagascar_f92bcb
 parent_title: How Madagascar Became a Label for Impossible...

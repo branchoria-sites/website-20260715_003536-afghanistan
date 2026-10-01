@@ -234,6 +234,7 @@ prev_link:
   short_title: Do So
   heading_title: How the Do So Campaign Hid Its Politics
 date: '2026-07-15 00:09:50 '
+last_modified_at: '2026-07-15 00:09:50 '
 header:
   og_image: /assets/images/Trinidad_and_Tobago_a73120_pitch_lake_legend_c462aa-Illustration-1-social.jpg
   preview_image: /assets/images/Trinidad_and_Tobago_a73120_pitch_lake_legend_c462aa-Illustration-1.webp

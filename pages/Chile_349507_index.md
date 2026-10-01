@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /chile-349507-index/
 description: Focused pages that expand on Chile's Most Famous Hoaxes and Debunked....
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Chile_349507
 parent_title: Chile's Most Famous Hoaxes and Debunked...

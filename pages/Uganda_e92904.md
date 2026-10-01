@@ -1180,6 +1180,7 @@ next_link:
   permalink: /ukraine/
   short_title: Ukraine Hoaxes
 date: '2026-07-15 00:10:12 '
+last_modified_at: '2026-07-15 00:10:12 '
 header:
   og_image: /assets/images/Uganda_e92904-overview-social.jpg
   preview_image: /assets/images/Uganda_e92904-overview.webp

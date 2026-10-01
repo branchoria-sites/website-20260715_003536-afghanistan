@@ -232,6 +232,7 @@ next_link:
   short_title: Lead Books
   heading_title: Why Granada's Forged Relics Seemed So Convincing
 date: '2026-07-15 00:08:51 '
+last_modified_at: '2026-07-15 00:08:51 '
 header:
   og_image: /assets/images/Spain_20a8df_iruna_veleia_forgeri_41deb0-Illustration-1-social.jpg
   preview_image: /assets/images/Spain_20a8df_iruna_veleia_forgeri_41deb0-Illustration-1.webp

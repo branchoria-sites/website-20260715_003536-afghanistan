@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /monaco-35ab1c-index/
 description: Focused pages that expand on Which Monaco Legends Survive a Closer Look?.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Monaco_35ab1c
 parent_title: Which Monaco Legends Survive a Closer Look?

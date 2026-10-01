@@ -234,6 +234,7 @@ next_link:
   short_title: Macchiarini
   heading_title: How Prestige Shielded a Medical Scandal
 date: '2026-07-15 00:09:11 '
+last_modified_at: '2026-07-15 00:09:11 '
 header:
   og_image: /assets/images/Sweden_72ddd2_ancient_claims_swedi_3fce2b-Illustration-1-social.jpg
   preview_image: /assets/images/Sweden_72ddd2_ancient_claims_swedi_3fce2b-Illustration-1.webp

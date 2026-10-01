@@ -234,6 +234,7 @@ next_link:
   short_title: War Propaganda
   heading_title: Why Fake Victories Spread During Yemen's War
 date: '2026-07-15 00:10:59 '
+last_modified_at: '2026-07-15 00:10:59 '
 header:
   og_image: /assets/images/Yemen_ac33d6_forged_south_arabian_f3f6e2-Illustration-1-social.jpg
   preview_image: /assets/images/Yemen_ac33d6_forged_south_arabian_f3f6e2-Illustration-1.webp

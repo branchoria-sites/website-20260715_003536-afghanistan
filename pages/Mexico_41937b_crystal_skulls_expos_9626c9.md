@@ -198,6 +198,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-07-13 13:30:06'
+last_modified_at: '2026-07-13 13:30:06'
 parent_title: Mexico Hoaxes
 parent_permalink: /mexicos-strangest-fakes-and-contested/
 parent_nav_short_title: Mexico Hoaxes

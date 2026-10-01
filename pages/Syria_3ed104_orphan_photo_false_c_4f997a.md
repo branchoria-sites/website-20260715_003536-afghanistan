@@ -240,6 +240,7 @@ next_link:
   short_title: Staged Rescues
   heading_title: Why Fake Rescue Videos Damaged Real Evidence
 date: '2026-07-15 00:09:23 '
+last_modified_at: '2026-07-15 00:09:23 '
 header:
   og_image: /assets/images/Syria_3ed104_orphan_photo_false_c_4f997a-Illustration-1-social.jpg
   preview_image: /assets/images/Syria_3ed104_orphan_photo_false_c_4f997a-Illustration-1.webp

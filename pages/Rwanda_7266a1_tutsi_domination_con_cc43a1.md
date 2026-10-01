@@ -240,6 +240,7 @@ next_link:
   short_title: Staged Attacks
   heading_title: When Fake Attacks Made Repression Look Defensive
 date: '2026-07-15 00:11:15 '
+last_modified_at: '2026-07-15 00:11:15 '
 header:
   og_image: /assets/images/Rwanda_7266a1_tutsi_domination_con_cc43a1-Illustration-1-social.jpg
   preview_image: /assets/images/Rwanda_7266a1_tutsi_domination_con_cc43a1-Illustration-1.webp

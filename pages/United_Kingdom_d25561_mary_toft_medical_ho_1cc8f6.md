@@ -240,6 +240,7 @@ next_link:
   short_title: Piltdown Man
   heading_title: Why Piltdown Man Fooled Scientists for Decades
 date: '2026-07-15 00:11:18 '
+last_modified_at: '2026-07-15 00:11:18 '
 header:
   og_image: /assets/images/United_Kingdom_d25561_mary_toft_medical_ho_1cc8f6-Illustration-1-social.jpg
   preview_image: /assets/images/United_Kingdom_d25561_mary_toft_medical_ho_1cc8f6-Illustration-1.webp

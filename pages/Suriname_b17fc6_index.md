@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /suriname-b17fc6-index/
 description: Focused pages that expand on When Suriname's Strangest Stories Met the....
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Suriname_b17fc6
 parent_title: When Suriname's Strangest Stories Met the...

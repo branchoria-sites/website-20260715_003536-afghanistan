@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /benin-373616-index/
 description: Focused pages that expand on How Deception Took Root in Benin.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Benin_373616
 parent_title: How Deception Took Root in Benin

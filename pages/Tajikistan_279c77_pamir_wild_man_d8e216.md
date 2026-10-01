@@ -234,6 +234,7 @@ prev_link:
   short_title: False Deaths
   heading_title: Why Were Tajik Militants Reported Dead Twice?
 date: '2026-07-15 00:09:28 '
+last_modified_at: '2026-07-15 00:09:28 '
 header:
   og_image: /assets/images/Tajikistan_279c77_pamir_wild_man_d8e216-Illustration-1-social.jpg
   preview_image: /assets/images/Tajikistan_279c77_pamir_wild_man_d8e216-Illustration-1.webp

@@ -234,6 +234,7 @@ prev_link:
   short_title: Last Charruas
   heading_title: Were They Really the Last Charruas?
 date: '2026-07-15 00:10:40 '
+last_modified_at: '2026-07-15 00:10:40 '
 header:
   og_image: /assets/images/Uruguay_66b989_astesiano_passport_f_937cf6-Illustration-1-social.jpg
   preview_image: /assets/images/Uruguay_66b989_astesiano_passport_f_937cf6-Illustration-1.webp

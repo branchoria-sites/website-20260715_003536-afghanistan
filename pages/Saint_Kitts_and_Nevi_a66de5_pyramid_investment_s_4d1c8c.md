@@ -240,6 +240,7 @@ next_link:
   short_title: Whats App Scams
   heading_title: When a Trusted Whats App Contact Is Fake
 date: '2026-07-15 00:07:31 '
+last_modified_at: '2026-07-15 00:07:31 '
 header:
   og_image: /assets/images/Saint_Kitts_and_Nevi_a66de5_pyramid_investment_s_4d1c8c-Illustration-1-social.jpg
   preview_image: /assets/images/Saint_Kitts_and_Nevi_a66de5_pyramid_investment_s_4d1c8c-Illustration-1.webp

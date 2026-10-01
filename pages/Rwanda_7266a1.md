@@ -1180,6 +1180,7 @@ next_link:
   permalink: /how-false-claims-gained-authority-in/
   short_title: Brunei Hoaxes
 date: '2026-07-15 00:11:11 '
+last_modified_at: '2026-07-15 00:11:11 '
 header:
   og_image: /assets/images/Rwanda_7266a1-overview-social.jpg
   preview_image: /assets/images/Rwanda_7266a1-overview.webp

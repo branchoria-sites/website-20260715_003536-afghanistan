@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /liechtenstein-b0ddce-index/
 description: Focused pages that expand on Which Liechtenstein Stories Were Really....
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Liechtenstein_b0ddce
 parent_title: Which Liechtenstein Stories Were Really...

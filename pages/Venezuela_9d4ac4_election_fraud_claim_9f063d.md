@@ -240,6 +240,7 @@ next_link:
   short_title: Llaguno Footage
   heading_title: What Did the Llaguno Bridge Footage Prove?
 date: '2026-07-15 00:10:52 '
+last_modified_at: '2026-07-15 00:10:52 '
 header:
   og_image: /assets/images/Venezuela_9d4ac4_election_fraud_claim_9f063d-Illustration-1-social.jpg
   preview_image: /assets/images/Venezuela_9d4ac4_election_fraud_claim_9f063d-Illustration-1.webp

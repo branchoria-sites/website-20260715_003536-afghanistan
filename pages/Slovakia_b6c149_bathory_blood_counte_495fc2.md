@@ -234,6 +234,7 @@ next_link:
   short_title: Moonshaft
   heading_title: Was the Moonshaft Ever Really There?
 date: '2026-07-15 00:08:22 '
+last_modified_at: '2026-07-15 00:08:22 '
 header:
   og_image: /assets/images/Slovakia_b6c149_bathory_blood_counte_495fc2-Illustration-1-social.jpg
   preview_image: /assets/images/Slovakia_b6c149_bathory_blood_counte_495fc2-Illustration-1.webp

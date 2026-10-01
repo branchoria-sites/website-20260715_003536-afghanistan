@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /iran-889224-index/
 description: Focused pages that expand on How Iran's Most Famous Hoaxes Were Exposed.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Iran_889224
 parent_title: How Iran's Most Famous Hoaxes Were Exposed

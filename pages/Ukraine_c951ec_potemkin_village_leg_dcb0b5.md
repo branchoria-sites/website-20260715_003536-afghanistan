@@ -234,6 +234,7 @@ prev_link:
   short_title: Forged Antiquities
   heading_title: How Modern Fakes Became Ancient Ukrainian Treasures
 date: '2026-07-15 00:10:22 '
+last_modified_at: '2026-07-15 00:10:22 '
 header:
   og_image: /assets/images/Ukraine_c951ec_potemkin_village_leg_dcb0b5-Illustration-1-social.jpg
   preview_image: /assets/images/Ukraine_c951ec_potemkin_village_leg_dcb0b5-Illustration-1.webp

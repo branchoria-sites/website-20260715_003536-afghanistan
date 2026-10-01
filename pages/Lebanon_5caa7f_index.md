@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /lebanon-5caa7f-index/
 description: Focused pages that expand on How False Evidence Took Hold in Lebanon.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Lebanon_5caa7f
 parent_title: How False Evidence Took Hold in Lebanon

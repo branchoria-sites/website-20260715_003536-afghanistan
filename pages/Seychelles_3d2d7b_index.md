@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /seychelles-3d2d7b-index/
 description: Focused pages that expand on Which Seychelles Mysteries Were Ever Really....
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Seychelles_3d2d7b
 parent_title: Which Seychelles Mysteries Were Ever Really...

@@ -234,6 +234,7 @@ prev_link:
   short_title: Mary Toft
   heading_title: How Doctors Came to Believe the Rabbit Births
 date: '2026-07-15 00:11:18 '
+last_modified_at: '2026-07-15 00:11:18 '
 header:
   og_image: /assets/images/United_Kingdom_d25561_piltdown_man_forgery_7acae9-Illustration-1-social.jpg
   preview_image: /assets/images/United_Kingdom_d25561_piltdown_man_forgery_7acae9-Illustration-1.webp

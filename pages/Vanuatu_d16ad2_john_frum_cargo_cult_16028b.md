@@ -240,6 +240,7 @@ next_link:
   short_title: Prince Philip
   heading_title: Did Tanna Villagers Worship Prince Philip?
 date: '2026-07-15 00:10:48 '
+last_modified_at: '2026-07-15 00:10:48 '
 header:
   og_image: /assets/images/Vanuatu_d16ad2_john_frum_cargo_cult_16028b-Illustration-1-social.jpg
   preview_image: /assets/images/Vanuatu_d16ad2_john_frum_cargo_cult_16028b-Illustration-1.webp

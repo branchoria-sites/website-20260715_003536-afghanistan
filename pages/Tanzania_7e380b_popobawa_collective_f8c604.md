@@ -234,6 +234,7 @@ prev_link:
   short_title: Oldoway Man
   heading_title: How an Ordinary Burial Became Prehistoric
 date: '2026-07-15 00:10:29 '
+last_modified_at: '2026-07-15 00:10:29 '
 header:
   og_image: /assets/images/Tanzania_7e380b_popobawa_collective_f8c604-Illustration-1-social.jpg
   preview_image: /assets/images/Tanzania_7e380b_popobawa_collective_f8c604-Illustration-1.webp

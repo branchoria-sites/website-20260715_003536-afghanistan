@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /guyana-bc88a2-index/
 description: Focused pages that expand on When False Stories Became Powerful in Guyana.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Guyana_bc88a2
 parent_title: When False Stories Became Powerful in Guyana

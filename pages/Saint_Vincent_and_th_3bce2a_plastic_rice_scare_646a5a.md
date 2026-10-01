@@ -234,6 +234,7 @@ prev_link:
   short_title: Eruption Rumours
   heading_title: How Rumours Spread During the La Soufriere Eruption
 date: '2026-07-15 00:07:38 '
+last_modified_at: '2026-07-15 00:07:38 '
 header:
   og_image: /assets/images/Saint_Vincent_and_th_3bce2a_plastic_rice_scare_646a5a-Illustration-1-social.jpg
   preview_image: /assets/images/Saint_Vincent_and_th_3bce2a_plastic_rice_scare_646a5a-Illustration-1.webp

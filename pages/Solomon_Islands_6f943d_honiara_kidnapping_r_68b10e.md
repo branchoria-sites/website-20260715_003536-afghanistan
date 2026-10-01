@@ -234,6 +234,7 @@ prev_link:
   short_title: Giant Legends
   heading_title: Do Giants Really Hide in Guadalcanal?
 date: '2026-07-15 00:08:36 '
+last_modified_at: '2026-07-15 00:08:36 '
 header:
   og_image: /assets/images/Solomon_Islands_6f943d_honiara_kidnapping_r_68b10e-Illustration-1-social.jpg
   preview_image: /assets/images/Solomon_Islands_6f943d_honiara_kidnapping_r_68b10e-Illustration-1.webp

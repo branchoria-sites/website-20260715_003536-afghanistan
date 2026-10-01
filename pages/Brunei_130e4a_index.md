@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /brunei-130e4a-index/
 description: Focused pages that expand on How False Claims Gained Authority in Brunei.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Brunei_130e4a
 parent_title: How False Claims Gained Authority in Brunei

@@ -240,6 +240,7 @@ next_link:
   short_title: Passports and Fund
   heading_title: How False Promises Cost Tonga Millions
 date: '2026-07-15 00:09:44 '
+last_modified_at: '2026-07-15 00:09:44 '
 header:
   og_image: /assets/images/Tonga_e8a123_republic_of_minerva_2f6fba-Illustration-1-social.jpg
   preview_image: /assets/images/Tonga_e8a123_republic_of_minerva_2f6fba-Illustration-1.webp
