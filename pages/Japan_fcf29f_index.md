@@ -6,8 +6,8 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /japan-fcf29f-index/
 description: Focused pages that expand on How Japan's Most Famous Hoaxes Fell Apart.
-date: '2026'
-last_modified_at: '2026'
+date: '2026-01-01 00:00:00'
+last_modified_at: '2026-01-01 00:00:00'
 layout: default
 parent_basename: Japan_fcf29f
 parent_title: How Japan's Most Famous Hoaxes Fell Apart

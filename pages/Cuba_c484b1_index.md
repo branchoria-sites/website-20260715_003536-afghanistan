@@ -7,8 +7,8 @@ nav_short_title: Sub-Topic Index
 permalink: /cuba-c484b1-index/
 description: Focused pages that expand on When Cuba's Most Powerful Stories Outran
   the....
-date: '2026'
-last_modified_at: '2026'
+date: '2026-01-01 00:00:00'
+last_modified_at: '2026-01-01 00:00:00'
 layout: default
 parent_basename: Cuba_c484b1
 parent_title: When Cuba's Most Powerful Stories Outran the...

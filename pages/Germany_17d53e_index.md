@@ -6,8 +6,8 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /germany-17d53e-index/
 description: Focused pages that expand on Why Germany's Most Famous Hoaxes Worked.
-date: '2026'
-last_modified_at: '2026'
+date: '2026-01-01 00:00:00'
+last_modified_at: '2026-01-01 00:00:00'
 layout: default
 parent_basename: Germany_17d53e
 parent_title: Why Germany's Most Famous Hoaxes Worked

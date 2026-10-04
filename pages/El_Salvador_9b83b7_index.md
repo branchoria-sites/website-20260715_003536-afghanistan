@@ -6,8 +6,8 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /el-salvador-9b83b7-index/
 description: Focused pages that expand on When False Stories Shaped El Salvador.
-date: '2026'
-last_modified_at: '2026'
+date: '2026-01-01 00:00:00'
+last_modified_at: '2026-01-01 00:00:00'
 layout: default
 parent_basename: El_Salvador_9b83b7
 parent_title: When False Stories Shaped El Salvador

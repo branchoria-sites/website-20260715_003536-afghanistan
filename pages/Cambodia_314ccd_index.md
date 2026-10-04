@@ -6,8 +6,8 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /cambodia-314ccd-index/
 description: Focused pages that expand on How Cambodia's Most Famous Deceptions Took....
-date: '2026'
-last_modified_at: '2026'
+date: '2026-01-01 00:00:00'
+last_modified_at: '2026-01-01 00:00:00'
 layout: default
 parent_basename: Cambodia_314ccd
 parent_title: How Cambodia's Most Famous Deceptions Took...
