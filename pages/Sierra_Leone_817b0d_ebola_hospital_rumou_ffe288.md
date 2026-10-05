@@ -234,6 +234,7 @@ next_link:
   short_title: Fake Degrees
   heading_title: When Academic Ceremony Hid an Unrecognised Degree
 date: '2026-07-15 00:08:14 '
+last_modified_at: '2026-07-15 00:08:14 '
 header:
   og_image: /assets/images/Sierra_Leone_817b0d_ebola_hospital_rumou_ffe288-Illustration-1-social.jpg
   preview_image: /assets/images/Sierra_Leone_817b0d_ebola_hospital_rumou_ffe288-Illustration-1.webp

@@ -234,6 +234,7 @@ next_link:
   short_title: Lost City
   heading_title: Did Farini Mistake Rocks for a Lost City?
 date: '2026-07-15 00:08:42 '
+last_modified_at: '2026-07-15 00:08:42 '
 header:
   og_image: /assets/images/South_Africa_3b27c8_kruger_millions_lege_b0e692-Illustration-1-social.jpg
   preview_image: /assets/images/South_Africa_3b27c8_kruger_millions_lege_b0e692-Illustration-1.webp

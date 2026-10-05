@@ -1180,6 +1180,7 @@ next_link:
   permalink: /united-arab-emirates/
   short_title: UAE Hoaxes
 date: '2026-07-15 00:10:19 '
+last_modified_at: '2026-07-15 00:10:19 '
 header:
   og_image: /assets/images/Ukraine_c951ec-overview-social.jpg
   preview_image: /assets/images/Ukraine_c951ec-overview.webp

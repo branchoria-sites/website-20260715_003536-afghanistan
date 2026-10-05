@@ -198,6 +198,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-07-12 06:55:41'
+last_modified_at: '2026-07-12 06:55:41'
 parent_title: Costa Rica Hoaxes
 parent_permalink: /costa-ricas-most-persistent-hoaxes-and/
 parent_nav_short_title: Costa Rica Hoaxes

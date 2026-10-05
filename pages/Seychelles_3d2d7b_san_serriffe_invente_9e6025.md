@@ -240,6 +240,7 @@ next_link:
   short_title: La Buse Treasure
   heading_title: Was La Buse's Treasure Map Ever Genuine?
 date: '2026-07-15 00:08:12 '
+last_modified_at: '2026-07-15 00:08:12 '
 header:
   og_image: /assets/images/Seychelles_3d2d7b_san_serriffe_invente_9e6025-Illustration-1-social.jpg
   preview_image: /assets/images/Seychelles_3d2d7b_san_serriffe_invente_9e6025-Illustration-1.webp

@@ -1180,6 +1180,7 @@ next_link:
   permalink: /uzbekistan/
   short_title: Uzbekistan Hoaxes
 date: '2026-07-15 00:10:32 '
+last_modified_at: '2026-07-15 00:10:32 '
 header:
   og_image: /assets/images/United_States_f5f19f-overview-social.jpg
   preview_image: /assets/images/United_States_f5f19f-overview.webp

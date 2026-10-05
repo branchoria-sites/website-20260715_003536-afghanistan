@@ -1180,6 +1180,7 @@ next_link:
   permalink: /what-eritreas-most-famous-fakes-reveal/
   short_title: Eritrea
 date: '2026-07-15 00:10:54 '
+last_modified_at: '2026-07-15 00:10:54 '
 header:
   og_image: /assets/images/Vietnam_681101-overview-social.jpg
   preview_image: /assets/images/Vietnam_681101-overview.webp

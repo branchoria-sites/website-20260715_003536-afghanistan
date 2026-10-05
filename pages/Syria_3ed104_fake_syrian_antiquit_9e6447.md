@@ -234,6 +234,7 @@ next_link:
   short_title: Orphan Photo
   heading_title: How One False Caption Rewrote a Photograph
 date: '2026-07-15 00:09:22 '
+last_modified_at: '2026-07-15 00:09:22 '
 header:
   og_image: /assets/images/Syria_3ed104_fake_syrian_antiquit_9e6447-Illustration-1-social.jpg
   preview_image: /assets/images/Syria_3ed104_fake_syrian_antiquit_9e6447-Illustration-1.webp

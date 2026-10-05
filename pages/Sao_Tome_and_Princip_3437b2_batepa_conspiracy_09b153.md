@@ -234,6 +234,7 @@ next_link:
   short_title: Cocoa Labour
   heading_title: Were Sao Tome's Cocoa Workers Really Free?
 date: '2026-07-15 00:07:52 '
+last_modified_at: '2026-07-15 00:07:52 '
 header:
   og_image: /assets/images/Sao_Tome_and_Princip_3437b2_batepa_conspiracy_09b153-Illustration-1-social.jpg
   preview_image: /assets/images/Sao_Tome_and_Princip_3437b2_batepa_conspiracy_09b153-Illustration-1.webp

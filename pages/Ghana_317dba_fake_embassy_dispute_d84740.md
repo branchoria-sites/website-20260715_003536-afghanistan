@@ -198,6 +198,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-07-12 17:02:37'
+last_modified_at: '2026-07-12 17:02:37'
 parent_title: Ghana Hoaxes
 parent_permalink: /how-ghanas-most-famous-hoaxes-won-belief/
 parent_nav_short_title: Ghana Hoaxes

@@ -234,6 +234,7 @@ prev_link:
   short_title: Invented Islands
   heading_title: How Did a Fake Island Seem Real?
 date: '2026-07-15 00:08:10 '
+last_modified_at: '2026-07-15 00:08:10 '
 header:
   og_image: /assets/images/Seychelles_3d2d7b_la_buse_treasure_cry_7003b2-Illustration-1-social.jpg
   preview_image: /assets/images/Seychelles_3d2d7b_la_buse_treasure_cry_7003b2-Illustration-1.webp

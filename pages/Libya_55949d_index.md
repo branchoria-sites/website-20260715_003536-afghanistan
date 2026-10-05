@@ -6,7 +6,8 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /libya-55949d-index/
 description: Focused pages that expand on How False Stories Took Hold in Libya.
-date: '2026'
+date: '2026-01-01 00:00:00'
+last_modified_at: '2026-01-01 00:00:00'
 layout: default
 parent_basename: Libya_55949d
 parent_title: How False Stories Took Hold in Libya

@@ -240,6 +240,7 @@ next_link:
   short_title: Media Wonders
   heading_title: When Did Folklore and Physics Become Breaking News?
 date: '2026-07-15 00:08:06 '
+last_modified_at: '2026-07-15 00:08:06 '
 header:
   og_image: /assets/images/Serbia_6d31bf_martinovic_political_4785ff-Illustration-1-social.jpg
   preview_image: /assets/images/Serbia_6d31bf_martinovic_political_4785ff-Illustration-1.webp

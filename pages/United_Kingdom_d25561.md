@@ -1180,6 +1180,7 @@ next_link:
   permalink: /united-states/
   short_title: American Hoaxes
 date: '2026-07-15 00:11:15 '
+last_modified_at: '2026-07-15 00:11:15 '
 header:
   og_image: /assets/images/United_Kingdom_d25561-overview-social.jpg
   preview_image: /assets/images/United_Kingdom_d25561-overview.webp

@@ -198,6 +198,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-07-14 00:42:50'
+last_modified_at: '2026-07-14 00:42:50'
 parent_title: Moldova Deceptions
 parent_permalink: /how-false-stories-took-hold-in-moldova/
 parent_nav_short_title: Moldova Deceptions

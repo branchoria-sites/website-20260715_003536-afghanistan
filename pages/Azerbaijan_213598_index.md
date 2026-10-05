@@ -6,7 +6,8 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /azerbaijan-213598-index/
 description: Focused pages that expand on How Contested Stories Shaped Azerbaijan's....
-date: '2026'
+date: '2026-01-01 00:00:00'
+last_modified_at: '2026-01-01 00:00:00'
 layout: default
 parent_basename: Azerbaijan_213598
 parent_title: How Contested Stories Shaped Azerbaijan's...

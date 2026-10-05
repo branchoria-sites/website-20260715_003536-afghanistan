@@ -1180,6 +1180,7 @@ next_link:
   permalink: /how-thailands-most-famous-deceptions/
   short_title: Thailand Hoaxes
 date: '2026-07-15 00:09:19 '
+last_modified_at: '2026-07-15 00:09:19 '
 header:
   og_image: /assets/images/Syria_3ed104-overview-social.jpg
   preview_image: /assets/images/Syria_3ed104-overview.webp

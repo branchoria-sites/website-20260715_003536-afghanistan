@@ -240,6 +240,7 @@ next_link:
   short_title: Oil Promise
   heading_title: Did Sao Tome Ever Have an Oil Fortune?
 date: '2026-07-15 00:07:53 '
+last_modified_at: '2026-07-15 00:07:53 '
 header:
   og_image: /assets/images/Sao_Tome_and_Princip_3437b2_cocoa_contract_labou_30126f-Illustration-1-social.jpg
   preview_image: /assets/images/Sao_Tome_and_Princip_3437b2_cocoa_contract_labou_30126f-Illustration-1.webp

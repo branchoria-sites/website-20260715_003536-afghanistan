@@ -234,6 +234,7 @@ prev_link:
   short_title: Investment Scams
   heading_title: How Pyramid Promises Turned Hope Into Loss
 date: '2026-07-15 00:07:33 '
+last_modified_at: '2026-07-15 00:07:33 '
 header:
   og_image: /assets/images/Saint_Kitts_and_Nevi_a66de5_whatsapp_account_sca_823cd8-Illustration-1-social.jpg
   preview_image: /assets/images/Saint_Kitts_and_Nevi_a66de5_whatsapp_account_sca_823cd8-Illustration-1.webp

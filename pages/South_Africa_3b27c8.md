@@ -1180,6 +1180,7 @@ next_link:
   permalink: /sri-lanka/
   short_title: Sri Lankan Hoaxes
 date: '2026-07-15 00:08:39 '
+last_modified_at: '2026-07-15 00:08:39 '
 header:
   og_image: /assets/images/South_Africa_3b27c8-overview-social.jpg
   preview_image: /assets/images/South_Africa_3b27c8-overview.webp

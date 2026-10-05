@@ -1180,6 +1180,7 @@ next_link:
   permalink: /which-kiribati-stories-became-bigger/
   short_title: Kiribati
 date: '2026-07-15 00:07:33 '
+last_modified_at: '2026-07-15 00:07:33 '
 header:
   og_image: /assets/images/Saint_Lucia_85ac35-overview-social.jpg
   preview_image: /assets/images/Saint_Lucia_85ac35-overview.webp

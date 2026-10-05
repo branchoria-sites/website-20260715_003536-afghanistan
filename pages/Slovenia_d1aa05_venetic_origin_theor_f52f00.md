@@ -234,6 +234,7 @@ prev_link:
   short_title: Museum Scandal
   heading_title: How Did a National Museum Back Suspected Fakes?
 date: '2026-07-15 00:08:30 '
+last_modified_at: '2026-07-15 00:08:30 '
 header:
   og_image: /assets/images/Slovenia_d1aa05_venetic_origin_theor_f52f00-Illustration-1-social.jpg
   preview_image: /assets/images/Slovenia_d1aa05_venetic_origin_theor_f52f00-Illustration-1.webp

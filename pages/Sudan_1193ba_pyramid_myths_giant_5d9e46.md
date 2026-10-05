@@ -240,6 +240,7 @@ next_link:
   short_title: War Disinformation
   heading_title: How False Images Shaped Sudan's Political Crises
 date: '2026-07-15 00:09:01 '
+last_modified_at: '2026-07-15 00:09:01 '
 header:
   og_image: /assets/images/Sudan_1193ba_pyramid_myths_giant_5d9e46-Illustration-1-social.jpg
   preview_image: /assets/images/Sudan_1193ba_pyramid_myths_giant_5d9e46-Illustration-1.webp

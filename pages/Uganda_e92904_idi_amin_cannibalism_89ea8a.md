@@ -234,6 +234,7 @@ next_link:
   short_title: False Cures
   heading_title: How Bogus HIV Cures Sold False Hope
 date: '2026-07-15 00:10:15 '
+last_modified_at: '2026-07-15 00:10:15 '
 header:
   og_image: /assets/images/Uganda_e92904_idi_amin_cannibalism_89ea8a-Illustration-1-social.jpg
   preview_image: /assets/images/Uganda_e92904_idi_amin_cannibalism_89ea8a-Illustration-1.webp

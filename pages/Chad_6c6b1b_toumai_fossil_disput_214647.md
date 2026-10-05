@@ -198,6 +198,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-07-12 04:48:08'
+last_modified_at: '2026-07-12 04:48:08'
 parent_title: Chad Hoaxes
 parent_permalink: /what-made-chads-most-persistent-false/
 parent_nav_short_title: Chad Hoaxes

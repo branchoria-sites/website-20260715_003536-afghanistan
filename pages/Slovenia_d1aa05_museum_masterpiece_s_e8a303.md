@@ -240,6 +240,7 @@ next_link:
   short_title: Venetic Theory
   heading_title: Were Slovenes Really Descended From the Ancient Veneti?
 date: '2026-07-15 00:08:28 '
+last_modified_at: '2026-07-15 00:08:28 '
 header:
   og_image: /assets/images/Slovenia_d1aa05_museum_masterpiece_s_e8a303-Illustration-1-social.jpg
   preview_image: /assets/images/Slovenia_d1aa05_museum_masterpiece_s_e8a303-Illustration-1.webp

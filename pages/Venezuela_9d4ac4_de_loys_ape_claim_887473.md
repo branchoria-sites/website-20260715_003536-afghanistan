@@ -234,6 +234,7 @@ next_link:
   short_title: Election Claims
   heading_title: When Do Election Suspicions Become Evidence?
 date: '2026-07-15 00:10:52 '
+last_modified_at: '2026-07-15 00:10:52 '
 header:
   og_image: /assets/images/Venezuela_9d4ac4_de_loys_ape_claim_887473-Illustration-1-social.jpg
   preview_image: /assets/images/Venezuela_9d4ac4_de_loys_ape_claim_887473-Illustration-1.webp

@@ -6,7 +6,8 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /ecuador-09f199-index/
 description: Focused pages that expand on How Ecuador's Strangest Hoaxes Won Belief.
-date: '2026'
+date: '2026-01-01 00:00:00'
+last_modified_at: '2026-01-01 00:00:00'
 layout: default
 parent_basename: Ecuador_09f199
 parent_title: How Ecuador's Strangest Hoaxes Won Belief

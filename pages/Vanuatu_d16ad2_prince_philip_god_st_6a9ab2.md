@@ -234,6 +234,7 @@ prev_link:
   short_title: John Frum
   heading_title: Was John Frum Really a Cargo Cult?
 date: '2026-07-15 00:10:47 '
+last_modified_at: '2026-07-15 00:10:47 '
 header:
   og_image: /assets/images/Vanuatu_d16ad2_prince_philip_god_st_6a9ab2-Illustration-1-social.jpg
   preview_image: /assets/images/Vanuatu_d16ad2_prince_philip_god_st_6a9ab2-Illustration-1.webp

@@ -6,7 +6,8 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /canada-cd6a7b-index/
 description: Focused pages that expand on Why Canada's Most Convincing Hoaxes Worked.
-date: '2026'
+date: '2026-01-01 00:00:00'
+last_modified_at: '2026-01-01 00:00:00'
 layout: default
 parent_basename: Canada_cd6a7b
 parent_title: Why Canada's Most Convincing Hoaxes Worked

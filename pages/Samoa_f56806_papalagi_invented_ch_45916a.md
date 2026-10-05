@@ -234,6 +234,7 @@ prev_link:
   short_title: Moana
   heading_title: How Much of Moana Was Really Documentary?
 date: '2026-07-15 00:07:44 '
+last_modified_at: '2026-07-15 00:07:44 '
 header:
   og_image: /assets/images/Samoa_f56806_papalagi_invented_ch_45916a-Illustration-1-social.jpg
   preview_image: /assets/images/Samoa_f56806_papalagi_invented_ch_45916a-Illustration-1.webp

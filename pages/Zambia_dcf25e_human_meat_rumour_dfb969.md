@@ -240,6 +240,7 @@ next_link:
   short_title: Kongamato
   heading_title: Did a Flying Reptile Haunt Western Zambia?
 date: '2026-07-15 00:11:04 '
+last_modified_at: '2026-07-15 00:11:04 '
 header:
   og_image: /assets/images/Zambia_dcf25e_human_meat_rumour_dfb969-Illustration-1-social.jpg
   preview_image: /assets/images/Zambia_dcf25e_human_meat_rumour_dfb969-Illustration-1.webp

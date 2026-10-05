@@ -240,6 +240,7 @@ next_link:
   short_title: Pamir Wild Man
   heading_title: Did Soviet Scientists Hunt a Pamir Wild Man?
 date: '2026-07-15 00:09:28 '
+last_modified_at: '2026-07-15 00:09:28 '
 header:
   og_image: /assets/images/Tajikistan_279c77_false_militant_death_42cba3-Illustration-1-social.jpg
   preview_image: /assets/images/Tajikistan_279c77_false_militant_death_42cba3-Illustration-1.webp

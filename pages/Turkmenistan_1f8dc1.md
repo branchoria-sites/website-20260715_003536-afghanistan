@@ -1180,6 +1180,7 @@ next_link:
   permalink: /when-official-stories-became-belaruss/
   short_title: Belarus Hoaxes
 date: '2026-07-15 00:10:02 '
+last_modified_at: '2026-07-15 00:10:02 '
 header:
   og_image: /assets/images/Turkmenistan_1f8dc1-overview-social.jpg
   preview_image: /assets/images/Turkmenistan_1f8dc1-overview.webp

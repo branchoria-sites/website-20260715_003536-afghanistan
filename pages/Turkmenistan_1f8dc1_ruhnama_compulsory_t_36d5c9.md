@@ -240,6 +240,7 @@ next_link:
   short_title: Zero COVID
   heading_title: Could Turkmenistan Really Have Had Zero COVID?
 date: '2026-07-15 00:10:05 '
+last_modified_at: '2026-07-15 00:10:05 '
 header:
   og_image: /assets/images/Turkmenistan_1f8dc1_ruhnama_compulsory_t_36d5c9-Illustration-1-social.jpg
   preview_image: /assets/images/Turkmenistan_1f8dc1_ruhnama_compulsory_t_36d5c9-Illustration-1.webp

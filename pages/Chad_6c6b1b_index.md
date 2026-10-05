@@ -6,7 +6,8 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /chad-6c6b1b-index/
 description: Focused pages that expand on What Made Chad's Most Persistent False....
-date: '2026'
+date: '2026-01-01 00:00:00'
+last_modified_at: '2026-01-01 00:00:00'
 layout: default
 parent_basename: Chad_6c6b1b
 parent_title: What Made Chad's Most Persistent False...

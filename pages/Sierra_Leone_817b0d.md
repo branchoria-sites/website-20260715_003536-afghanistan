@@ -1180,6 +1180,7 @@ next_link:
   permalink: /when-false-claims-gained-power-in-gambia/
   short_title: Gambia
 date: '2026-07-15 00:08:12 '
+last_modified_at: '2026-07-15 00:08:12 '
 header:
   og_image: /assets/images/Sierra_Leone_817b0d-overview-social.jpg
   preview_image: /assets/images/Sierra_Leone_817b0d-overview.webp

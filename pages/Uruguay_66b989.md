@@ -1180,6 +1180,7 @@ next_link:
   permalink: /how-false-stories-put-niger-on-the-map/
   short_title: Niger
 date: '2026-07-15 00:10:36 '
+last_modified_at: '2026-07-15 00:10:36 '
 header:
   og_image: /assets/images/Uruguay_66b989-overview-social.jpg
   preview_image: /assets/images/Uruguay_66b989-overview.webp

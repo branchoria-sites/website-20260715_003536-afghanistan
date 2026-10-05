@@ -234,6 +234,7 @@ next_link:
   short_title: False King
   heading_title: Was Francois Ayi Really a King?
 date: '2026-07-15 00:09:39 '
+last_modified_at: '2026-07-15 00:09:39 '
 header:
   og_image: /assets/images/Togo_30949d_togo_false_images_3b40bb-Illustration-1-social.jpg
   preview_image: /assets/images/Togo_30949d_togo_false_images_3b40bb-Illustration-1.webp

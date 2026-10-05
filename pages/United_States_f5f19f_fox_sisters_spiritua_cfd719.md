@@ -240,6 +240,7 @@ next_link:
   short_title: Media Spectacles
   heading_title: How Sensational Hoaxes Turned Curiosity Into Cash
 date: '2026-07-15 00:10:33 '
+last_modified_at: '2026-07-15 00:10:33 '
 header:
   og_image: /assets/images/United_States_f5f19f_fox_sisters_spiritua_cfd719-Illustration-1-social.jpg
   preview_image: /assets/images/United_States_f5f19f_fox_sisters_spiritua_cfd719-Illustration-1.webp

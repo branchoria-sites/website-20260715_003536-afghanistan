@@ -240,6 +240,7 @@ next_link:
   short_title: The Ik
   heading_title: How Were the Ik Branded as Selfish?
 date: '2026-07-15 00:10:17 '
+last_modified_at: '2026-07-15 00:10:17 '
 header:
   og_image: /assets/images/Uganda_e92904_uganda_bogus_hiv_cur_8e295d-Illustration-1-social.jpg
   preview_image: /assets/images/Uganda_e92904_uganda_bogus_hiv_cur_8e295d-Illustration-1.webp

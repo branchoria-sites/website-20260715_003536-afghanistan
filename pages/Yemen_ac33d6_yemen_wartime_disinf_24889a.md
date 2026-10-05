@@ -240,6 +240,7 @@ next_link:
   short_title: Well of Barhout
   heading_title: Was Yemen's Well of Hell Really a Hoax?
 date: '2026-07-15 00:11:00 '
+last_modified_at: '2026-07-15 00:11:00 '
 header:
   og_image: /assets/images/Yemen_ac33d6_yemen_wartime_disinf_24889a-Illustration-1-social.jpg
   preview_image: /assets/images/Yemen_ac33d6_yemen_wartime_disinf_24889a-Illustration-1.webp

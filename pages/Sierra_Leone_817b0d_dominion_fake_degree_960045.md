@@ -240,6 +240,7 @@ next_link:
   short_title: Mineral Scams
   heading_title: Why Sierra Leone's Cheap Gold Deals Looked Real
 date: '2026-07-15 00:08:13 '
+last_modified_at: '2026-07-15 00:08:13 '
 header:
   og_image: /assets/images/Sierra_Leone_817b0d_dominion_fake_degree_960045-Illustration-1-social.jpg
   preview_image: /assets/images/Sierra_Leone_817b0d_dominion_fake_degree_960045-Illustration-1.webp

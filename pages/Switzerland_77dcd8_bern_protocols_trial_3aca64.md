@@ -234,6 +234,7 @@ next_link:
   short_title: Staged Miracles
   heading_title: How Bern's Monks Manufactured a Miracle
 date: '2026-07-15 00:09:17 '
+last_modified_at: '2026-07-15 00:09:17 '
 header:
   og_image: /assets/images/Switzerland_77dcd8_bern_protocols_trial_3aca64-Illustration-1-social.jpg
   preview_image: /assets/images/Switzerland_77dcd8_bern_protocols_trial_3aca64-Illustration-1.webp

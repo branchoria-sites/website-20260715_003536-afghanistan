@@ -234,6 +234,7 @@ next_link:
   short_title: Invented History
   heading_title: How a False History Became a Total Conspiracy
 date: '2026-07-15 00:11:13 '
+last_modified_at: '2026-07-15 00:11:13 '
 header:
   og_image: /assets/images/Rwanda_7266a1_bugesera_false_radio_de23b8-Illustration-1-social.jpg
   preview_image: /assets/images/Rwanda_7266a1_bugesera_false_radio_de23b8-Illustration-1.webp

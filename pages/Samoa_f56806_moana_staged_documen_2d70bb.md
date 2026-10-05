@@ -240,6 +240,7 @@ next_link:
   short_title: The Papalagi
   heading_title: Did The Papalagi's Samoan Chief Ever Exist?
 date: '2026-07-15 00:07:44 '
+last_modified_at: '2026-07-15 00:07:44 '
 header:
   og_image: /assets/images/Samoa_f56806_moana_staged_documen_2d70bb-Illustration-1-social.jpg
   preview_image: /assets/images/Samoa_f56806_moana_staged_documen_2d70bb-Illustration-1.webp

@@ -234,6 +234,7 @@ prev_link:
   short_title: Ruhnama
   heading_title: How the Ruhnama Became Compulsory Truth
 date: '2026-07-15 00:10:04 '
+last_modified_at: '2026-07-15 00:10:04 '
 header:
   og_image: /assets/images/Turkmenistan_1f8dc1_zero_covid_claim_e8c26f-Illustration-1-social.jpg
   preview_image: /assets/images/Turkmenistan_1f8dc1_zero_covid_claim_e8c26f-Illustration-1.webp

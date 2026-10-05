@@ -234,6 +234,7 @@ prev_link:
   short_title: Digital Tuvalu
   heading_title: Was Tuvalu Really Moving Into the Metaverse?
 date: '2026-07-15 00:10:12 '
+last_modified_at: '2026-07-15 00:10:12 '
 header:
   og_image: /assets/images/Tuvalu_9a2248_tuvalu_sinking_myth_ad8dc3-Illustration-1-social.jpg
   preview_image: /assets/images/Tuvalu_9a2248_tuvalu_sinking_myth_ad8dc3-Illustration-1.webp

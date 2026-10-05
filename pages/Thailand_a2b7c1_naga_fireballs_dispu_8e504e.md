@@ -234,6 +234,7 @@ prev_link:
   short_title: Krao Farini
   heading_title: How Krao Became a Victorian Missing Link
 date: '2026-07-15 00:09:32 '
+last_modified_at: '2026-07-15 00:09:32 '
 header:
   og_image: /assets/images/Thailand_a2b7c1_naga_fireballs_dispu_8e504e-Illustration-1-social.jpg
   preview_image: /assets/images/Thailand_a2b7c1_naga_fireballs_dispu_8e504e-Illustration-1.webp

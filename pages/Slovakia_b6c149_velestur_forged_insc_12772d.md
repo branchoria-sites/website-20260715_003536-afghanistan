@@ -234,6 +234,7 @@ prev_link:
   short_title: Moonshaft
   heading_title: Was the Moonshaft Ever Really There?
 date: '2026-07-15 00:08:25 '
+last_modified_at: '2026-07-15 00:08:25 '
 header:
   og_image: /assets/images/Slovakia_b6c149_velestur_forged_insc_12772d-Illustration-1-social.jpg
   preview_image: /assets/images/Slovakia_b6c149_velestur_forged_insc_12772d-Illustration-1.webp

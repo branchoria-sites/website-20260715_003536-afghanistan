@@ -6,7 +6,8 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /serbia-6d31bf-index/
 description: Focused pages that expand on How Did Serbia's Strangest Stories Become....
-date: '2026'
+date: '2026-01-01 00:00:00'
+last_modified_at: '2026-01-01 00:00:00'
 layout: default
 parent_basename: Serbia_6d31bf
 parent_title: How Did Serbia's Strangest Stories Become...

@@ -1180,6 +1180,7 @@ next_link:
   permalink: /which-vanuatu-stories-were-distorted-or/
   short_title: Vanuatu
 date: '2026-07-15 00:09:47 '
+last_modified_at: '2026-07-15 00:09:47 '
 header:
   og_image: /assets/images/Trinidad_and_Tobago_a73120-overview-social.jpg
   preview_image: /assets/images/Trinidad_and_Tobago_a73120-overview.webp

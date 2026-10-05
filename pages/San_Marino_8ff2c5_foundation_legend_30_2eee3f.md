@@ -240,6 +240,7 @@ next_link:
   short_title: Ventoso Stones
   heading_title: Was San Marino's Stonehenge Ever Real?
 date: '2026-07-15 00:07:48 '
+last_modified_at: '2026-07-15 00:07:48 '
 header:
   og_image: /assets/images/San_Marino_8ff2c5_foundation_legend_30_2eee3f-Illustration-1-social.jpg
   preview_image: /assets/images/San_Marino_8ff2c5_foundation_legend_30_2eee3f-Illustration-1.webp

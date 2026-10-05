@@ -6,7 +6,8 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /ethiopia-3d91f7-index/
 description: Focused pages that expand on When False Stories Remade Ethiopia Abroad.
-date: '2026'
+date: '2026-01-01 00:00:00'
+last_modified_at: '2026-01-01 00:00:00'
 layout: default
 parent_basename: Ethiopia_3d91f7
 parent_title: When False Stories Remade Ethiopia Abroad

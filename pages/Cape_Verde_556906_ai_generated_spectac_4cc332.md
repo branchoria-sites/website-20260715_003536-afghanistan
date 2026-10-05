@@ -198,6 +198,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-07-12 01:44:36'
+last_modified_at: '2026-07-12 01:44:36'
 parent_title: Cape Verde Hoaxes
 parent_permalink: /how-deception-took-hold-in-cape-verde/
 parent_nav_short_title: Cape Verde Hoaxes

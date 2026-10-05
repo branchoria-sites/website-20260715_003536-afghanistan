@@ -234,6 +234,7 @@ next_link:
   short_title: National Legends
   heading_title: When Singapore's Symbols Began to Feel Ancient
 date: '2026-07-15 00:08:17 '
+last_modified_at: '2026-07-15 00:08:17 '
 header:
   og_image: /assets/images/Singapore_20c0b7_monster_scares_410745-Illustration-1-social.jpg
   preview_image: /assets/images/Singapore_20c0b7_monster_scares_410745-Illustration-1.webp

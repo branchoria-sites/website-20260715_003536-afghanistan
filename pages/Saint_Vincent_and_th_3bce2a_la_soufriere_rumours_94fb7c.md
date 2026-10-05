@@ -240,6 +240,7 @@ next_link:
   short_title: Plastic Rice
   heading_title: Was Plastic Rice Ever Sold in Saint Vincent?
 date: '2026-07-15 00:07:40 '
+last_modified_at: '2026-07-15 00:07:40 '
 header:
   og_image: /assets/images/Saint_Vincent_and_th_3bce2a_la_soufriere_rumours_94fb7c-Illustration-1-social.jpg
   preview_image: /assets/images/Saint_Vincent_and_th_3bce2a_la_soufriere_rumours_94fb7c-Illustration-1.webp

@@ -1180,6 +1180,7 @@ next_link:
   permalink: /how-djibouti-became-a-stage-for-modern/
   short_title: Djibouti
 date: '2026-07-15 00:08:03 '
+last_modified_at: '2026-07-15 00:08:03 '
 header:
   og_image: /assets/images/Serbia_6d31bf-overview-social.jpg
   preview_image: /assets/images/Serbia_6d31bf-overview.webp

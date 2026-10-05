@@ -240,6 +240,7 @@ next_link:
   short_title: Treasure Scams
   heading_title: Why Planted Treasures Looked More Convincing Than Real Ones
 date: '2026-07-15 00:09:59 '
+last_modified_at: '2026-07-15 00:09:59 '
 header:
   og_image: /assets/images/Turkey_d7153e_mellaart_disputed_di_ee4e69-Illustration-1-social.jpg
   preview_image: /assets/images/Turkey_d7153e_mellaart_disputed_di_ee4e69-Illustration-1.webp

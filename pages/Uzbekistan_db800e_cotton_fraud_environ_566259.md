@@ -240,6 +240,7 @@ next_link:
   short_title: Timur s Curse
   heading_title: Did Opening Timur's Tomb Really Unleash War?
 date: '2026-07-15 00:10:44 '
+last_modified_at: '2026-07-15 00:10:44 '
 header:
   og_image: /assets/images/Uzbekistan_db800e_cotton_fraud_environ_566259-Illustration-1-social.jpg
   preview_image: /assets/images/Uzbekistan_db800e_cotton_fraud_environ_566259-Illustration-1.webp

@@ -1180,6 +1180,7 @@ next_link:
   permalink: /when-uncertainty-became-useful-in/
   short_title: Hungarian Hoaxes
 date: '2026-07-15 00:09:57 '
+last_modified_at: '2026-07-15 00:09:57 '
 header:
   og_image: /assets/images/Turkey_d7153e-overview-social.jpg
   preview_image: /assets/images/Turkey_d7153e-overview.webp

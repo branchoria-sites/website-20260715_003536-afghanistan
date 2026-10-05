@@ -240,6 +240,7 @@ next_link:
   short_title: Killing Cover Stories
   heading_title: When Cameras Broke the Official Story
 date: '2026-07-15 00:09:36 '
+last_modified_at: '2026-07-15 00:09:36 '
 header:
   og_image: /assets/images/Timor-Leste_2d79f6_balibo_declaration_c_8581a7-Illustration-1-social.jpg
   preview_image: /assets/images/Timor-Leste_2d79f6_balibo_declaration_c_8581a7-Illustration-1.webp

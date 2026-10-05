@@ -1180,6 +1180,7 @@ next_link:
   permalink: /how-false-evidence-took-hold-in-lebanon/
   short_title: Lebanon Hoaxes
 date: '2026-07-15 00:08:43 '
+last_modified_at: '2026-07-15 00:08:43 '
 header:
   og_image: /assets/images/South_Sudan_80ac9c-overview-social.jpg
   preview_image: /assets/images/South_Sudan_80ac9c-overview.webp

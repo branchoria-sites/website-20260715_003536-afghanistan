@@ -240,6 +240,7 @@ next_link:
   short_title: Travel Rumours
   heading_title: How Real Travel Rules Became False Alarms
 date: '2026-07-15 00:07:37 '
+last_modified_at: '2026-07-15 00:07:37 '
 header:
   og_image: /assets/images/Saint_Lucia_85ac35_plastic_cheese_scare_a3659a-Illustration-1-social.jpg
   preview_image: /assets/images/Saint_Lucia_85ac35_plastic_cheese_scare_a3659a-Illustration-1.webp

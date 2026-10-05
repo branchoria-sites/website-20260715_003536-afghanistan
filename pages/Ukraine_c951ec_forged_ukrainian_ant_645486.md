@@ -240,6 +240,7 @@ next_link:
   short_title: Potemkin Villages
   heading_title: Were Potemkin's Famous Fake Villages Ever Real?
 date: '2026-07-15 00:10:21 '
+last_modified_at: '2026-07-15 00:10:21 '
 header:
   og_image: /assets/images/Ukraine_c951ec_forged_ukrainian_ant_645486-Illustration-1-social.jpg
   preview_image: /assets/images/Ukraine_c951ec_forged_ukrainian_ant_645486-Illustration-1.webp

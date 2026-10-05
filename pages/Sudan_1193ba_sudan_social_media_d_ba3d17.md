@@ -234,6 +234,7 @@ prev_link:
   short_title: Pyramid Myths
   heading_title: Which Stories About Sudan's Pyramids Are False?
 date: '2026-07-15 00:09:05 '
+last_modified_at: '2026-07-15 00:09:05 '
 header:
   og_image: /assets/images/Sudan_1193ba_sudan_social_media_d_ba3d17-Illustration-1-social.jpg
   preview_image: /assets/images/Sudan_1193ba_sudan_social_media_d_ba3d17-Illustration-1.webp

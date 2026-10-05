@@ -234,6 +234,7 @@ prev_link:
   short_title: Infertility Scares
   heading_title: Why Sri Lanka's Infertility Rumours Spread
 date: '2026-07-15 00:08:59 '
+last_modified_at: '2026-07-15 00:08:59 '
 header:
   og_image: /assets/images/Sri_Lanka_db33ad_ravana_aircraft_clai_aa3d3d-Illustration-1-social.jpg
   preview_image: /assets/images/Sri_Lanka_db33ad_ravana_aircraft_clai_aa3d3d-Illustration-1.webp

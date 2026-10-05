@@ -1180,6 +1180,7 @@ next_link:
   permalink: /south-africa/
   short_title: South African Hoaxes
 date: '2026-07-15 00:08:26 '
+last_modified_at: '2026-07-15 00:08:26 '
 header:
   og_image: /assets/images/Slovenia_d1aa05-overview-social.jpg
   preview_image: /assets/images/Slovenia_d1aa05-overview.webp

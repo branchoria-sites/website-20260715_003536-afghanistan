@@ -1180,6 +1180,7 @@ next_link:
   permalink: /how-syrias-most-famous-fakes-fooled-the/
   short_title: Syrian Hoaxes
 date: '2026-07-15 00:08:48 '
+last_modified_at: '2026-07-15 00:08:48 '
 header:
   og_image: /assets/images/Spain_20a8df-overview-social.jpg
   preview_image: /assets/images/Spain_20a8df-overview.webp

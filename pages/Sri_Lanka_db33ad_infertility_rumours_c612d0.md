@@ -240,6 +240,7 @@ next_link:
   short_title: Ravana s Aircraft
   heading_title: Did Ravana Really Fly Over Sri Lanka?
 date: '2026-07-15 00:08:56 '
+last_modified_at: '2026-07-15 00:08:56 '
 header:
   og_image: /assets/images/Sri_Lanka_db33ad_infertility_rumours_c612d0-Illustration-1-social.jpg
   preview_image: /assets/images/Sri_Lanka_db33ad_infertility_rumours_c612d0-Illustration-1.webp

@@ -1180,6 +1180,7 @@ next_link:
   permalink: /how-fiji-became-a-perfect-name-for/
   short_title: Fiji Hoaxes
 date: '2026-07-15 00:10:57 '
+last_modified_at: '2026-07-15 00:10:57 '
 header:
   og_image: /assets/images/Yemen_ac33d6-overview-social.jpg
   preview_image: /assets/images/Yemen_ac33d6-overview.webp

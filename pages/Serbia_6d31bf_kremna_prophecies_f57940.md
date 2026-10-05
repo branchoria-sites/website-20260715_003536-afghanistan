@@ -234,6 +234,7 @@ next_link:
   short_title: Martinovic
   heading_title: How Did One Unsolved Injury Become National Myth?
 date: '2026-07-15 00:08:05 '
+last_modified_at: '2026-07-15 00:08:05 '
 header:
   og_image: /assets/images/Serbia_6d31bf_kremna_prophecies_f57940-Illustration-1-social.jpg
   preview_image: /assets/images/Serbia_6d31bf_kremna_prophecies_f57940-Illustration-1.webp

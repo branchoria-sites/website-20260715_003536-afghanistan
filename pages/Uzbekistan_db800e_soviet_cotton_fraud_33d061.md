@@ -234,6 +234,7 @@ next_link:
   short_title: Hidden Damage
   heading_title: What Uzbekistan's Fake Harvests Helped Conceal
 date: '2026-07-15 00:10:44 '
+last_modified_at: '2026-07-15 00:10:44 '
 header:
   og_image: /assets/images/Uzbekistan_db800e_soviet_cotton_fraud_33d061-Illustration-1-social.jpg
   preview_image: /assets/images/Uzbekistan_db800e_soviet_cotton_fraud_33d061-Illustration-1.webp

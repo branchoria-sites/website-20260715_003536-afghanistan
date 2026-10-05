@@ -1180,6 +1180,7 @@ next_link:
   permalink: /how-false-stories-changed-guatemalas/
   short_title: Guatemala Deceptions
 date: '2026-07-15 00:07:59 '
+last_modified_at: '2026-07-15 00:07:59 '
 header:
   og_image: /assets/images/Senegal_d8973b-overview-social.jpg
   preview_image: /assets/images/Senegal_d8973b-overview.webp

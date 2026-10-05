@@ -1180,6 +1180,7 @@ next_link:
   permalink: /when-tonga-became-part-of-the-story/
   short_title: Tonga Hoaxes
 date: '2026-07-15 00:10:27 '
+last_modified_at: '2026-07-15 00:10:27 '
 header:
   og_image: /assets/images/Tanzania_7e380b-overview-social.jpg
   preview_image: /assets/images/Tanzania_7e380b-overview.webp

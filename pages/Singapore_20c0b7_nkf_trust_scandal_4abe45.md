@@ -234,6 +234,7 @@ prev_link:
   short_title: National Legends
   heading_title: When Singapore's Symbols Began to Feel Ancient
 date: '2026-07-15 00:08:20 '
+last_modified_at: '2026-07-15 00:08:20 '
 header:
   og_image: /assets/images/Singapore_20c0b7_nkf_trust_scandal_4abe45-Illustration-1-social.jpg
   preview_image: /assets/images/Singapore_20c0b7_nkf_trust_scandal_4abe45-Illustration-1.webp

@@ -234,6 +234,7 @@ next_link:
   short_title: Mellaart
   heading_title: Could James Mellaart's Lost Discoveries Be Trusted?
 date: '2026-07-15 00:09:58 '
+last_modified_at: '2026-07-15 00:09:58 '
 header:
   og_image: /assets/images/Turkey_d7153e_fake_anatolian_antiq_8c5b27-Illustration-1-social.jpg
   preview_image: /assets/images/Turkey_d7153e_fake_anatolian_antiq_8c5b27-Illustration-1.webp

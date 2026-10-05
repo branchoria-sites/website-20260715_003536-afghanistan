@@ -240,6 +240,7 @@ next_link:
   short_title: Fake Scientist
   heading_title: How a Dictatorship Manufactured a Famous Scientist
 date: '2026-07-15 00:07:22 '
+last_modified_at: '2026-07-15 00:07:22 '
 header:
   og_image: /assets/images/Romania_d6b897_dacian_artefacts_aut_fa6b10-Illustration-1-social.jpg
   preview_image: /assets/images/Romania_d6b897_dacian_artefacts_aut_fa6b10-Illustration-1.webp

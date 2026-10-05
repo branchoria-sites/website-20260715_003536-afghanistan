@@ -198,6 +198,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-07-12 11:57:02'
+last_modified_at: '2026-07-12 11:57:02'
 parent_title: Egypt Hoaxes
 parent_permalink: /how-egypts-most-famous-hoaxes-fooled-the/
 parent_nav_short_title: Egypt Hoaxes

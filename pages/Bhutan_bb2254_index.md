@@ -6,7 +6,8 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /bhutan-bb2254-index/
 description: Focused pages that expand on Bhutan's Strangest Stories of Contested....
-date: '2026'
+date: '2026-01-01 00:00:00'
+last_modified_at: '2026-01-01 00:00:00'
 layout: default
 parent_basename: Bhutan_bb2254
 parent_title: Bhutan's Strangest Stories of Contested...

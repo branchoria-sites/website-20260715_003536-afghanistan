@@ -240,6 +240,7 @@ next_link:
   short_title: Popobawa
   heading_title: Why the Popobawa Panic Spread So Far
 date: '2026-07-15 00:10:30 '
+last_modified_at: '2026-07-15 00:10:30 '
 header:
   og_image: /assets/images/Tanzania_7e380b_oldoway_man_burial_e_689d0c-Illustration-1-social.jpg
   preview_image: /assets/images/Tanzania_7e380b_oldoway_man_burial_e_689d0c-Illustration-1.webp

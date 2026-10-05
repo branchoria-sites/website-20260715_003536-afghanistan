@@ -240,6 +240,7 @@ next_link:
   short_title: Yanbu Photo
   heading_title: Why One Staged Photograph Fit Three Wars
 date: '2026-07-15 00:07:57 '
+last_modified_at: '2026-07-15 00:07:57 '
 header:
   og_image: /assets/images/Saudi_Arabia_8bf7f8_giant_skeleton_saudi_66590a-Illustration-1-social.jpg
   preview_image: /assets/images/Saudi_Arabia_8bf7f8_giant_skeleton_saudi_66590a-Illustration-1.webp

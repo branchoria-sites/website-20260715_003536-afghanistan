@@ -1180,6 +1180,7 @@ next_link:
   permalink: /slovenia/
   short_title: Slovenian Hoaxes
 date: '2026-07-15 00:08:19 '
+last_modified_at: '2026-07-15 00:08:19 '
 header:
   og_image: /assets/images/Slovakia_b6c149-overview-social.jpg
   preview_image: /assets/images/Slovakia_b6c149-overview.webp

@@ -234,6 +234,7 @@ prev_link:
   short_title: Lead Books
   heading_title: Why Granada's Forged Relics Seemed So Convincing
 date: '2026-07-15 00:08:49 '
+last_modified_at: '2026-07-15 00:08:49 '
 header:
   og_image: /assets/images/Spain_20a8df_ummo_alien_hoax_b84654-Illustration-1-social.jpg
   preview_image: /assets/images/Spain_20a8df_ummo_alien_hoax_b84654-Illustration-1.webp

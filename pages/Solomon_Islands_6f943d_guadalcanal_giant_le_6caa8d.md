@@ -240,6 +240,7 @@ next_link:
   short_title: Kidnapping Scare
   heading_title: How False Kidnapping Warnings Frightened Honiara
 date: '2026-07-15 00:08:34 '
+last_modified_at: '2026-07-15 00:08:34 '
 header:
   og_image: /assets/images/Solomon_Islands_6f943d_guadalcanal_giant_le_6caa8d-Illustration-1-social.jpg
   preview_image: /assets/images/Solomon_Islands_6f943d_guadalcanal_giant_le_6caa8d-Illustration-1.webp

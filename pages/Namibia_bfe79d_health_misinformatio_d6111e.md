@@ -198,6 +198,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-07-13 17:09:17'
+last_modified_at: '2026-07-13 17:09:17'
 parent_title: Namibia Hoaxes
 parent_permalink: /when-namibias-strangest-stories-became/
 parent_nav_short_title: Namibia Hoaxes
