@@ -822,7 +822,6 @@ This distinction matters. A forged image can often be exposed through technical 
 13.<a id="endnote-13"></a>
    Source: businessinsider.com  
    Title: Business Insider Phony images of the Taliban's takeover of Afghanistan are  
-   Link:https://www.businessinsider.com/afghanistan-taliban-doctored-images-fake-news-viral-twitter-facebook  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Business InsiderPhony images of the Taliban&#x27;s takeover of Afghanistan are...August 18, 2021 — 18 Aug 2021 — Numerous false or misleading...</p></details>
    Published: August 18, 2021  
 
@@ -863,7 +862,6 @@ This distinction matters. A forged image can often be exposed through technical 
 
 21.<a id="endnote-21"></a>
    Source: indiatoday.in  
-   Link:https://www.indiatoday.in/fact-check/story/fact-check-morphed-photo-man-falling-from-us-military-aircraft-shared-evacuee-kabul-1846281  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>India TodayFact Check: Morphed photo of man falling from US military...28 Aug 2021 — A photo of a man falling from US military aircraft...</p></details>
 
 22.<a id="endnote-22"></a>
